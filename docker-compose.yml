@@ -20,7 +20,7 @@ services:
   unb-portal-backend:
     container_name: unb_portal_backend
     build:
-      context: ..
+      context: .
       target: dev
       dockerfile: Backend/Dockerfile
     depends_on:
@@ -37,13 +37,13 @@ services:
       - Jwt__Audience=${JWT_AUDIENCE}
       - Cors__AllowedOrigins=${FRONTEND_ALLOWED_ORIGINS}
     volumes:
-      - ..:/src
+      - .:/src
       - ~/.aspnet/https:/root/.aspnet/https:ro
 
   unb-portal-frontend:
     container_name: unb_portal_frontend
     build:
-      context: ../Frontend
+      context: ./Frontend
       target: dev
       dockerfile: Dockerfile
     depends_on:
@@ -54,7 +54,7 @@ services:
       - CHOKIDAR_USEPOLLING=true
       - VITE_API_URL=http://localhost:5042
     volumes:
-      - ../Frontend:/app
+      - ./Frontend:/app
       - /app/node_modules
 
 volumes:

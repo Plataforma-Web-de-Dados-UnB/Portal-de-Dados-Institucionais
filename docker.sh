@@ -53,7 +53,7 @@ case "$1" in
   reset)
     echo "Resetando banco de dados..."
     docker-compose down
-    docker volume rm tcc_tcc_postgres_data 2>/dev/null || true
+    docker volume rm tcc_postgres_data 2>/dev/null || true
     docker-compose up -d
     echo "Banco de dados resetado!"
     ;;
