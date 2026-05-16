@@ -1,0 +1,61 @@
+services:
+  unb-portal-postgres:
+    image: postgres:17
+    container_name: unb_portal_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 10s
+      retries: 10
+
+  unb-portal-backend:
+    container_name: unb_portal_backend
+    build:
+      context: ..
+      target: dev
+      dockerfile: Backend/Dockerfile
+    depends_on:
+      unb-portal-postgres:
+        condition: service_healthy
+    ports:
+      - "5042:5042"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://0.0.0.0:5042
+      - ConnectionStrings__DefaultConnection=Host=unb-portal-postgres;Port=5432;Database=${POSTGRES_DB};Username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}
+      - Jwt__Key=${JWT_KEY}
+      - Jwt__Issuer=${JWT_ISSUER}
+      - Jwt__Audience=${JWT_AUDIENCE}
+      - Cors__AllowedOrigins=${FRONTEND_ALLOWED_ORIGINS}
+    volumes:
+      - ..:/src
+      - ~/.aspnet/https:/root/.aspnet/https:ro
+
+  unb-portal-frontend:
+    container_name: unb_portal_frontend
+    build:
+      context: ../Frontend
+      target: dev
+      dockerfile: Dockerfile
+    depends_on:
+      - unb-portal-backend
+    ports:
+      - "5173:5173"
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - VITE_API_URL=http://localhost:5042
+    volumes:
+      - ../Frontend:/app
+      - /app/node_modules
+
+volumes:
+  postgres_data:
