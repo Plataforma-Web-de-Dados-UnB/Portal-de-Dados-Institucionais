@@ -8,14 +8,13 @@ Sistema completo para visualização e gerenciamento de dados públicos da UnB, 
 tcc/
 ├── Backend/           # API REST em .NET 10
 ├── Frontend/          # Interface em React + Vite
-├── ParkManager/       # Projeto de referência
-├── AIDA-Desafio/      # Projeto de referência
 └── docker-compose.yml # Orquestração dos serviços
 ```
 
 ## Tecnologias
 
 ### Backend
+
 - .NET 10.0
 - ASP.NET Core Identity
 - Entity Framework Core
@@ -24,6 +23,7 @@ tcc/
 - Swagger/OpenAPI
 
 ### Frontend
+
 - React 19
 - TypeScript
 - Vite
@@ -48,6 +48,7 @@ docker-compose up -d
 ```
 
 Isso irá iniciar:
+
 - **PostgreSQL** na porta 5432
 - **Backend API** na porta 5042
 - **Frontend** na porta 5173
@@ -143,14 +144,17 @@ dotnet ef migrations add NomeDaMigration
 ## API Endpoints
 
 ### Autenticação (Público)
+
 - `POST /Usuario/register` - Cadastro
 - `POST /Usuario/login` - Login
 
 ### Perfil (Autenticado)
+
 - `GET /Usuario/perfil` - Ver perfil
 - `PUT /Usuario/senha` - Redefinir senha
 
 ### Administração (SuperAdmin)
+
 - `GET /Admin/usuarios` - Listar administradores
 - `GET /Admin/usuarios/{id}` - Detalhes
 - `PUT /Admin/usuarios/{id}/status` - Aprovar/rejeitar/revogar
@@ -163,8 +167,8 @@ Se alguma porta estiver em uso, edite o `docker-compose.yml`:
 
 ```yaml
 ports:
-  - "NOVA_PORTA:5042"  # Para o backend
-  - "NOVA_PORTA:5173"  # Para o frontend
+  - "NOVA_PORTA:5042" # Para o backend
+  - "NOVA_PORTA:5173" # Para o frontend
 ```
 
 ### Problemas com migrations
