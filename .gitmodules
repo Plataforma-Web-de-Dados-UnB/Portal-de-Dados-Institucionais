@@ -4,3 +4,9 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/Plataforma-Web-de-Dados-UnB/Frontend.git
+[submodule "Data-Processor-Worker"]
+	path = Data-Processor-Worker
+	url = git@github.com:Plataforma-Web-de-Dados-UnB/Data-Processor-Worker.git
+[submodule "Superset"]
+	path = Superset
+	url = git@github.com:Plataforma-Web-de-Dados-UnB/Superset.git
