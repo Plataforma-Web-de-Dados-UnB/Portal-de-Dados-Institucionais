@@ -53,6 +53,7 @@ services:
       - Jwt__Key=${JWT_KEY}
       - Jwt__Issuer=${JWT_ISSUER}
       - Jwt__Audience=${JWT_AUDIENCE}
+      - Superset__GuestTokenJwtSecret=${SUPERSET_GUEST_TOKEN_JWT_SECRET}
       - Cors__AllowedOrigins=${FRONTEND_ALLOWED_ORIGINS}
     volumes:
       - .:/src
@@ -87,6 +88,7 @@ services:
     environment:
       - SUPERSET_SECRET_KEY=${SUPERSET_SECRET_KEY}
       - SUPERSET_ADMIN_PASSWORD=${SUPERSET_ADMIN_PASSWORD}
+      - SUPERSET_GUEST_TOKEN_JWT_SECRET=${SUPERSET_GUEST_TOKEN_JWT_SECRET}
       - POSTGRES_USER=${POSTGRES_USER}
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
       - SUPERSET_DB=superset_meta
