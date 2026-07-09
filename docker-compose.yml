@@ -58,6 +58,7 @@ services:
     volumes:
       - .:/src
       - ~/.aspnet/https:/root/.aspnet/https:ro
+      - backend_uploads:/src/Backend/wwwroot/uploads
 
   unb-portal-pipeline-worker:
     container_name: unb_portal_pipeline_worker
@@ -126,3 +127,4 @@ volumes:
   postgres_data:
   redis_data:
   superset_home:
+  backend_uploads:
