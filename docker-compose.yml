@@ -55,10 +55,10 @@ services:
       - Jwt__Audience=${JWT_AUDIENCE}
       - Superset__GuestTokenJwtSecret=${SUPERSET_GUEST_TOKEN_JWT_SECRET}
       - Cors__AllowedOrigins=${FRONTEND_ALLOWED_ORIGINS}
+      - Mascaramento__HmacKey=${MASCARAMENTO_HMAC_KEY}
     volumes:
       - .:/src
       - ~/.aspnet/https:/root/.aspnet/https:ro
-      - backend_uploads:/src/Backend/wwwroot/uploads
 
   unb-portal-pipeline-worker:
     container_name: unb_portal_pipeline_worker
@@ -127,4 +127,3 @@ volumes:
   postgres_data:
   redis_data:
   superset_home:
-  backend_uploads:

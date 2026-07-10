@@ -8,15 +8,23 @@
 cp .env.example .env
 ```
 
-Conteúdo padrão do `.env`:
+Conteúdo padrão do `.env` (ver `.env.example` para valores completos):
+
 ```env
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=postgres
 POSTGRES_DB=unb_portal_dev
-JWT_KEY=ChaveSecretaSuperSeguraParaJWT2024UnBPortalDeDados
+REDIS_PASSWORD=SenhaRedisSegura
+JWT_KEY=ChaveSecretaSuperSeguraParaJWTUnBPortalDeDados
 JWT_ISSUER=UnBPortalAPI
 JWT_AUDIENCE=UnBPortalClients
 FRONTEND_ALLOWED_ORIGINS=http://localhost:5173,http://localhost:5042
+SUPERSET_SECRET_KEY=ChaveSupersetSeguraUnBPortal
+SUPERSET_ADMIN_PASSWORD=Admin123!
+SUPERSET_GUEST_TOKEN_JWT_SECRET=ChaveGuestTokenSupersetUnBPortal
+SUPERSET_DB_USER=superset_reader
+SUPERSET_DB_PASSWORD=superset_reader_pass
+MASCARAMENTO_HMAC_KEY=ChaveHmacSeguraTrocarEmProducao
 ```
 
 ## Comandos Principais
@@ -126,9 +134,9 @@ Edite `docker-compose.yml` e altere a porta externa:
 
 ```yaml
 ports:
-  - "NOVA_PORTA:5042"  # Backend
-  - "NOVA_PORTA:5173"  # Frontend
-  - "NOVA_PORTA:5432"  # PostgreSQL
+  - "NOVA_PORTA:5042" # Backend
+  - "NOVA_PORTA:5173" # Frontend
+  - "NOVA_PORTA:5432" # PostgreSQL
 ```
 
 ### Container não inicia
