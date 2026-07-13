@@ -56,6 +56,10 @@ services:
       - Superset__GuestTokenJwtSecret=${SUPERSET_GUEST_TOKEN_JWT_SECRET}
       - Cors__AllowedOrigins=${FRONTEND_ALLOWED_ORIGINS}
       - Mascaramento__HmacKey=${MASCARAMENTO_HMAC_KEY}
+      - Email__Username=${GMAIL_USERNAME}
+      - Email__Password=${GMAIL_APP_PASSWORD}
+      - Email__FromAddress=${GMAIL_USERNAME}
+      - Email__FrontendBaseUrl=${FRONTEND_BASE_URL}
     volumes:
       - .:/src
       - ~/.aspnet/https:/root/.aspnet/https:ro
