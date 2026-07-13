@@ -60,6 +60,8 @@ services:
       - Email__Password=${GMAIL_APP_PASSWORD}
       - Email__FromAddress=${GMAIL_USERNAME}
       - Email__FrontendBaseUrl=${FRONTEND_BASE_URL}
+      - SuperAdmin__Email=${SUPERADMIN_EMAIL}
+      - SuperAdmin__Password=${SUPERADMIN_PASSWORD}
     volumes:
       - .:/src
       - ~/.aspnet/https:/root/.aspnet/https:ro
