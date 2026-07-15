@@ -1,0 +1,207 @@
+// Plataforma de Dados UnB - Modelo de Banco de Dados
+//
+// Schemas fixos (gerenciados pelo EF Core / Migrations):
+//   public   - Identity (apenas campos usados) + dominio da aplicacao
+//   pipeline - controle de pipelines e execucoes
+//   bronze   - dados brutos ingeridos (staging)
+//
+// Schemas dinamicos (criados em runtime pelo Data-Processor-Worker):
+//   silver   - tabelas limpas e transformadas (uma por pipeline)
+//   gold     - tabelas analiticas agregadas (uma ou mais por pipeline)
+//
+// Nota: Os schemas silver e gold nao possuem estrutura fixa.
+// Cada pipeline define suas proprias colunas via script Python.
+// O unico campo garantido por contrato e batch_id.
+
+
+// ------------------------------------------------------------
+// SCHEMA: public - Usuarios
+// Tabela gerenciada pelo ASP.NET Identity, exibindo apenas
+// os campos efetivamente usados pelo Backend.
+// ------------------------------------------------------------
+
+Table public.AspNetUsers [note: 'Usuarios da plataforma. Gerenciada pelo ASP.NET Identity.'] {
+  Id varchar [pk, note: 'GUID gerado pelo Identity']
+  UserName varchar(256)
+  Email varchar(256)
+  PasswordHash text
+  nome varchar(255) [not null]
+  ultimo_nome varchar(255) [not null]
+  cargo integer [not null, note: 'ENUM: 0=SuperAdministrador, 1=Administrador, 2=Visitante']
+  status integer [not null, note: 'ENUM: 0=Pendente, 1=Ativo, 2=Recusado']
+  created_at timestamp [not null]
+  updated_at timestamp [not null]
+}
+
+
+// ------------------------------------------------------------
+// SCHEMA: public - Dominio da Aplicacao
+// ------------------------------------------------------------
+
+Table public.REFRESH_TOKEN [note: 'Tokens de renovacao de sessao JWT com rotation por family_id'] {
+  id integer [pk, increment]
+  token varchar(128) [not null, unique]
+  family_id varchar(36) [not null, note: 'Agrupa tokens da mesma familia para detectar reuso']
+  usuario_id varchar [not null]
+  expires_at timestamp [not null]
+  revoked_at timestamp
+  created_at timestamp [not null]
+}
+
+Table public.PASSWORD_RESET_TOKEN [note: 'Tokens de redefinicao de senha enviados por e-mail'] {
+  id integer [pk, increment]
+  token text [not null, unique]
+  usuario_id varchar [not null]
+  expires_at timestamp [not null]
+  used_at timestamp
+  created_at timestamp [not null]
+}
+
+Table public.CATEGORIA [note: 'Agrupador de paineis exibidos no portal'] {
+  id integer [pk, increment]
+  nome varchar(255) [not null]
+  descricao text
+  imagem_path varchar(512)
+  sort_ordem integer [not null, default: 0]
+  active boolean [not null, default: true]
+  deactivated_at timestamp
+  created_at timestamp [not null]
+  updated_at timestamp [not null]
+}
+
+Table public.PAINEL [note: 'Dashboard do Superset embedado no portal via Guest Token'] {
+  id integer [pk, increment]
+  nome varchar(255) [not null]
+  descricao text
+  graph_embed_link varchar(2048) [not null, note: 'URL de embed do Superset']
+  embed_dashboard_uuid varchar(255) [note: 'UUID do dashboard no Superset para geracao de Guest Token']
+  sort_ordem integer [not null, default: 0]
+  active boolean [not null, default: true]
+  deactivated_at timestamp
+  created_at timestamp [not null]
+  updated_at timestamp [not null]
+  categoria_id integer [not null]
+}
+
+Table public.SUGESTAO [note: 'Feedback enviado por usuarios (anonimo ou identificado)'] {
+  id integer [pk, increment]
+  tipo integer [not null, note: 'ENUM: 0=Sugestao, 1=Erro, 2=Relato']
+  titulo varchar(255) [not null]
+  descricao text [not null]
+  nome_contato varchar(255)
+  email_contato varchar(255)
+  status integer [not null, note: 'ENUM: 0=Pendente, 1=Analisado, 2=Descartado']
+  created_at timestamp [not null]
+  updated_at timestamp [not null]
+}
+
+
+// ------------------------------------------------------------
+// SCHEMA: pipeline - Controle de Pipelines de Dados
+// ------------------------------------------------------------
+
+Table pipeline.pipelines [note: 'Definicao de um pipeline ETL com seu script Python'] {
+  id integer [pk, increment]
+  nome varchar(255) [not null]
+  descricao text
+  script_python text [not null, note: 'Codigo Python executado pelo Data-Processor-Worker via exec()']
+  ativo boolean [not null, default: true]
+  created_at timestamp [not null]
+  updated_at timestamp [not null]
+}
+
+Table pipeline.execucoes [note: 'Registro de cada execucao de um pipeline para um batch de dados'] {
+  id integer [pk, increment]
+  batch_id uuid [not null, note: 'Identificador unico do lote de dados; indexado']
+  pipeline_id integer [not null]
+  tabela_silver varchar(255) [not null, note: 'Nome da tabela de destino no schema silver']
+  tabela_gold varchar(255) [not null, note: 'Nome da tabela de destino principal no schema gold']
+  status integer [not null, note: 'ENUM: 0=Pendente, 1=Processando, 2=Sucesso, 3=Erro, 4=Cancelado, 5=Rollback']
+  mensagem text [note: 'Mensagem de sucesso ou erro retornada pelo worker']
+  iniciado_em timestamp
+  finalizado_em timestamp
+  tabelas_gold_extras jsonb [note: 'Lista JSON de tabelas gold adicionais escritas pelo script alem da principal']
+  created_at timestamp [not null]
+  updated_at timestamp [not null]
+}
+
+
+// ------------------------------------------------------------
+// SCHEMA: bronze - Dados Brutos (Staging)
+// Ingeridos pelo Backend a partir de uploads CSV/XLSX.
+// Apagados apos rollback ou erro de pipeline.
+// ------------------------------------------------------------
+
+Table bronze.arquivos_brutos [note: 'Cada linha do arquivo CSV/XLSX enviado, serializada como JSON. Apagada pos-rollback.'] {
+  id bigint [pk, increment]
+  batch_id uuid [not null, note: 'Liga ao upload e a execucao; indexado']
+  numero_linha integer [not null, note: 'Preserva a ordem original das linhas do arquivo']
+  dados jsonb [not null, note: 'Linha do arquivo como objeto JSON. Dados sensiveis ja mascarados ou suprimidos.']
+  created_at timestamp [not null]
+}
+
+Table bronze.uploads_auditoria [note: 'Registro de cada upload para deduplicacao por hash SHA-256'] {
+  id integer [pk, increment]
+  file_hash varchar [not null, unique, note: 'SHA-256 do arquivo. Impede reprocessamento do mesmo arquivo na mesma pipeline.']
+  batch_id uuid [not null, note: 'Liga ao lote de arquivos_brutos']
+  nome_arquivo varchar [not null]
+  total_linhas integer [not null]
+  uploaded_by varchar [note: 'Username do usuario que fez o upload']
+  created_at timestamp [not null]
+}
+
+
+// ------------------------------------------------------------
+// SCHEMAS DINAMICOS: silver e gold
+//
+// Criados em runtime pelo Data-Processor-Worker.
+// A estrutura de cada tabela e inteiramente definida pelo
+// script Python do pipeline. O unico campo garantido por
+// contrato e batch_id, usado para rollback e rastreabilidade.
+//
+// Nomenclatura:
+//   silver.<tabela_silver>  definido em pipeline.execucoes.tabela_silver
+//   gold.<tabela_gold>      definido em pipeline.execucoes.tabela_gold
+//   gold.<tabela_extra_N>   listadas em pipeline.execucoes.tabelas_gold_extras
+// ------------------------------------------------------------
+
+Table silver.__tabela_dinamica [
+  note: 'SCHEMA DINAMICO - Tabela representativa. Cada pipeline cria sua propria tabela com colunas especificas. Unico contrato: batch_id. Criada via pd.DataFrame.to_sql(..., schema="silver").'
+] {
+  batch_id uuid [not null, note: 'Chave de rastreabilidade; permite DELETE por execucao no rollback']
+  colunas_definidas_pelo_pipeline text [note: 'Estrutura variavel conforme script Python da pipeline']
+}
+
+Table gold.__tabela_dinamica [
+  note: 'SCHEMA DINAMICO - Tabela representativa. Cada pipeline cria sua propria tabela com colunas analiticas. Unico contrato: batch_id. Criada via pd.DataFrame.to_sql(..., schema="gold"). Lida pelo Apache Superset.'
+] {
+  batch_id uuid [not null, note: 'Chave de rastreabilidade; permite DELETE por execucao no rollback']
+  colunas_definidas_pelo_pipeline text [note: 'Estrutura variavel conforme script Python da pipeline']
+}
+
+
+// ============================================================
+// RELACIONAMENTOS
+// ============================================================
+
+// public
+Ref refresh_token_usuario: public.REFRESH_TOKEN.usuario_id > public.AspNetUsers.Id
+Ref password_reset_usuario: public.PASSWORD_RESET_TOKEN.usuario_id > public.AspNetUsers.Id
+Ref painel_categoria: public.PAINEL.categoria_id > public.CATEGORIA.id
+
+// pipeline
+Ref execucao_pipeline: pipeline.execucoes.pipeline_id > pipeline.pipelines.id
+
+// bronze -> public
+// uploaded_by armazena UserName como string sem FK formal
+Ref upload_usuario: bronze.uploads_auditoria.uploaded_by - public.AspNetUsers.UserName
+
+// bronze -> pipeline (via batch_id sem FK formal, por design)
+// A ausencia de FK permite DELETE independente no rollback sem violar constraints
+Ref arquivos_execucao: bronze.arquivos_brutos.batch_id - pipeline.execucoes.batch_id
+Ref auditoria_execucao: bronze.uploads_auditoria.batch_id - pipeline.execucoes.batch_id
+
+// pipeline -> silver/gold (via nomes de tabela armazenados como texto)
+// tabela_silver e tabela_gold referenciam logicamente as tabelas dinamicas criadas pelo worker
+Ref execucao_silver: pipeline.execucoes.tabela_silver - silver.__tabela_dinamica.colunas_definidas_pelo_pipeline
+Ref execucao_gold: pipeline.execucoes.tabela_gold - gold.__tabela_dinamica.colunas_definidas_pelo_pipeline

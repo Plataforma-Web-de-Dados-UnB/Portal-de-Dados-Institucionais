@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" id="Financial">
+  <g transform="translate(0 -1004.362)" fill="#e8eaf0" class="color000000 svgShape">
+    <circle cx="24" cy="1028.362" r="24" fill="#009c3b" fill-rule="evenodd" class="coloref4c45 svgShape"></circle>
+    <g transform="translate(265.917 -386)" fill="#e8eaf0" class="color000000 svgShape">
+      <path fill="#f59e0b" d="M-253.399 1420.844h3v7h-3zM-247.399 1415.844h3v12h-3zM-241.399 1417.844h3v10h-3zM-235.399 1411.862h3v15.982h-3z" class="colorf9b537 svgShape"></path>
+      <path fill="none" stroke="#0ea5e9" stroke-linecap="round" stroke-linejoin="round" d="m-255.399 1419.844 9.659-8.508 4.501 3.716 8.84-8.208" class="colorStroke2dbca4 svgStroke"></path>
+      <path fill="none" stroke="#0ea5e9" stroke-linecap="round" stroke-linejoin="round" d="M-234.399 1406.844h2v2" class="colorStroke2dbca4 svgStroke"></path>
+      <path fill="none" stroke="#103586" stroke-linecap="round" stroke-linejoin="round" d="M-255.399 1400.842v27.013m27-.01h-27.01" class="colorStroke105286 svgStroke"></path>
+      <path fill="#eec175" d="m-229.474 1414.117.851 1.49.533.933.452.791.384.672.737 1.29a.982.982 0 0 1-.362 1.334.962.962 0 0 1-1.324-.35l-2.957-5.177" class="coloree7581 svgShape"></path>
+      <path fill="#405a95" d="m-229.892 1412.393.982 1.722-2.565 1.495-.981-1.72" class="color406b95 svgShape"></path>
+      <path fill="#1a2744" d="m-229.892 1412.393.245.43.246.43.123.216-2.565 1.496-.123-.215-.245-.43-.245-.43" class="color105286 svgShape"></path>
+      <ellipse cx="-901.847" cy="1099.842" fill="none" stroke="#405a95" stroke-linejoin="round" rx="4.5" ry="4.524" transform="matrix(.86376 -.5039 .4961 .86826 0 0)" class="colorStroke406b95 svgStroke"></ellipse>
+    </g>
+  </g>
+</svg>

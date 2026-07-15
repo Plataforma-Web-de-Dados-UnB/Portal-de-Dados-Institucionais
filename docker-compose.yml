@@ -38,6 +38,9 @@ services:
       context: .
       target: dev
       dockerfile: Backend/Dockerfile
+    labels:
+      org.opencontainers.image.title: "Plataforma Web de Dados Institucionais - UnB | FCTE | Backend"
+      org.opencontainers.image.version: "1.0.0"
     depends_on:
       unb-portal-postgres:
         condition: service_healthy
@@ -71,6 +74,9 @@ services:
     build:
       context: ./Data-Processor-Worker
       dockerfile: Dockerfile
+    labels:
+      org.opencontainers.image.title: "Plataforma Web de Dados Institucionais - UnB | FCTE | Data Processor Worker"
+      org.opencontainers.image.version: "1.0.0"
     depends_on:
       unb-portal-redis:
         condition: service_healthy
@@ -87,6 +93,9 @@ services:
     build:
       context: ./Superset
       dockerfile: Dockerfile
+    labels:
+      org.opencontainers.image.title: "Plataforma Web de Dados Institucionais - UnB | FCTE | Superset"
+      org.opencontainers.image.version: "1.0.0"
     depends_on:
       unb-portal-postgres:
         condition: service_healthy
