@@ -50,6 +50,8 @@ services:
     networks:
       - default
       - easypanel
+    volumes:
+      - backend_uploads:/app/wwwroot/uploads
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
       - ASPNETCORE_URLS=http://0.0.0.0:5042
@@ -125,6 +127,7 @@ volumes:
   postgres_data:
   redis_data:
   superset_home:
+  backend_uploads:
 
 networks:
   default:
