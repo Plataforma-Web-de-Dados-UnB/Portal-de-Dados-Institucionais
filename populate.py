@@ -12,7 +12,14 @@ Uso:
     python populate.py
     python populate.py --base-url http://localhost:5042
     python populate.py --base-url http://localhost:5042 --email admin@unb.br --senha Admin123!
-    python populate.py --somente-sugestoes    # só cria sugestões
+    python populate.py --somente-sugestoes            # so cria sugestoes
+
+    # Producao:
+    python populate.py \
+        --base-url https://api.seu-dominio.com.br \
+        --superset-url https://superset.seu-dominio.com.br \
+        --email admin@unb.br \
+        --senha SuaSenhaDeProducao
 """
 
 import argparse
@@ -522,12 +529,16 @@ def criar_sugestoes(client: PopulateClient) -> list[dict]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Populate da Plataforma Web de Dados UnB")
-    parser.add_argument("--base-url",        default=DEFAULT_BASE_URL, help="URL base da API")
-    parser.add_argument("--email",           default=DEFAULT_EMAIL,    help="E-mail do administrador")
-    parser.add_argument("--senha",           default=DEFAULT_SENHA,    help="Senha do administrador")
+    parser.add_argument("--base-url",          default=DEFAULT_BASE_URL,       help="URL base da API backend")
+    parser.add_argument("--superset-url",      default="http://localhost:8088", help="URL base do Superset (usada nos embed links dos paineis)")
+    parser.add_argument("--email",             default=DEFAULT_EMAIL,           help="E-mail do administrador")
+    parser.add_argument("--senha",             default=DEFAULT_SENHA,           help="Senha do administrador")
     parser.add_argument("--somente-sugestoes", action="store_true",
-                        help="Cria apenas as sugestões (útil para retry parcial)")
+                        help="Cria apenas as sugestoes (util para retry parcial)")
     args = parser.parse_args()
+
+    global SUPERSET_BASE
+    SUPERSET_BASE = args.superset_url.rstrip("/")
 
     print("=" * 60)
     print("  Plataforma Web de Dados Institucionais - UnB")
