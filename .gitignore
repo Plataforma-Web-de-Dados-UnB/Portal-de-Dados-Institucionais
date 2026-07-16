@@ -2,3 +2,4 @@
 .DS_Store
 *.log
 backup_*.sql
+venv/

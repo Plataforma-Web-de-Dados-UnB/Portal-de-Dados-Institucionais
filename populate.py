@@ -65,7 +65,7 @@ CATEGORIAS = [
             "Estatísticas de refeições servidas, tipo de cardápio e "
             "períodos de funcionamento dos restaurantes da UnB."
         ),
-        "icone": "restaurant-1.svg",
+        "icone": "restaurant-2.svg",
         "sort_ordem": 3,
     },
     {
