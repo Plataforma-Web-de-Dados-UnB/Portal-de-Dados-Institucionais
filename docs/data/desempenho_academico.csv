@@ -1,0 +1,2761 @@
+Código disciplina;Nome disciplina;Qtd de estudantes;Aprovações;Reprovações;Abandonos;Taxa de aprovação;Taxa de reprovação
+FCTE0001;Introdução à Engenharia;80;61;18;1;0.7625;0.225
+FCTE0001;Introdução à Engenharia;109;83;16;10;0.7615;0.1468
+FCTE0001;Introdução à Engenharia;84;75;8;1;0.8929;0.0952
+FCTE0001;Introdução à Engenharia;108;92;13;3;0.8519;0.1204
+FCTE0001;Introdução à Engenharia;111;91;17;3;0.8198;0.1532
+FCTE0001;Introdução à Engenharia;93;74;16;3;0.7957;0.172
+FCTE0001;Introdução à Engenharia;134;115;16;3;0.8582;0.1194
+FCTE0001;Introdução à Engenharia;69;52;15;2;0.7536;0.2174
+FCTE0001;Introdução à Engenharia;95;81;9;5;0.8526;0.0947
+FCTE0001;Introdução à Engenharia;89;73;12;4;0.8202;0.1348
+FCTE0001;Introdução à Engenharia;90;74;10;6;0.8222;0.1111
+FCTE0001;Introdução à Engenharia;145;127;13;5;0.8759;0.0897
+FCTE0001;Introdução à Engenharia;131;108;19;4;0.8244;0.145
+FCTE0001;Introdução à Engenharia;70;53;15;2;0.7571;0.2143
+FCTE0001;Introdução à Engenharia;77;65;12;0;0.8442;0.1558
+FCTE0001;Introdução à Engenharia;107;81;20;6;0.757;0.1869
+FCTE0001;Introdução à Engenharia;98;80;17;1;0.8163;0.1735
+FCTE0001;Introdução à Engenharia;89;55;30;4;0.618;0.3371
+FCTE0001;Introdução à Engenharia;109;82;22;5;0.7523;0.2018
+FCTE0001;Introdução à Engenharia;110;92;13;5;0.8364;0.1182
+FCTE0001;Introdução à Engenharia;119;92;19;8;0.7731;0.1597
+FCTE0001;Introdução à Engenharia;76;58;10;8;0.7632;0.1316
+FCTE0001;Introdução à Engenharia;88;62;25;1;0.7045;0.2841
+FCTE0001;Introdução à Engenharia;113;90;18;5;0.7965;0.1593
+FCTE0002;Cálculo para Engenharia 1;99;77;20;2;0.7778;0.202
+FCTE0002;Cálculo para Engenharia 1;140;103;30;7;0.7357;0.2143
+FCTE0002;Cálculo para Engenharia 1;133;112;17;4;0.8421;0.1278
+FCTE0002;Cálculo para Engenharia 1;116;84;25;7;0.7241;0.2155
+FCTE0002;Cálculo para Engenharia 1;127;89;31;7;0.7008;0.2441
+FCTE0002;Cálculo para Engenharia 1;120;79;34;7;0.6583;0.2833
+FCTE0002;Cálculo para Engenharia 1;89;61;23;5;0.6854;0.2584
+FCTE0002;Cálculo para Engenharia 1;96;70;23;3;0.7292;0.2396
+FCTE0002;Cálculo para Engenharia 1;123;96;25;2;0.7805;0.2033
+FCTE0002;Cálculo para Engenharia 1;75;58;17;0;0.7733;0.2267
+FCTE0002;Cálculo para Engenharia 1;128;90;23;15;0.7031;0.1797
+FCTE0002;Cálculo para Engenharia 1;88;74;11;3;0.8409;0.125
+FCTE0002;Cálculo para Engenharia 1;75;57;15;3;0.76;0.2
+FCTE0002;Cálculo para Engenharia 1;75;64;7;4;0.8533;0.0933
+FCTE0002;Cálculo para Engenharia 1;68;48;18;2;0.7059;0.2647
+FCTE0002;Cálculo para Engenharia 1;78;67;9;2;0.859;0.1154
+FCTE0002;Cálculo para Engenharia 1;73;55;13;5;0.7534;0.1781
+FCTE0002;Cálculo para Engenharia 1;102;81;19;2;0.7941;0.1863
+FCTE0002;Cálculo para Engenharia 1;76;56;16;4;0.7368;0.2105
+FCTE0002;Cálculo para Engenharia 1;137;104;28;5;0.7591;0.2044
+FCTE0002;Cálculo para Engenharia 1;125;103;16;6;0.824;0.128
+FCTE0002;Cálculo para Engenharia 1;113;87;22;4;0.7699;0.1947
+FCTE0002;Cálculo para Engenharia 1;79;73;3;3;0.9241;0.038
+FCTE0002;Cálculo para Engenharia 1;119;106;10;3;0.8908;0.084
+FCTE0003;Cálculo para Engenharia 2;103;86;13;4;0.835;0.1262
+FCTE0003;Cálculo para Engenharia 2;103;77;19;7;0.7476;0.1845
+FCTE0003;Cálculo para Engenharia 2;78;61;11;6;0.7821;0.141
+FCTE0003;Cálculo para Engenharia 2;130;97;24;9;0.7462;0.1846
+FCTE0003;Cálculo para Engenharia 2;128;90;31;7;0.7031;0.2422
+FCTE0003;Cálculo para Engenharia 2;126;87;35;4;0.6905;0.2778
+FCTE0003;Cálculo para Engenharia 2;76;55;16;5;0.7237;0.2105
+FCTE0003;Cálculo para Engenharia 2;85;70;11;4;0.8235;0.1294
+FCTE0003;Cálculo para Engenharia 2;112;86;19;7;0.7679;0.1696
+FCTE0003;Cálculo para Engenharia 2;138;97;35;6;0.7029;0.2536
+FCTE0003;Cálculo para Engenharia 2;70;50;14;6;0.7143;0.2
+FCTE0003;Cálculo para Engenharia 2;70;53;14;3;0.7571;0.2
+FCTE0003;Cálculo para Engenharia 2;120;85;30;5;0.7083;0.25
+FCTE0003;Cálculo para Engenharia 2;88;55;25;8;0.625;0.2841
+FCTE0003;Cálculo para Engenharia 2;109;79;25;5;0.7248;0.2294
+FCTE0003;Cálculo para Engenharia 2;96;69;17;10;0.7188;0.1771
+FCTE0003;Cálculo para Engenharia 2;140;99;31;10;0.7071;0.2214
+FCTE0003;Cálculo para Engenharia 2;124;94;22;8;0.7581;0.1774
+FCTE0003;Cálculo para Engenharia 2;103;76;21;6;0.7379;0.2039
+FCTE0003;Cálculo para Engenharia 2;68;51;14;3;0.75;0.2059
+FCTE0003;Cálculo para Engenharia 2;137;110;21;6;0.8029;0.1533
+FCTE0003;Cálculo para Engenharia 2;112;77;27;8;0.6875;0.2411
+FCTE0003;Cálculo para Engenharia 2;135;96;30;9;0.7111;0.2222
+FCTE0003;Cálculo para Engenharia 2;73;58;14;1;0.7945;0.1918
+FCTE0004;Cálculo para Engenharia 3;131;84;38;9;0.6412;0.2901
+FCTE0004;Cálculo para Engenharia 3;139;108;28;3;0.777;0.2014
+FCTE0004;Cálculo para Engenharia 3;118;88;24;6;0.7458;0.2034
+FCTE0004;Cálculo para Engenharia 3;133;78;38;17;0.5865;0.2857
+FCTE0004;Cálculo para Engenharia 3;133;90;33;10;0.6767;0.2481
+FCTE0004;Cálculo para Engenharia 3;125;84;36;5;0.672;0.288
+FCTE0004;Cálculo para Engenharia 3;68;45;19;4;0.6618;0.2794
+FCTE0004;Cálculo para Engenharia 3;124;75;43;6;0.6048;0.3468
+FCTE0004;Cálculo para Engenharia 3;130;99;22;9;0.7615;0.1692
+FCTE0004;Cálculo para Engenharia 3;118;78;31;9;0.661;0.2627
+FCTE0004;Cálculo para Engenharia 3;90;64;22;4;0.7111;0.2444
+FCTE0004;Cálculo para Engenharia 3;119;81;28;10;0.6807;0.2353
+FCTE0004;Cálculo para Engenharia 3;73;52;13;8;0.7123;0.1781
+FCTE0004;Cálculo para Engenharia 3;120;75;35;10;0.625;0.2917
+FCTE0004;Cálculo para Engenharia 3;77;43;29;5;0.5584;0.3766
+FCTE0004;Cálculo para Engenharia 3;132;95;31;6;0.7197;0.2348
+FCTE0004;Cálculo para Engenharia 3;126;89;28;9;0.7063;0.2222
+FCTE0004;Cálculo para Engenharia 3;140;99;31;10;0.7071;0.2214
+FCTE0004;Cálculo para Engenharia 3;81;58;14;9;0.716;0.1728
+FCTE0004;Cálculo para Engenharia 3;109;82;22;5;0.7523;0.2018
+FCTE0004;Cálculo para Engenharia 3;77;50;23;4;0.6494;0.2987
+FCTE0004;Cálculo para Engenharia 3;125;87;28;10;0.696;0.224
+FCTE0004;Cálculo para Engenharia 3;95;64;24;7;0.6737;0.2526
+FCTE0004;Cálculo para Engenharia 3;133;87;36;10;0.6541;0.2707
+FCTE0005;Álgebra Linear;105;74;28;3;0.7048;0.2667
+FCTE0005;Álgebra Linear;105;66;36;3;0.6286;0.3429
+FCTE0005;Álgebra Linear;100;73;25;2;0.73;0.25
+FCTE0005;Álgebra Linear;71;54;16;1;0.7606;0.2254
+FCTE0005;Álgebra Linear;82;60;19;3;0.7317;0.2317
+FCTE0005;Álgebra Linear;95;67;24;4;0.7053;0.2526
+FCTE0005;Álgebra Linear;131;100;29;2;0.7634;0.2214
+FCTE0005;Álgebra Linear;103;68;35;0;0.6602;0.3398
+FCTE0005;Álgebra Linear;92;70;21;1;0.7609;0.2283
+FCTE0005;Álgebra Linear;110;78;28;4;0.7091;0.2545
+FCTE0005;Álgebra Linear;73;48;25;0;0.6575;0.3425
+FCTE0005;Álgebra Linear;95;58;36;1;0.6105;0.3789
+FCTE0005;Álgebra Linear;109;61;47;1;0.5596;0.4312
+FCTE0005;Álgebra Linear;98;72;26;0;0.7347;0.2653
+FCTE0005;Álgebra Linear;101;74;25;2;0.7327;0.2475
+FCTE0005;Álgebra Linear;83;63;20;0;0.759;0.241
+FCTE0005;Álgebra Linear;77;59;18;0;0.7662;0.2338
+FCTE0005;Álgebra Linear;139;86;51;2;0.6187;0.3669
+FCTE0005;Álgebra Linear;97;65;30;2;0.6701;0.3093
+FCTE0005;Álgebra Linear;85;58;27;0;0.6824;0.3176
+FCTE0005;Álgebra Linear;66;49;15;2;0.7424;0.2273
+FCTE0005;Álgebra Linear;85;52;28;5;0.6118;0.3294
+FCTE0005;Álgebra Linear;108;76;32;0;0.7037;0.2963
+FCTE0005;Álgebra Linear;125;79;42;4;0.632;0.336
+FCTE0006;Probabilidade e Estatística;103;70;31;2;0.6796;0.301
+FCTE0006;Probabilidade e Estatística;116;78;32;6;0.6724;0.2759
+FCTE0006;Probabilidade e Estatística;84;58;21;5;0.6905;0.25
+FCTE0006;Probabilidade e Estatística;76;63;13;0;0.8289;0.1711
+FCTE0006;Probabilidade e Estatística;103;74;27;2;0.7184;0.2621
+FCTE0006;Probabilidade e Estatística;111;81;28;2;0.7297;0.2523
+FCTE0006;Probabilidade e Estatística;131;96;31;4;0.7328;0.2366
+FCTE0006;Probabilidade e Estatística;76;46;29;1;0.6053;0.3816
+FCTE0006;Probabilidade e Estatística;83;47;32;4;0.5663;0.3855
+FCTE0006;Probabilidade e Estatística;68;47;20;1;0.6912;0.2941
+FCTE0006;Probabilidade e Estatística;102;72;29;1;0.7059;0.2843
+FCTE0006;Probabilidade e Estatística;114;81;29;4;0.7105;0.2544
+FCTE0006;Probabilidade e Estatística;115;88;23;4;0.7652;0.2
+FCTE0006;Probabilidade e Estatística;129;71;51;7;0.5504;0.3953
+FCTE0006;Probabilidade e Estatística;139;99;39;1;0.7122;0.2806
+FCTE0006;Probabilidade e Estatística;116;79;34;3;0.681;0.2931
+FCTE0006;Probabilidade e Estatística;88;51;34;3;0.5795;0.3864
+FCTE0006;Probabilidade e Estatística;126;94;32;0;0.746;0.254
+FCTE0006;Probabilidade e Estatística;135;81;52;2;0.6;0.3852
+FCTE0006;Probabilidade e Estatística;86;51;30;5;0.593;0.3488
+FCTE0006;Probabilidade e Estatística;96;65;29;2;0.6771;0.3021
+FCTE0006;Probabilidade e Estatística;104;72;30;2;0.6923;0.2885
+FCTE0006;Probabilidade e Estatística;95;75;19;1;0.7895;0.2
+FCTE0006;Probabilidade e Estatística;131;73;52;6;0.5573;0.3969
+FCTE0007;Física 1;109;83;19;7;0.7615;0.1743
+FCTE0007;Física 1;69;48;21;0;0.6957;0.3043
+FCTE0007;Física 1;92;74;13;5;0.8043;0.1413
+FCTE0007;Física 1;145;126;14;5;0.869;0.0966
+FCTE0007;Física 1;74;66;6;2;0.8919;0.0811
+FCTE0007;Física 1;78;64;13;1;0.8205;0.1667
+FCTE0007;Física 1;116;106;3;7;0.9138;0.0259
+FCTE0007;Física 1;145;133;3;9;0.9172;0.0207
+FCTE0007;Física 1;125;110;11;4;0.88;0.088
+FCTE0007;Física 1;134;110;18;6;0.8209;0.1343
+FCTE0007;Física 1;107;96;8;3;0.8972;0.0748
+FCTE0007;Física 1;100;90;9;1;0.9;0.09
+FCTE0007;Física 1;105;78;20;7;0.7429;0.1905
+FCTE0007;Física 1;117;97;18;2;0.8291;0.1538
+FCTE0007;Física 1;132;109;21;2;0.8258;0.1591
+FCTE0007;Física 1;132;109;16;7;0.8258;0.1212
+FCTE0007;Física 1;127;106;19;2;0.8346;0.1496
+FCTE0007;Física 1;126;112;10;4;0.8889;0.0794
+FCTE0007;Física 1;116;93;19;4;0.8017;0.1638
+FCTE0007;Física 1;129;117;10;2;0.907;0.0775
+FCTE0007;Física 1;106;87;16;3;0.8208;0.1509
+FCTE0007;Física 1;145;126;12;7;0.869;0.0828
+FCTE0007;Física 1;96;79;13;4;0.8229;0.1354
+FCTE0007;Física 1;84;69;14;1;0.8214;0.1667
+FCTE0008;Física 2;73;62;7;4;0.8493;0.0959
+FCTE0008;Física 2;107;78;18;11;0.729;0.1682
+FCTE0008;Física 2;74;59;15;0;0.7973;0.2027
+FCTE0008;Física 2;67;60;2;5;0.8955;0.0299
+FCTE0008;Física 2;92;68;17;7;0.7391;0.1848
+FCTE0008;Física 2;115;96;9;10;0.8348;0.0783
+FCTE0008;Física 2;78;68;6;4;0.8718;0.0769
+FCTE0008;Física 2;127;94;27;6;0.7402;0.2126
+FCTE0008;Física 2;69;60;6;3;0.8696;0.087
+FCTE0008;Física 2;68;45;22;1;0.6618;0.3235
+FCTE0008;Física 2;110;99;7;4;0.9;0.0636
+FCTE0008;Física 2;139;115;14;10;0.8273;0.1007
+FCTE0008;Física 2;111;93;11;7;0.8378;0.0991
+FCTE0008;Física 2;78;57;15;6;0.7308;0.1923
+FCTE0008;Física 2;76;63;7;6;0.8289;0.0921
+FCTE0008;Física 2;98;83;13;2;0.8469;0.1327
+FCTE0008;Física 2;80;64;8;8;0.8;0.1
+FCTE0008;Física 2;127;105;18;4;0.8268;0.1417
+FCTE0008;Física 2;97;76;15;6;0.7835;0.1546
+FCTE0008;Física 2;125;94;21;10;0.752;0.168
+FCTE0008;Física 2;101;93;6;2;0.9208;0.0594
+FCTE0008;Física 2;124;87;30;7;0.7016;0.2419
+FCTE0008;Física 2;80;62;16;2;0.775;0.2
+FCTE0008;Física 2;116;88;18;10;0.7586;0.1552
+FCTE0009;Física Experimental;108;78;17;13;0.7222;0.1574
+FCTE0009;Física Experimental;117;80;32;5;0.6838;0.2735
+FCTE0009;Física Experimental;118;84;28;6;0.7119;0.2373
+FCTE0009;Física Experimental;119;97;13;9;0.8151;0.1092
+FCTE0009;Física Experimental;139;99;23;17;0.7122;0.1655
+FCTE0009;Física Experimental;75;53;17;5;0.7067;0.2267
+FCTE0009;Física Experimental;90;74;13;3;0.8222;0.1444
+FCTE0009;Física Experimental;118;87;17;14;0.7373;0.1441
+FCTE0009;Física Experimental;114;85;20;9;0.7456;0.1754
+FCTE0009;Física Experimental;144;104;31;9;0.7222;0.2153
+FCTE0009;Física Experimental;78;61;15;2;0.7821;0.1923
+FCTE0009;Física Experimental;71;57;10;4;0.8028;0.1408
+FCTE0009;Física Experimental;127;106;16;5;0.8346;0.126
+FCTE0009;Física Experimental;68;52;16;0;0.7647;0.2353
+FCTE0009;Física Experimental;130;108;12;10;0.8308;0.0923
+FCTE0009;Física Experimental;113;78;29;6;0.6903;0.2566
+FCTE0009;Física Experimental;138;105;20;13;0.7609;0.1449
+FCTE0009;Física Experimental;143;112;28;3;0.7832;0.1958
+FCTE0009;Física Experimental;141;107;26;8;0.7589;0.1844
+FCTE0009;Física Experimental;140;105;25;10;0.75;0.1786
+FCTE0009;Física Experimental;135;96;29;10;0.7111;0.2148
+FCTE0009;Física Experimental;145;113;26;6;0.7793;0.1793
+FCTE0009;Física Experimental;74;55;15;4;0.7432;0.2027
+FCTE0009;Física Experimental;78;54;14;10;0.6923;0.1795
+FCTE0010;Química Geral;87;66;21;0;0.7586;0.2414
+FCTE0010;Química Geral;118;80;34;4;0.678;0.2881
+FCTE0010;Química Geral;77;58;17;2;0.7532;0.2208
+FCTE0010;Química Geral;103;82;21;0;0.7961;0.2039
+FCTE0010;Química Geral;140;109;26;5;0.7786;0.1857
+FCTE0010;Química Geral;104;77;24;3;0.7404;0.2308
+FCTE0010;Química Geral;113;78;32;3;0.6903;0.2832
+FCTE0010;Química Geral;71;52;15;4;0.7324;0.2113
+FCTE0010;Química Geral;70;58;12;0;0.8286;0.1714
+FCTE0010;Química Geral;88;75;12;1;0.8523;0.1364
+FCTE0010;Química Geral;107;82;21;4;0.7664;0.1963
+FCTE0010;Química Geral;87;69;18;0;0.7931;0.2069
+FCTE0010;Química Geral;108;84;21;3;0.7778;0.1944
+FCTE0010;Química Geral;132;104;26;2;0.7879;0.197
+FCTE0010;Química Geral;87;57;26;4;0.6552;0.2989
+FCTE0010;Química Geral;111;88;22;1;0.7928;0.1982
+FCTE0010;Química Geral;75;61;12;2;0.8133;0.16
+FCTE0010;Química Geral;133;101;28;4;0.7594;0.2105
+FCTE0010;Química Geral;75;54;20;1;0.72;0.2667
+FCTE0010;Química Geral;91;58;30;3;0.6374;0.3297
+FCTE0010;Química Geral;134;107;27;0;0.7985;0.2015
+FCTE0010;Química Geral;95;79;16;0;0.8316;0.1684
+FCTE0010;Química Geral;72;56;13;3;0.7778;0.1806
+FCTE0010;Química Geral;67;59;7;1;0.8806;0.1045
+FCTE0011;Desenho Técnico;88;57;23;8;0.6477;0.2614
+FCTE0011;Desenho Técnico;107;82;24;1;0.7664;0.2243
+FCTE0011;Desenho Técnico;140;110;28;2;0.7857;0.2
+FCTE0011;Desenho Técnico;89;64;20;5;0.7191;0.2247
+FCTE0011;Desenho Técnico;100;70;26;4;0.7;0.26
+FCTE0011;Desenho Técnico;128;93;28;7;0.7266;0.2188
+FCTE0011;Desenho Técnico;120;78;36;6;0.65;0.3
+FCTE0011;Desenho Técnico;79;57;20;2;0.7215;0.2532
+FCTE0011;Desenho Técnico;138;94;30;14;0.6812;0.2174
+FCTE0011;Desenho Técnico;109;87;17;5;0.7982;0.156
+FCTE0011;Desenho Técnico;102;65;34;3;0.6373;0.3333
+FCTE0011;Desenho Técnico;126;85;37;4;0.6746;0.2937
+FCTE0011;Desenho Técnico;101;69;26;6;0.6832;0.2574
+FCTE0011;Desenho Técnico;113;92;15;6;0.8142;0.1327
+FCTE0011;Desenho Técnico;94;62;28;4;0.6596;0.2979
+FCTE0011;Desenho Técnico;112;65;37;10;0.5804;0.3304
+FCTE0011;Desenho Técnico;93;61;30;2;0.6559;0.3226
+FCTE0011;Desenho Técnico;85;64;20;1;0.7529;0.2353
+FCTE0011;Desenho Técnico;114;76;34;4;0.6667;0.2982
+FCTE0011;Desenho Técnico;93;70;17;6;0.7527;0.1828
+FCTE0011;Desenho Técnico;136;103;23;10;0.7574;0.1691
+FCTE0011;Desenho Técnico;79;57;17;5;0.7215;0.2152
+FCTE0011;Desenho Técnico;89;60;27;2;0.6742;0.3034
+FCTE0011;Desenho Técnico;120;93;24;3;0.775;0.2
+FCTE0012;Métodos Numéricos;138;107;29;2;0.7754;0.2101
+FCTE0012;Métodos Numéricos;92;68;22;2;0.7391;0.2391
+FCTE0012;Métodos Numéricos;83;54;26;3;0.6506;0.3133
+FCTE0012;Métodos Numéricos;89;54;26;9;0.6067;0.2921
+FCTE0012;Métodos Numéricos;81;57;21;3;0.7037;0.2593
+FCTE0012;Métodos Numéricos;105;72;27;6;0.6857;0.2571
+FCTE0012;Métodos Numéricos;130;98;26;6;0.7538;0.2
+FCTE0012;Métodos Numéricos;125;91;29;5;0.728;0.232
+FCTE0012;Métodos Numéricos;128;82;39;7;0.6406;0.3047
+FCTE0012;Métodos Numéricos;141;104;25;12;0.7376;0.1773
+FCTE0012;Métodos Numéricos;105;71;27;7;0.6762;0.2571
+FCTE0012;Métodos Numéricos;139;79;46;14;0.5683;0.3309
+FCTE0012;Métodos Numéricos;110;71;33;6;0.6455;0.3
+FCTE0012;Métodos Numéricos;125;98;23;4;0.784;0.184
+FCTE0012;Métodos Numéricos;95;69;23;3;0.7263;0.2421
+FCTE0012;Métodos Numéricos;94;63;28;3;0.6702;0.2979
+FCTE0012;Métodos Numéricos;75;59;11;5;0.7867;0.1467
+FCTE0012;Métodos Numéricos;81;57;24;0;0.7037;0.2963
+FCTE0012;Métodos Numéricos;126;74;50;2;0.5873;0.3968
+FCTE0012;Métodos Numéricos;134;99;27;8;0.7388;0.2015
+FCTE0012;Métodos Numéricos;70;57;11;2;0.8143;0.1571
+FCTE0012;Métodos Numéricos;97;66;26;5;0.6804;0.268
+FCTE0012;Métodos Numéricos;112;74;31;7;0.6607;0.2768
+FCTE0012;Métodos Numéricos;134;108;21;5;0.806;0.1567
+FCTE0013;Equações Diferenciais;137;91;35;11;0.6642;0.2555
+FCTE0013;Equações Diferenciais;123;67;47;9;0.5447;0.3821
+FCTE0013;Equações Diferenciais;121;77;36;8;0.6364;0.2975
+FCTE0013;Equações Diferenciais;71;42;25;4;0.5915;0.3521
+FCTE0013;Equações Diferenciais;74;43;27;4;0.5811;0.3649
+FCTE0013;Equações Diferenciais;119;82;28;9;0.6891;0.2353
+FCTE0013;Equações Diferenciais;65;41;18;6;0.6308;0.2769
+FCTE0013;Equações Diferenciais;144;95;35;14;0.6597;0.2431
+FCTE0013;Equações Diferenciais;79;39;34;6;0.4937;0.4304
+FCTE0013;Equações Diferenciais;89;63;21;5;0.7079;0.236
+FCTE0013;Equações Diferenciais;97;66;26;5;0.6804;0.268
+FCTE0013;Equações Diferenciais;142;103;29;10;0.7254;0.2042
+FCTE0013;Equações Diferenciais;129;83;36;10;0.6434;0.2791
+FCTE0013;Equações Diferenciais;100;65;30;5;0.65;0.3
+FCTE0013;Equações Diferenciais;94;69;17;8;0.734;0.1809
+FCTE0013;Equações Diferenciais;66;47;14;5;0.7121;0.2121
+FCTE0013;Equações Diferenciais;88;55;26;7;0.625;0.2955
+FCTE0013;Equações Diferenciais;90;49;36;5;0.5444;0.4
+FCTE0013;Equações Diferenciais;140;91;41;8;0.65;0.2929
+FCTE0013;Equações Diferenciais;84;44;36;4;0.5238;0.4286
+FCTE0013;Equações Diferenciais;122;89;25;8;0.7295;0.2049
+FCTE0013;Equações Diferenciais;128;93;30;5;0.7266;0.2344
+FCTE0013;Equações Diferenciais;81;52;26;3;0.642;0.321
+FCTE0013;Equações Diferenciais;71;38;30;3;0.5352;0.4225
+FCTE0014;Engenharia Econômica;133;109;18;6;0.8195;0.1353
+FCTE0014;Engenharia Econômica;126;90;26;10;0.7143;0.2063
+FCTE0014;Engenharia Econômica;122;104;4;14;0.8525;0.0328
+FCTE0014;Engenharia Econômica;134;108;14;12;0.806;0.1045
+FCTE0014;Engenharia Econômica;69;60;7;2;0.8696;0.1014
+FCTE0014;Engenharia Econômica;82;62;10;10;0.7561;0.122
+FCTE0014;Engenharia Econômica;70;56;5;9;0.8;0.0714
+FCTE0014;Engenharia Econômica;82;59;16;7;0.7195;0.1951
+FCTE0014;Engenharia Econômica;128;105;10;13;0.8203;0.0781
+FCTE0014;Engenharia Econômica;76;68;5;3;0.8947;0.0658
+FCTE0014;Engenharia Econômica;112;87;22;3;0.7768;0.1964
+FCTE0014;Engenharia Econômica;137;110;13;14;0.8029;0.0949
+FCTE0014;Engenharia Econômica;85;72;8;5;0.8471;0.0941
+FCTE0014;Engenharia Econômica;123;105;10;8;0.8537;0.0813
+FCTE0014;Engenharia Econômica;81;74;5;2;0.9136;0.0617
+FCTE0014;Engenharia Econômica;91;79;7;5;0.8681;0.0769
+FCTE0014;Engenharia Econômica;106;80;21;5;0.7547;0.1981
+FCTE0014;Engenharia Econômica;93;71;10;12;0.7634;0.1075
+FCTE0014;Engenharia Econômica;106;82;14;10;0.7736;0.1321
+FCTE0014;Engenharia Econômica;87;66;14;7;0.7586;0.1609
+FCTE0014;Engenharia Econômica;137;93;30;14;0.6788;0.219
+FCTE0014;Engenharia Econômica;91;75;9;7;0.8242;0.0989
+FCTE0014;Engenharia Econômica;137;99;25;13;0.7226;0.1825
+FCTE0014;Engenharia Econômica;145;114;17;14;0.7862;0.1172
+FCTE0015;Gestão da Produção e Qualidade;144;110;32;2;0.7639;0.2222
+FCTE0015;Gestão da Produção e Qualidade;112;93;15;4;0.8304;0.1339
+FCTE0015;Gestão da Produção e Qualidade;116;91;21;4;0.7845;0.181
+FCTE0015;Gestão da Produção e Qualidade;131;106;19;6;0.8092;0.145
+FCTE0015;Gestão da Produção e Qualidade;138;107;29;2;0.7754;0.2101
+FCTE0015;Gestão da Produção e Qualidade;134;119;11;4;0.8881;0.0821
+FCTE0015;Gestão da Produção e Qualidade;74;64;9;1;0.8649;0.1216
+FCTE0015;Gestão da Produção e Qualidade;91;76;15;0;0.8352;0.1648
+FCTE0015;Gestão da Produção e Qualidade;103;86;15;2;0.835;0.1456
+FCTE0015;Gestão da Produção e Qualidade;67;47;15;5;0.7015;0.2239
+FCTE0015;Gestão da Produção e Qualidade;134;114;18;2;0.8507;0.1343
+FCTE0015;Gestão da Produção e Qualidade;92;87;5;0;0.9457;0.0543
+FCTE0015;Gestão da Produção e Qualidade;93;82;10;1;0.8817;0.1075
+FCTE0015;Gestão da Produção e Qualidade;100;81;16;3;0.81;0.16
+FCTE0015;Gestão da Produção e Qualidade;123;108;12;3;0.878;0.0976
+FCTE0015;Gestão da Produção e Qualidade;69;61;7;1;0.8841;0.1014
+FCTE0015;Gestão da Produção e Qualidade;133;109;21;3;0.8195;0.1579
+FCTE0015;Gestão da Produção e Qualidade;105;85;13;7;0.8095;0.1238
+FCTE0015;Gestão da Produção e Qualidade;101;78;18;5;0.7723;0.1782
+FCTE0015;Gestão da Produção e Qualidade;108;92;14;2;0.8519;0.1296
+FCTE0015;Gestão da Produção e Qualidade;89;79;10;0;0.8876;0.1124
+FCTE0015;Gestão da Produção e Qualidade;114;89;23;2;0.7807;0.2018
+FCTE0015;Gestão da Produção e Qualidade;85;65;17;3;0.7647;0.2
+FCTE0015;Gestão da Produção e Qualidade;82;65;15;2;0.7927;0.1829
+FCTE0016;Aerodinâmica;28;20;6;2;0.7143;0.2143
+FCTE0016;Aerodinâmica;54;43;8;3;0.7963;0.1481
+FCTE0016;Aerodinâmica;34;31;2;1;0.9118;0.0588
+FCTE0016;Aerodinâmica;54;40;14;0;0.7407;0.2593
+FCTE0016;Aerodinâmica;21;16;2;3;0.7619;0.0952
+FCTE0016;Aerodinâmica;49;36;10;3;0.7347;0.2041
+FCTE0016;Aerodinâmica;24;16;7;1;0.6667;0.2917
+FCTE0016;Aerodinâmica;79;68;8;3;0.8608;0.1013
+FCTE0016;Aerodinâmica;27;22;4;1;0.8148;0.1481
+FCTE0016;Aerodinâmica;43;31;8;4;0.7209;0.186
+FCTE0016;Aerodinâmica;42;35;6;1;0.8333;0.1429
+FCTE0016;Aerodinâmica;56;44;5;7;0.7857;0.0893
+FCTE0016;Aerodinâmica;43;34;6;3;0.7907;0.1395
+FCTE0016;Aerodinâmica;65;53;11;1;0.8154;0.1692
+FCTE0016;Aerodinâmica;61;55;6;0;0.9016;0.0984
+FCTE0016;Aerodinâmica;20;18;1;1;0.9;0.05
+FCTE0016;Aerodinâmica;29;24;3;2;0.8276;0.1034
+FCTE0016;Aerodinâmica;82;63;15;4;0.7683;0.1829
+FCTE0016;Aerodinâmica;33;26;7;0;0.7879;0.2121
+FCTE0016;Aerodinâmica;72;57;14;1;0.7917;0.1944
+FCTE0016;Aerodinâmica;81;58;19;4;0.716;0.2346
+FCTE0016;Aerodinâmica;58;38;16;4;0.6552;0.2759
+FCTE0016;Aerodinâmica;61;45;14;2;0.7377;0.2295
+FCTE0016;Aerodinâmica;38;24;9;5;0.6316;0.2368
+FCTE0017;Mecânica de Voo;62;49;10;3;0.7903;0.1613
+FCTE0017;Mecânica de Voo;36;21;11;4;0.5833;0.3056
+FCTE0017;Mecânica de Voo;74;56;15;3;0.7568;0.2027
+FCTE0017;Mecânica de Voo;76;60;14;2;0.7895;0.1842
+FCTE0017;Mecânica de Voo;34;29;4;1;0.8529;0.1176
+FCTE0017;Mecânica de Voo;45;34;10;1;0.7556;0.2222
+FCTE0017;Mecânica de Voo;49;39;9;1;0.7959;0.1837
+FCTE0017;Mecânica de Voo;38;29;8;1;0.7632;0.2105
+FCTE0017;Mecânica de Voo;25;19;6;0;0.76;0.24
+FCTE0017;Mecânica de Voo;78;68;9;1;0.8718;0.1154
+FCTE0017;Mecânica de Voo;29;19;8;2;0.6552;0.2759
+FCTE0017;Mecânica de Voo;59;43;11;5;0.7288;0.1864
+FCTE0017;Mecânica de Voo;29;25;2;2;0.8621;0.069
+FCTE0017;Mecânica de Voo;30;24;5;1;0.8;0.1667
+FCTE0017;Mecânica de Voo;73;51;18;4;0.6986;0.2466
+FCTE0017;Mecânica de Voo;49;39;9;1;0.7959;0.1837
+FCTE0017;Mecânica de Voo;72;58;13;1;0.8056;0.1806
+FCTE0017;Mecânica de Voo;46;28;13;5;0.6087;0.2826
+FCTE0017;Mecânica de Voo;48;37;8;3;0.7708;0.1667
+FCTE0017;Mecânica de Voo;70;51;17;2;0.7286;0.2429
+FCTE0017;Mecânica de Voo;52;36;11;5;0.6923;0.2115
+FCTE0017;Mecânica de Voo;25;19;4;2;0.76;0.16
+FCTE0017;Mecânica de Voo;47;33;11;3;0.7021;0.234
+FCTE0017;Mecânica de Voo;71;51;15;5;0.7183;0.2113
+FCTE0018;Dinâmica dos Gases;24;11;10;3;0.4583;0.4167
+FCTE0018;Dinâmica dos Gases;23;17;5;1;0.7391;0.2174
+FCTE0018;Dinâmica dos Gases;70;58;8;4;0.8286;0.1143
+FCTE0018;Dinâmica dos Gases;31;20;11;0;0.6452;0.3548
+FCTE0018;Dinâmica dos Gases;71;32;36;3;0.4507;0.507
+FCTE0018;Dinâmica dos Gases;27;18;6;3;0.6667;0.2222
+FCTE0018;Dinâmica dos Gases;67;39;24;4;0.5821;0.3582
+FCTE0018;Dinâmica dos Gases;61;46;14;1;0.7541;0.2295
+FCTE0018;Dinâmica dos Gases;58;40;14;4;0.6897;0.2414
+FCTE0018;Dinâmica dos Gases;33;23;10;0;0.697;0.303
+FCTE0018;Dinâmica dos Gases;18;17;1;0;0.9444;0.0556
+FCTE0018;Dinâmica dos Gases;40;31;6;3;0.775;0.15
+FCTE0018;Dinâmica dos Gases;65;45;17;3;0.6923;0.2615
+FCTE0018;Dinâmica dos Gases;71;47;19;5;0.662;0.2676
+FCTE0018;Dinâmica dos Gases;29;20;7;2;0.6897;0.2414
+FCTE0018;Dinâmica dos Gases;46;33;9;4;0.7174;0.1957
+FCTE0018;Dinâmica dos Gases;77;57;16;4;0.7403;0.2078
+FCTE0018;Dinâmica dos Gases;63;40;20;3;0.6349;0.3175
+FCTE0018;Dinâmica dos Gases;19;15;2;2;0.7895;0.1053
+FCTE0018;Dinâmica dos Gases;23;17;5;1;0.7391;0.2174
+FCTE0018;Dinâmica dos Gases;81;62;19;0;0.7654;0.2346
+FCTE0018;Dinâmica dos Gases;31;21;9;1;0.6774;0.2903
+FCTE0018;Dinâmica dos Gases;76;49;22;5;0.6447;0.2895
+FCTE0018;Dinâmica dos Gases;67;43;16;8;0.6418;0.2388
+FCTE0019;Propulsão Aeroespacial;33;19;11;3;0.5758;0.3333
+FCTE0019;Propulsão Aeroespacial;21;15;6;0;0.7143;0.2857
+FCTE0019;Propulsão Aeroespacial;45;35;10;0;0.7778;0.2222
+FCTE0019;Propulsão Aeroespacial;64;41;19;4;0.6406;0.2969
+FCTE0019;Propulsão Aeroespacial;48;25;22;1;0.5208;0.4583
+FCTE0019;Propulsão Aeroespacial;37;17;15;5;0.4595;0.4054
+FCTE0019;Propulsão Aeroespacial;38;27;9;2;0.7105;0.2368
+FCTE0019;Propulsão Aeroespacial;79;53;24;2;0.6709;0.3038
+FCTE0019;Propulsão Aeroespacial;53;38;7;8;0.717;0.1321
+FCTE0019;Propulsão Aeroespacial;47;32;15;0;0.6809;0.3191
+FCTE0019;Propulsão Aeroespacial;43;31;9;3;0.7209;0.2093
+FCTE0019;Propulsão Aeroespacial;49;35;12;2;0.7143;0.2449
+FCTE0019;Propulsão Aeroespacial;20;15;5;0;0.75;0.25
+FCTE0019;Propulsão Aeroespacial;36;24;9;3;0.6667;0.25
+FCTE0019;Propulsão Aeroespacial;69;47;18;4;0.6812;0.2609
+FCTE0019;Propulsão Aeroespacial;47;31;12;4;0.6596;0.2553
+FCTE0019;Propulsão Aeroespacial;81;42;34;5;0.5185;0.4198
+FCTE0019;Propulsão Aeroespacial;63;43;16;4;0.6825;0.254
+FCTE0019;Propulsão Aeroespacial;65;49;14;2;0.7538;0.2154
+FCTE0019;Propulsão Aeroespacial;60;43;13;4;0.7167;0.2167
+FCTE0019;Propulsão Aeroespacial;66;45;16;5;0.6818;0.2424
+FCTE0019;Propulsão Aeroespacial;68;43;20;5;0.6324;0.2941
+FCTE0019;Propulsão Aeroespacial;62;49;11;2;0.7903;0.1774
+FCTE0019;Propulsão Aeroespacial;32;20;10;2;0.625;0.3125
+FCTE0020;Estruturas Aeroespaciais;70;47;22;1;0.6714;0.3143
+FCTE0020;Estruturas Aeroespaciais;27;19;8;0;0.7037;0.2963
+FCTE0020;Estruturas Aeroespaciais;61;40;20;1;0.6557;0.3279
+FCTE0020;Estruturas Aeroespaciais;29;18;10;1;0.6207;0.3448
+FCTE0020;Estruturas Aeroespaciais;74;52;20;2;0.7027;0.2703
+FCTE0020;Estruturas Aeroespaciais;62;43;17;2;0.6935;0.2742
+FCTE0020;Estruturas Aeroespaciais;25;16;8;1;0.64;0.32
+FCTE0020;Estruturas Aeroespaciais;34;25;9;0;0.7353;0.2647
+FCTE0020;Estruturas Aeroespaciais;61;44;13;4;0.7213;0.2131
+FCTE0020;Estruturas Aeroespaciais;67;42;21;4;0.6269;0.3134
+FCTE0020;Estruturas Aeroespaciais;53;24;29;0;0.4528;0.5472
+FCTE0020;Estruturas Aeroespaciais;53;37;16;0;0.6981;0.3019
+FCTE0020;Estruturas Aeroespaciais;49;32;13;4;0.6531;0.2653
+FCTE0020;Estruturas Aeroespaciais;53;32;21;0;0.6038;0.3962
+FCTE0020;Estruturas Aeroespaciais;35;29;6;0;0.8286;0.1714
+FCTE0020;Estruturas Aeroespaciais;23;11;8;4;0.4783;0.3478
+FCTE0020;Estruturas Aeroespaciais;72;47;24;1;0.6528;0.3333
+FCTE0020;Estruturas Aeroespaciais;46;37;8;1;0.8043;0.1739
+FCTE0020;Estruturas Aeroespaciais;53;32;20;1;0.6038;0.3774
+FCTE0020;Estruturas Aeroespaciais;75;47;27;1;0.6267;0.36
+FCTE0020;Estruturas Aeroespaciais;65;38;26;1;0.5846;0.4
+FCTE0020;Estruturas Aeroespaciais;38;27;11;0;0.7105;0.2895
+FCTE0020;Estruturas Aeroespaciais;30;22;8;0;0.7333;0.2667
+FCTE0020;Estruturas Aeroespaciais;35;18;17;0;0.5143;0.4857
+FCTE0021;Sistemas de Controle de Voo;75;55;17;3;0.7333;0.2267
+FCTE0021;Sistemas de Controle de Voo;65;57;5;3;0.8769;0.0769
+FCTE0021;Sistemas de Controle de Voo;55;41;11;3;0.7455;0.2
+FCTE0021;Sistemas de Controle de Voo;66;54;12;0;0.8182;0.1818
+FCTE0021;Sistemas de Controle de Voo;47;42;4;1;0.8936;0.0851
+FCTE0021;Sistemas de Controle de Voo;45;39;5;1;0.8667;0.1111
+FCTE0021;Sistemas de Controle de Voo;40;36;2;2;0.9;0.05
+FCTE0021;Sistemas de Controle de Voo;68;59;6;3;0.8676;0.0882
+FCTE0021;Sistemas de Controle de Voo;60;53;5;2;0.8833;0.0833
+FCTE0021;Sistemas de Controle de Voo;65;56;7;2;0.8615;0.1077
+FCTE0021;Sistemas de Controle de Voo;31;24;5;2;0.7742;0.1613
+FCTE0021;Sistemas de Controle de Voo;44;33;9;2;0.75;0.2045
+FCTE0021;Sistemas de Controle de Voo;48;41;6;1;0.8542;0.125
+FCTE0021;Sistemas de Controle de Voo;39;33;6;0;0.8462;0.1538
+FCTE0021;Sistemas de Controle de Voo;47;41;5;1;0.8723;0.1064
+FCTE0021;Sistemas de Controle de Voo;45;36;8;1;0.8;0.1778
+FCTE0021;Sistemas de Controle de Voo;50;43;5;2;0.86;0.1
+FCTE0021;Sistemas de Controle de Voo;25;21;2;2;0.84;0.08
+FCTE0021;Sistemas de Controle de Voo;66;56;3;7;0.8485;0.0455
+FCTE0021;Sistemas de Controle de Voo;43;35;6;2;0.814;0.1395
+FCTE0021;Sistemas de Controle de Voo;75;68;4;3;0.9067;0.0533
+FCTE0021;Sistemas de Controle de Voo;24;19;4;1;0.7917;0.1667
+FCTE0021;Sistemas de Controle de Voo;40;31;8;1;0.775;0.2
+FCTE0021;Sistemas de Controle de Voo;28;23;1;4;0.8214;0.0357
+FCTE0022;Desempenho de Aeronaves;73;59;13;1;0.8082;0.1781
+FCTE0022;Desempenho de Aeronaves;45;41;0;4;0.9111;0.0
+FCTE0022;Desempenho de Aeronaves;55;49;2;4;0.8909;0.0364
+FCTE0022;Desempenho de Aeronaves;66;53;11;2;0.803;0.1667
+FCTE0022;Desempenho de Aeronaves;24;22;2;0;0.9167;0.0833
+FCTE0022;Desempenho de Aeronaves;41;32;7;2;0.7805;0.1707
+FCTE0022;Desempenho de Aeronaves;30;21;9;0;0.7;0.3
+FCTE0022;Desempenho de Aeronaves;26;20;5;1;0.7692;0.1923
+FCTE0022;Desempenho de Aeronaves;24;18;5;1;0.75;0.2083
+FCTE0022;Desempenho de Aeronaves;73;57;13;3;0.7808;0.1781
+FCTE0022;Desempenho de Aeronaves;53;39;13;1;0.7358;0.2453
+FCTE0022;Desempenho de Aeronaves;27;22;3;2;0.8148;0.1111
+FCTE0022;Desempenho de Aeronaves;33;30;2;1;0.9091;0.0606
+FCTE0022;Desempenho de Aeronaves;35;28;5;2;0.8;0.1429
+FCTE0022;Desempenho de Aeronaves;24;17;5;2;0.7083;0.2083
+FCTE0022;Desempenho de Aeronaves;19;16;3;0;0.8421;0.1579
+FCTE0022;Desempenho de Aeronaves;30;28;1;1;0.9333;0.0333
+FCTE0022;Desempenho de Aeronaves;39;32;7;0;0.8205;0.1795
+FCTE0022;Desempenho de Aeronaves;47;38;9;0;0.8085;0.1915
+FCTE0022;Desempenho de Aeronaves;24;19;3;2;0.7917;0.125
+FCTE0022;Desempenho de Aeronaves;41;33;7;1;0.8049;0.1707
+FCTE0022;Desempenho de Aeronaves;66;47;16;3;0.7121;0.2424
+FCTE0022;Desempenho de Aeronaves;64;42;19;3;0.6562;0.2969
+FCTE0022;Desempenho de Aeronaves;63;55;6;2;0.873;0.0952
+FCTE0023;Projeto de Aeronaves;52;37;14;1;0.7115;0.2692
+FCTE0023;Projeto de Aeronaves;74;56;15;3;0.7568;0.2027
+FCTE0023;Projeto de Aeronaves;21;15;3;3;0.7143;0.1429
+FCTE0023;Projeto de Aeronaves;70;53;12;5;0.7571;0.1714
+FCTE0023;Projeto de Aeronaves;36;32;1;3;0.8889;0.0278
+FCTE0023;Projeto de Aeronaves;58;44;12;2;0.7586;0.2069
+FCTE0023;Projeto de Aeronaves;45;35;7;3;0.7778;0.1556
+FCTE0023;Projeto de Aeronaves;68;39;25;4;0.5735;0.3676
+FCTE0023;Projeto de Aeronaves;25;17;6;2;0.68;0.24
+FCTE0023;Projeto de Aeronaves;55;44;10;1;0.8;0.1818
+FCTE0023;Projeto de Aeronaves;45;37;7;1;0.8222;0.1556
+FCTE0023;Projeto de Aeronaves;18;14;4;0;0.7778;0.2222
+FCTE0023;Projeto de Aeronaves;53;45;8;0;0.8491;0.1509
+FCTE0023;Projeto de Aeronaves;62;45;14;3;0.7258;0.2258
+FCTE0023;Projeto de Aeronaves;61;46;12;3;0.7541;0.1967
+FCTE0023;Projeto de Aeronaves;24;15;5;4;0.625;0.2083
+FCTE0023;Projeto de Aeronaves;51;33;13;5;0.6471;0.2549
+FCTE0023;Projeto de Aeronaves;68;54;8;6;0.7941;0.1176
+FCTE0023;Projeto de Aeronaves;74;56;15;3;0.7568;0.2027
+FCTE0023;Projeto de Aeronaves;76;54;18;4;0.7105;0.2368
+FCTE0023;Projeto de Aeronaves;75;58;14;3;0.7733;0.1867
+FCTE0023;Projeto de Aeronaves;46;34;10;2;0.7391;0.2174
+FCTE0023;Projeto de Aeronaves;80;65;10;5;0.8125;0.125
+FCTE0023;Projeto de Aeronaves;59;46;9;4;0.7797;0.1525
+FCTE0024;Mecânica Orbital;67;44;16;7;0.6567;0.2388
+FCTE0024;Mecânica Orbital;71;48;22;1;0.6761;0.3099
+FCTE0024;Mecânica Orbital;25;16;7;2;0.64;0.28
+FCTE0024;Mecânica Orbital;45;35;7;3;0.7778;0.1556
+FCTE0024;Mecânica Orbital;67;43;17;7;0.6418;0.2537
+FCTE0024;Mecânica Orbital;54;36;15;3;0.6667;0.2778
+FCTE0024;Mecânica Orbital;59;43;12;4;0.7288;0.2034
+FCTE0024;Mecânica Orbital;50;31;14;5;0.62;0.28
+FCTE0024;Mecânica Orbital;26;21;3;2;0.8077;0.1154
+FCTE0024;Mecânica Orbital;67;48;14;5;0.7164;0.209
+FCTE0024;Mecânica Orbital;42;34;8;0;0.8095;0.1905
+FCTE0024;Mecânica Orbital;56;34;17;5;0.6071;0.3036
+FCTE0024;Mecânica Orbital;26;21;5;0;0.8077;0.1923
+FCTE0024;Mecânica Orbital;42;32;7;3;0.7619;0.1667
+FCTE0024;Mecânica Orbital;77;58;15;4;0.7532;0.1948
+FCTE0024;Mecânica Orbital;49;40;5;4;0.8163;0.102
+FCTE0024;Mecânica Orbital;21;13;7;1;0.619;0.3333
+FCTE0024;Mecânica Orbital;52;39;8;5;0.75;0.1538
+FCTE0024;Mecânica Orbital;65;44;21;0;0.6769;0.3231
+FCTE0024;Mecânica Orbital;74;59;13;2;0.7973;0.1757
+FCTE0024;Mecânica Orbital;75;50;15;10;0.6667;0.2
+FCTE0024;Mecânica Orbital;80;59;16;5;0.7375;0.2
+FCTE0024;Mecânica Orbital;70;60;8;2;0.8571;0.1143
+FCTE0024;Mecânica Orbital;27;12;11;4;0.4444;0.4074
+FCTE0025;Sistemas Espaciais;40;31;8;1;0.775;0.2
+FCTE0025;Sistemas Espaciais;78;58;18;2;0.7436;0.2308
+FCTE0025;Sistemas Espaciais;57;43;14;0;0.7544;0.2456
+FCTE0025;Sistemas Espaciais;33;27;6;0;0.8182;0.1818
+FCTE0025;Sistemas Espaciais;59;41;13;5;0.6949;0.2203
+FCTE0025;Sistemas Espaciais;76;46;30;0;0.6053;0.3947
+FCTE0025;Sistemas Espaciais;30;22;7;1;0.7333;0.2333
+FCTE0025;Sistemas Espaciais;33;25;8;0;0.7576;0.2424
+FCTE0025;Sistemas Espaciais;59;44;15;0;0.7458;0.2542
+FCTE0025;Sistemas Espaciais;56;39;17;0;0.6964;0.3036
+FCTE0025;Sistemas Espaciais;66;48;17;1;0.7273;0.2576
+FCTE0025;Sistemas Espaciais;73;53;17;3;0.726;0.2329
+FCTE0025;Sistemas Espaciais;54;44;10;0;0.8148;0.1852
+FCTE0025;Sistemas Espaciais;70;49;18;3;0.7;0.2571
+FCTE0025;Sistemas Espaciais;54;42;11;1;0.7778;0.2037
+FCTE0025;Sistemas Espaciais;80;71;7;2;0.8875;0.0875
+FCTE0025;Sistemas Espaciais;21;15;6;0;0.7143;0.2857
+FCTE0025;Sistemas Espaciais;71;50;17;4;0.7042;0.2394
+FCTE0025;Sistemas Espaciais;50;38;10;2;0.76;0.2
+FCTE0025;Sistemas Espaciais;25;18;7;0;0.72;0.28
+FCTE0025;Sistemas Espaciais;47;33;13;1;0.7021;0.2766
+FCTE0025;Sistemas Espaciais;67;55;12;0;0.8209;0.1791
+FCTE0025;Sistemas Espaciais;44;34;9;1;0.7727;0.2045
+FCTE0025;Sistemas Espaciais;33;20;13;0;0.6061;0.3939
+FCTE0026;Materiais Aeroespaciais;33;26;6;1;0.7879;0.1818
+FCTE0026;Materiais Aeroespaciais;33;30;3;0;0.9091;0.0909
+FCTE0026;Materiais Aeroespaciais;35;21;13;1;0.6;0.3714
+FCTE0026;Materiais Aeroespaciais;62;44;16;2;0.7097;0.2581
+FCTE0026;Materiais Aeroespaciais;26;19;6;1;0.7308;0.2308
+FCTE0026;Materiais Aeroespaciais;72;53;16;3;0.7361;0.2222
+FCTE0026;Materiais Aeroespaciais;42;22;19;1;0.5238;0.4524
+FCTE0026;Materiais Aeroespaciais;68;49;16;3;0.7206;0.2353
+FCTE0026;Materiais Aeroespaciais;41;32;8;1;0.7805;0.1951
+FCTE0026;Materiais Aeroespaciais;44;31;10;3;0.7045;0.2273
+FCTE0026;Materiais Aeroespaciais;30;24;6;0;0.8;0.2
+FCTE0026;Materiais Aeroespaciais;21;16;5;0;0.7619;0.2381
+FCTE0026;Materiais Aeroespaciais;29;19;8;2;0.6552;0.2759
+FCTE0026;Materiais Aeroespaciais;58;36;21;1;0.6207;0.3621
+FCTE0026;Materiais Aeroespaciais;70;47;18;5;0.6714;0.2571
+FCTE0026;Materiais Aeroespaciais;57;37;17;3;0.6491;0.2982
+FCTE0026;Materiais Aeroespaciais;45;21;23;1;0.4667;0.5111
+FCTE0026;Materiais Aeroespaciais;79;50;25;4;0.6329;0.3165
+FCTE0026;Materiais Aeroespaciais;57;34;22;1;0.5965;0.386
+FCTE0026;Materiais Aeroespaciais;30;26;4;0;0.8667;0.1333
+FCTE0026;Materiais Aeroespaciais;73;46;25;2;0.6301;0.3425
+FCTE0026;Materiais Aeroespaciais;28;22;6;0;0.7857;0.2143
+FCTE0026;Materiais Aeroespaciais;61;44;13;4;0.7213;0.2131
+FCTE0026;Materiais Aeroespaciais;52;34;18;0;0.6538;0.3462
+FCTE0027;Aeroelasticidade;29;15;13;1;0.5172;0.4483
+FCTE0027;Aeroelasticidade;73;41;20;12;0.5616;0.274
+FCTE0027;Aeroelasticidade;79;54;22;3;0.6835;0.2785
+FCTE0027;Aeroelasticidade;68;40;25;3;0.5882;0.3676
+FCTE0027;Aeroelasticidade;78;53;24;1;0.6795;0.3077
+FCTE0027;Aeroelasticidade;62;41;19;2;0.6613;0.3065
+FCTE0027;Aeroelasticidade;72;44;24;4;0.6111;0.3333
+FCTE0027;Aeroelasticidade;58;35;15;8;0.6034;0.2586
+FCTE0027;Aeroelasticidade;24;16;8;0;0.6667;0.3333
+FCTE0027;Aeroelasticidade;49;33;14;2;0.6735;0.2857
+FCTE0027;Aeroelasticidade;30;22;7;1;0.7333;0.2333
+FCTE0027;Aeroelasticidade;20;11;8;1;0.55;0.4
+FCTE0027;Aeroelasticidade;56;40;13;3;0.7143;0.2321
+FCTE0027;Aeroelasticidade;71;40;29;2;0.5634;0.4085
+FCTE0027;Aeroelasticidade;56;30;24;2;0.5357;0.4286
+FCTE0027;Aeroelasticidade;69;42;23;4;0.6087;0.3333
+FCTE0027;Aeroelasticidade;69;41;25;3;0.5942;0.3623
+FCTE0027;Aeroelasticidade;44;33;11;0;0.75;0.25
+FCTE0027;Aeroelasticidade;59;36;20;3;0.6102;0.339
+FCTE0027;Aeroelasticidade;42;31;10;1;0.7381;0.2381
+FCTE0027;Aeroelasticidade;68;46;22;0;0.6765;0.3235
+FCTE0027;Aeroelasticidade;68;43;20;5;0.6324;0.2941
+FCTE0027;Aeroelasticidade;19;12;6;1;0.6316;0.3158
+FCTE0027;Aeroelasticidade;39;27;9;3;0.6923;0.2308
+FCTE0028;Ensaios em Túnel de Vento;74;64;5;5;0.8649;0.0676
+FCTE0028;Ensaios em Túnel de Vento;70;57;8;5;0.8143;0.1143
+FCTE0028;Ensaios em Túnel de Vento;44;37;4;3;0.8409;0.0909
+FCTE0028;Ensaios em Túnel de Vento;24;21;1;2;0.875;0.0417
+FCTE0028;Ensaios em Túnel de Vento;56;50;3;3;0.8929;0.0536
+FCTE0028;Ensaios em Túnel de Vento;30;26;2;2;0.8667;0.0667
+FCTE0028;Ensaios em Túnel de Vento;66;57;5;4;0.8636;0.0758
+FCTE0028;Ensaios em Túnel de Vento;60;55;0;5;0.9167;0.0
+FCTE0028;Ensaios em Túnel de Vento;32;27;3;2;0.8438;0.0938
+FCTE0028;Ensaios em Túnel de Vento;22;18;3;1;0.8182;0.1364
+FCTE0028;Ensaios em Túnel de Vento;33;24;6;3;0.7273;0.1818
+FCTE0028;Ensaios em Túnel de Vento;79;67;8;4;0.8481;0.1013
+FCTE0028;Ensaios em Túnel de Vento;62;48;8;6;0.7742;0.129
+FCTE0028;Ensaios em Túnel de Vento;47;41;4;2;0.8723;0.0851
+FCTE0028;Ensaios em Túnel de Vento;71;55;9;7;0.7746;0.1268
+FCTE0028;Ensaios em Túnel de Vento;80;72;2;6;0.9;0.025
+FCTE0028;Ensaios em Túnel de Vento;62;44;14;4;0.7097;0.2258
+FCTE0028;Ensaios em Túnel de Vento;74;54;14;6;0.7297;0.1892
+FCTE0028;Ensaios em Túnel de Vento;76;62;7;7;0.8158;0.0921
+FCTE0028;Ensaios em Túnel de Vento;60;55;3;2;0.9167;0.05
+FCTE0028;Ensaios em Túnel de Vento;80;67;8;5;0.8375;0.1
+FCTE0028;Ensaios em Túnel de Vento;34;32;1;1;0.9412;0.0294
+FCTE0028;Ensaios em Túnel de Vento;32;27;2;3;0.8438;0.0625
+FCTE0028;Ensaios em Túnel de Vento;50;36;7;7;0.72;0.14
+FCTE0029;Dinâmica de Satélites;76;59;13;4;0.7763;0.1711
+FCTE0029;Dinâmica de Satélites;58;48;5;5;0.8276;0.0862
+FCTE0029;Dinâmica de Satélites;45;35;8;2;0.7778;0.1778
+FCTE0029;Dinâmica de Satélites;74;62;9;3;0.8378;0.1216
+FCTE0029;Dinâmica de Satélites;39;25;9;5;0.641;0.2308
+FCTE0029;Dinâmica de Satélites;36;27;5;4;0.75;0.1389
+FCTE0029;Dinâmica de Satélites;41;28;11;2;0.6829;0.2683
+FCTE0029;Dinâmica de Satélites;59;48;11;0;0.8136;0.1864
+FCTE0029;Dinâmica de Satélites;68;53;7;8;0.7794;0.1029
+FCTE0029;Dinâmica de Satélites;36;25;11;0;0.6944;0.3056
+FCTE0029;Dinâmica de Satélites;66;49;9;8;0.7424;0.1364
+FCTE0029;Dinâmica de Satélites;48;41;3;4;0.8542;0.0625
+FCTE0029;Dinâmica de Satélites;30;25;3;2;0.8333;0.1
+FCTE0029;Dinâmica de Satélites;81;72;1;8;0.8889;0.0123
+FCTE0029;Dinâmica de Satélites;69;49;11;9;0.7101;0.1594
+FCTE0029;Dinâmica de Satélites;36;30;3;3;0.8333;0.0833
+FCTE0029;Dinâmica de Satélites;49;32;8;9;0.6531;0.1633
+FCTE0029;Dinâmica de Satélites;76;61;9;6;0.8026;0.1184
+FCTE0029;Dinâmica de Satélites;47;41;4;2;0.8723;0.0851
+FCTE0029;Dinâmica de Satélites;44;32;6;6;0.7273;0.1364
+FCTE0029;Dinâmica de Satélites;52;45;4;3;0.8654;0.0769
+FCTE0029;Dinâmica de Satélites;32;26;3;3;0.8125;0.0938
+FCTE0029;Dinâmica de Satélites;37;28;6;3;0.7568;0.1622
+FCTE0029;Dinâmica de Satélites;47;38;7;2;0.8085;0.1489
+FCTE0030;Propulsão de Foguetes;31;27;3;1;0.871;0.0968
+FCTE0030;Propulsão de Foguetes;34;26;6;2;0.7647;0.1765
+FCTE0030;Propulsão de Foguetes;75;59;15;1;0.7867;0.2
+FCTE0030;Propulsão de Foguetes;37;32;5;0;0.8649;0.1351
+FCTE0030;Propulsão de Foguetes;24;17;6;1;0.7083;0.25
+FCTE0030;Propulsão de Foguetes;28;22;6;0;0.7857;0.2143
+FCTE0030;Propulsão de Foguetes;63;49;9;5;0.7778;0.1429
+FCTE0030;Propulsão de Foguetes;38;29;7;2;0.7632;0.1842
+FCTE0030;Propulsão de Foguetes;61;50;9;2;0.8197;0.1475
+FCTE0030;Propulsão de Foguetes;32;25;5;2;0.7812;0.1562
+FCTE0030;Propulsão de Foguetes;61;46;12;3;0.7541;0.1967
+FCTE0030;Propulsão de Foguetes;48;32;15;1;0.6667;0.3125
+FCTE0030;Propulsão de Foguetes;32;24;7;1;0.75;0.2188
+FCTE0030;Propulsão de Foguetes;40;35;3;2;0.875;0.075
+FCTE0030;Propulsão de Foguetes;55;36;17;2;0.6545;0.3091
+FCTE0030;Propulsão de Foguetes;34;25;9;0;0.7353;0.2647
+FCTE0030;Propulsão de Foguetes;60;49;10;1;0.8167;0.1667
+FCTE0030;Propulsão de Foguetes;44;37;7;0;0.8409;0.1591
+FCTE0030;Propulsão de Foguetes;65;47;18;0;0.7231;0.2769
+FCTE0030;Propulsão de Foguetes;59;43;10;6;0.7288;0.1695
+FCTE0030;Propulsão de Foguetes;51;43;6;2;0.8431;0.1176
+FCTE0030;Propulsão de Foguetes;58;44;12;2;0.7586;0.2069
+FCTE0030;Propulsão de Foguetes;55;44;10;1;0.8;0.1818
+FCTE0030;Propulsão de Foguetes;51;43;7;1;0.8431;0.1373
+FCTE0031;Aviónica;74;54;17;3;0.7297;0.2297
+FCTE0031;Aviónica;50;40;9;1;0.8;0.18
+FCTE0031;Aviónica;52;40;10;2;0.7692;0.1923
+FCTE0031;Aviónica;63;50;12;1;0.7937;0.1905
+FCTE0031;Aviónica;78;54;20;4;0.6923;0.2564
+FCTE0031;Aviónica;56;45;10;1;0.8036;0.1786
+FCTE0031;Aviónica;82;63;16;3;0.7683;0.1951
+FCTE0031;Aviónica;49;40;9;0;0.8163;0.1837
+FCTE0031;Aviónica;54;38;13;3;0.7037;0.2407
+FCTE0031;Aviónica;42;35;7;0;0.8333;0.1667
+FCTE0031;Aviónica;52;37;14;1;0.7115;0.2692
+FCTE0031;Aviónica;61;49;12;0;0.8033;0.1967
+FCTE0031;Aviónica;24;15;9;0;0.625;0.375
+FCTE0031;Aviónica;33;24;7;2;0.7273;0.2121
+FCTE0031;Aviónica;41;32;8;1;0.7805;0.1951
+FCTE0031;Aviónica;79;62;15;2;0.7848;0.1899
+FCTE0031;Aviónica;39;24;14;1;0.6154;0.359
+FCTE0031;Aviónica;18;10;8;0;0.5556;0.4444
+FCTE0031;Aviónica;58;41;14;3;0.7069;0.2414
+FCTE0031;Aviónica;81;60;17;4;0.7407;0.2099
+FCTE0031;Aviónica;73;55;12;6;0.7534;0.1644
+FCTE0031;Aviónica;74;60;12;2;0.8108;0.1622
+FCTE0031;Aviónica;42;29;10;3;0.6905;0.2381
+FCTE0031;Aviónica;63;44;17;2;0.6984;0.2698
+FCTE0032;Navegação Aérea;50;37;11;2;0.74;0.22
+FCTE0032;Navegação Aérea;43;35;6;2;0.814;0.1395
+FCTE0032;Navegação Aérea;82;59;20;3;0.7195;0.2439
+FCTE0032;Navegação Aérea;49;31;13;5;0.6327;0.2653
+FCTE0032;Navegação Aérea;63;49;14;0;0.7778;0.2222
+FCTE0032;Navegação Aérea;25;18;4;3;0.72;0.16
+FCTE0032;Navegação Aérea;46;32;14;0;0.6957;0.3043
+FCTE0032;Navegação Aérea;51;40;7;4;0.7843;0.1373
+FCTE0032;Navegação Aérea;23;18;5;0;0.7826;0.2174
+FCTE0032;Navegação Aérea;59;41;14;4;0.6949;0.2373
+FCTE0032;Navegação Aérea;56;46;8;2;0.8214;0.1429
+FCTE0032;Navegação Aérea;50;41;7;2;0.82;0.14
+FCTE0032;Navegação Aérea;20;14;4;2;0.7;0.2
+FCTE0032;Navegação Aérea;44;36;7;1;0.8182;0.1591
+FCTE0032;Navegação Aérea;53;36;13;4;0.6792;0.2453
+FCTE0032;Navegação Aérea;66;54;8;4;0.8182;0.1212
+FCTE0032;Navegação Aérea;77;52;25;0;0.6753;0.3247
+FCTE0032;Navegação Aérea;31;17;12;2;0.5484;0.3871
+FCTE0032;Navegação Aérea;72;56;6;10;0.7778;0.0833
+FCTE0032;Navegação Aérea;21;15;6;0;0.7143;0.2857
+FCTE0032;Navegação Aérea;58;45;11;2;0.7759;0.1897
+FCTE0032;Navegação Aérea;59;36;21;2;0.6102;0.3559
+FCTE0032;Navegação Aérea;82;60;20;2;0.7317;0.2439
+FCTE0032;Navegação Aérea;18;14;4;0;0.7778;0.2222
+FCTE0033;Transferência de Calor Aeroespacial;68;45;23;0;0.6618;0.3382
+FCTE0033;Transferência de Calor Aeroespacial;35;22;10;3;0.6286;0.2857
+FCTE0033;Transferência de Calor Aeroespacial;79;35;43;1;0.443;0.5443
+FCTE0033;Transferência de Calor Aeroespacial;81;55;21;5;0.679;0.2593
+FCTE0033;Transferência de Calor Aeroespacial;21;8;12;1;0.381;0.5714
+FCTE0033;Transferência de Calor Aeroespacial;76;51;21;4;0.6711;0.2763
+FCTE0033;Transferência de Calor Aeroespacial;30;19;10;1;0.6333;0.3333
+FCTE0033;Transferência de Calor Aeroespacial;66;48;16;2;0.7273;0.2424
+FCTE0033;Transferência de Calor Aeroespacial;77;60;13;4;0.7792;0.1688
+FCTE0033;Transferência de Calor Aeroespacial;51;32;17;2;0.6275;0.3333
+FCTE0033;Transferência de Calor Aeroespacial;19;10;7;2;0.5263;0.3684
+FCTE0033;Transferência de Calor Aeroespacial;60;43;15;2;0.7167;0.25
+FCTE0033;Transferência de Calor Aeroespacial;28;12;14;2;0.4286;0.5
+FCTE0033;Transferência de Calor Aeroespacial;42;31;9;2;0.7381;0.2143
+FCTE0033;Transferência de Calor Aeroespacial;45;29;14;2;0.6444;0.3111
+FCTE0033;Transferência de Calor Aeroespacial;38;24;7;7;0.6316;0.1842
+FCTE0033;Transferência de Calor Aeroespacial;49;28;18;3;0.5714;0.3673
+FCTE0033;Transferência de Calor Aeroespacial;79;47;24;8;0.5949;0.3038
+FCTE0033;Transferência de Calor Aeroespacial;68;47;18;3;0.6912;0.2647
+FCTE0033;Transferência de Calor Aeroespacial;58;39;15;4;0.6724;0.2586
+FCTE0033;Transferência de Calor Aeroespacial;59;39;17;3;0.661;0.2881
+FCTE0033;Transferência de Calor Aeroespacial;70;52;16;2;0.7429;0.2286
+FCTE0033;Transferência de Calor Aeroespacial;26;23;2;1;0.8846;0.0769
+FCTE0033;Transferência de Calor Aeroespacial;52;32;16;4;0.6154;0.3077
+FCTE0034;Projeto de Veículos Espaciais;49;24;18;7;0.4898;0.3673
+FCTE0034;Projeto de Veículos Espaciais;81;47;28;6;0.5802;0.3457
+FCTE0034;Projeto de Veículos Espaciais;60;36;18;6;0.6;0.3
+FCTE0034;Projeto de Veículos Espaciais;71;47;17;7;0.662;0.2394
+FCTE0034;Projeto de Veículos Espaciais;82;57;23;2;0.6951;0.2805
+FCTE0034;Projeto de Veículos Espaciais;74;51;17;6;0.6892;0.2297
+FCTE0034;Projeto de Veículos Espaciais;18;14;3;1;0.7778;0.1667
+FCTE0034;Projeto de Veículos Espaciais;72;37;29;6;0.5139;0.4028
+FCTE0034;Projeto de Veículos Espaciais;31;18;10;3;0.5806;0.3226
+FCTE0034;Projeto de Veículos Espaciais;56;37;16;3;0.6607;0.2857
+FCTE0034;Projeto de Veículos Espaciais;55;28;23;4;0.5091;0.4182
+FCTE0034;Projeto de Veículos Espaciais;18;11;6;1;0.6111;0.3333
+FCTE0034;Projeto de Veículos Espaciais;72;43;24;5;0.5972;0.3333
+FCTE0034;Projeto de Veículos Espaciais;21;13;6;2;0.619;0.2857
+FCTE0034;Projeto de Veículos Espaciais;55;37;15;3;0.6727;0.2727
+FCTE0034;Projeto de Veículos Espaciais;77;48;23;6;0.6234;0.2987
+FCTE0034;Projeto de Veículos Espaciais;62;43;15;4;0.6935;0.2419
+FCTE0034;Projeto de Veículos Espaciais;80;46;24;10;0.575;0.3
+FCTE0034;Projeto de Veículos Espaciais;25;13;9;3;0.52;0.36
+FCTE0034;Projeto de Veículos Espaciais;76;47;23;6;0.6184;0.3026
+FCTE0034;Projeto de Veículos Espaciais;55;38;15;2;0.6909;0.2727
+FCTE0034;Projeto de Veículos Espaciais;32;24;6;2;0.75;0.1875
+FCTE0034;Projeto de Veículos Espaciais;44;15;22;7;0.3409;0.5
+FCTE0034;Projeto de Veículos Espaciais;74;48;20;6;0.6486;0.2703
+FCTE0035;Integração e Testes Aeroespaciais;61;57;4;0;0.9344;0.0656
+FCTE0035;Integração e Testes Aeroespaciais;61;58;3;0;0.9508;0.0492
+FCTE0035;Integração e Testes Aeroespaciais;69;59;9;1;0.8551;0.1304
+FCTE0035;Integração e Testes Aeroespaciais;63;51;9;3;0.8095;0.1429
+FCTE0035;Integração e Testes Aeroespaciais;27;23;3;1;0.8519;0.1111
+FCTE0035;Integração e Testes Aeroespaciais;48;41;6;1;0.8542;0.125
+FCTE0035;Integração e Testes Aeroespaciais;22;17;5;0;0.7727;0.2273
+FCTE0035;Integração e Testes Aeroespaciais;64;57;7;0;0.8906;0.1094
+FCTE0035;Integração e Testes Aeroespaciais;46;41;4;1;0.8913;0.087
+FCTE0035;Integração e Testes Aeroespaciais;79;71;5;3;0.8987;0.0633
+FCTE0035;Integração e Testes Aeroespaciais;42;33;9;0;0.7857;0.2143
+FCTE0035;Integração e Testes Aeroespaciais;24;21;3;0;0.875;0.125
+FCTE0035;Integração e Testes Aeroespaciais;23;19;4;0;0.8261;0.1739
+FCTE0035;Integração e Testes Aeroespaciais;41;33;3;5;0.8049;0.0732
+FCTE0035;Integração e Testes Aeroespaciais;54;48;6;0;0.8889;0.1111
+FCTE0035;Integração e Testes Aeroespaciais;36;34;1;1;0.9444;0.0278
+FCTE0035;Integração e Testes Aeroespaciais;76;68;7;1;0.8947;0.0921
+FCTE0035;Integração e Testes Aeroespaciais;56;54;2;0;0.9643;0.0357
+FCTE0035;Integração e Testes Aeroespaciais;31;22;7;2;0.7097;0.2258
+FCTE0035;Integração e Testes Aeroespaciais;56;48;6;2;0.8571;0.1071
+FCTE0035;Integração e Testes Aeroespaciais;69;66;1;2;0.9565;0.0145
+FCTE0035;Integração e Testes Aeroespaciais;80;70;6;4;0.875;0.075
+FCTE0035;Integração e Testes Aeroespaciais;44;37;4;3;0.8409;0.0909
+FCTE0035;Integração e Testes Aeroespaciais;80;76;3;1;0.95;0.0375
+FCTE0036;Circuitos Elétricos 1;23;19;4;0;0.8261;0.1739
+FCTE0036;Circuitos Elétricos 1;63;57;5;1;0.9048;0.0794
+FCTE0036;Circuitos Elétricos 1;42;32;8;2;0.7619;0.1905
+FCTE0036;Circuitos Elétricos 1;41;35;6;0;0.8537;0.1463
+FCTE0036;Circuitos Elétricos 1;29;25;1;3;0.8621;0.0345
+FCTE0036;Circuitos Elétricos 1;29;25;4;0;0.8621;0.1379
+FCTE0036;Circuitos Elétricos 1;82;61;21;0;0.7439;0.2561
+FCTE0036;Circuitos Elétricos 1;70;58;11;1;0.8286;0.1571
+FCTE0036;Circuitos Elétricos 1;42;34;7;1;0.8095;0.1667
+FCTE0036;Circuitos Elétricos 1;49;41;7;1;0.8367;0.1429
+FCTE0036;Circuitos Elétricos 1;55;36;17;2;0.6545;0.3091
+FCTE0036;Circuitos Elétricos 1;65;54;5;6;0.8308;0.0769
+FCTE0036;Circuitos Elétricos 1;46;34;11;1;0.7391;0.2391
+FCTE0036;Circuitos Elétricos 1;26;22;3;1;0.8462;0.1154
+FCTE0036;Circuitos Elétricos 1;43;32;9;2;0.7442;0.2093
+FCTE0036;Circuitos Elétricos 1;68;56;9;3;0.8235;0.1324
+FCTE0036;Circuitos Elétricos 1;35;30;4;1;0.8571;0.1143
+FCTE0036;Circuitos Elétricos 1;21;17;2;2;0.8095;0.0952
+FCTE0036;Circuitos Elétricos 1;74;57;16;1;0.7703;0.2162
+FCTE0036;Circuitos Elétricos 1;19;17;2;0;0.8947;0.1053
+FCTE0036;Circuitos Elétricos 1;68;61;7;0;0.8971;0.1029
+FCTE0036;Circuitos Elétricos 1;42;37;4;1;0.881;0.0952
+FCTE0036;Circuitos Elétricos 1;79;65;10;4;0.8228;0.1266
+FCTE0036;Circuitos Elétricos 1;39;28;11;0;0.7179;0.2821
+FCTE0037;Circuitos Elétricos 2;26;21;3;2;0.8077;0.1154
+FCTE0037;Circuitos Elétricos 2;52;40;12;0;0.7692;0.2308
+FCTE0037;Circuitos Elétricos 2;50;40;10;0;0.8;0.2
+FCTE0037;Circuitos Elétricos 2;59;43;8;8;0.7288;0.1356
+FCTE0037;Circuitos Elétricos 2;50;38;8;4;0.76;0.16
+FCTE0037;Circuitos Elétricos 2;82;73;4;5;0.8902;0.0488
+FCTE0037;Circuitos Elétricos 2;46;32;11;3;0.6957;0.2391
+FCTE0037;Circuitos Elétricos 2;80;45;31;4;0.5625;0.3875
+FCTE0037;Circuitos Elétricos 2;42;34;6;2;0.8095;0.1429
+FCTE0037;Circuitos Elétricos 2;69;59;9;1;0.8551;0.1304
+FCTE0037;Circuitos Elétricos 2;38;28;6;4;0.7368;0.1579
+FCTE0037;Circuitos Elétricos 2;28;24;3;1;0.8571;0.1071
+FCTE0037;Circuitos Elétricos 2;60;45;13;2;0.75;0.2167
+FCTE0037;Circuitos Elétricos 2;74;61;11;2;0.8243;0.1486
+FCTE0037;Circuitos Elétricos 2;19;15;3;1;0.7895;0.1579
+FCTE0037;Circuitos Elétricos 2;46;36;8;2;0.7826;0.1739
+FCTE0037;Circuitos Elétricos 2;38;31;5;2;0.8158;0.1316
+FCTE0037;Circuitos Elétricos 2;82;67;11;4;0.8171;0.1341
+FCTE0037;Circuitos Elétricos 2;70;56;11;3;0.8;0.1571
+FCTE0037;Circuitos Elétricos 2;22;16;3;3;0.7273;0.1364
+FCTE0037;Circuitos Elétricos 2;61;54;3;4;0.8852;0.0492
+FCTE0037;Circuitos Elétricos 2;20;18;0;2;0.9;0.0
+FCTE0037;Circuitos Elétricos 2;81;58;16;7;0.716;0.1975
+FCTE0037;Circuitos Elétricos 2;77;56;17;4;0.7273;0.2208
+FCTE0038;Eletrônica Analógica;64;49;13;2;0.7656;0.2031
+FCTE0038;Eletrônica Analógica;36;26;9;1;0.7222;0.25
+FCTE0038;Eletrônica Analógica;77;43;30;4;0.5584;0.3896
+FCTE0038;Eletrônica Analógica;25;21;3;1;0.84;0.12
+FCTE0038;Eletrônica Analógica;67;50;16;1;0.7463;0.2388
+FCTE0038;Eletrônica Analógica;71;57;12;2;0.8028;0.169
+FCTE0038;Eletrônica Analógica;67;48;15;4;0.7164;0.2239
+FCTE0038;Eletrônica Analógica;31;22;6;3;0.7097;0.1935
+FCTE0038;Eletrônica Analógica;35;30;5;0;0.8571;0.1429
+FCTE0038;Eletrônica Analógica;18;13;4;1;0.7222;0.2222
+FCTE0038;Eletrônica Analógica;41;34;5;2;0.8293;0.122
+FCTE0038;Eletrônica Analógica;64;45;16;3;0.7031;0.25
+FCTE0038;Eletrônica Analógica;29;25;3;1;0.8621;0.1034
+FCTE0038;Eletrônica Analógica;49;39;8;2;0.7959;0.1633
+FCTE0038;Eletrônica Analógica;41;30;10;1;0.7317;0.2439
+FCTE0038;Eletrônica Analógica;66;52;10;4;0.7879;0.1515
+FCTE0038;Eletrônica Analógica;59;50;8;1;0.8475;0.1356
+FCTE0038;Eletrônica Analógica;24;15;9;0;0.625;0.375
+FCTE0038;Eletrônica Analógica;78;47;23;8;0.6026;0.2949
+FCTE0038;Eletrônica Analógica;30;25;4;1;0.8333;0.1333
+FCTE0038;Eletrônica Analógica;54;39;11;4;0.7222;0.2037
+FCTE0038;Eletrônica Analógica;24;20;2;2;0.8333;0.0833
+FCTE0038;Eletrônica Analógica;70;46;20;4;0.6571;0.2857
+FCTE0038;Eletrônica Analógica;80;47;28;5;0.5875;0.35
+FCTE0039;Eletrônica Digital;59;39;15;5;0.661;0.2542
+FCTE0039;Eletrônica Digital;67;47;16;4;0.7015;0.2388
+FCTE0039;Eletrônica Digital;26;20;4;2;0.7692;0.1538
+FCTE0039;Eletrônica Digital;58;33;19;6;0.569;0.3276
+FCTE0039;Eletrônica Digital;61;40;17;4;0.6557;0.2787
+FCTE0039;Eletrônica Digital;58;38;14;6;0.6552;0.2414
+FCTE0039;Eletrônica Digital;42;33;6;3;0.7857;0.1429
+FCTE0039;Eletrônica Digital;44;26;16;2;0.5909;0.3636
+FCTE0039;Eletrônica Digital;56;38;17;1;0.6786;0.3036
+FCTE0039;Eletrônica Digital;56;36;12;8;0.6429;0.2143
+FCTE0039;Eletrônica Digital;60;46;13;1;0.7667;0.2167
+FCTE0039;Eletrônica Digital;31;19;8;4;0.6129;0.2581
+FCTE0039;Eletrônica Digital;38;21;13;4;0.5526;0.3421
+FCTE0039;Eletrônica Digital;36;24;11;1;0.6667;0.3056
+FCTE0039;Eletrônica Digital;25;19;4;2;0.76;0.16
+FCTE0039;Eletrônica Digital;27;21;5;1;0.7778;0.1852
+FCTE0039;Eletrônica Digital;40;27;12;1;0.675;0.3
+FCTE0039;Eletrônica Digital;50;31;18;1;0.62;0.36
+FCTE0039;Eletrônica Digital;61;41;13;7;0.6721;0.2131
+FCTE0039;Eletrônica Digital;78;49;27;2;0.6282;0.3462
+FCTE0039;Eletrônica Digital;31;17;9;5;0.5484;0.2903
+FCTE0039;Eletrônica Digital;47;38;9;0;0.8085;0.1915
+FCTE0039;Eletrônica Digital;57;36;15;6;0.6316;0.2632
+FCTE0039;Eletrônica Digital;35;25;8;2;0.7143;0.2286
+FCTE0040;Microcontroladores;33;22;11;0;0.6667;0.3333
+FCTE0040;Microcontroladores;40;31;9;0;0.775;0.225
+FCTE0040;Microcontroladores;37;24;11;2;0.6486;0.2973
+FCTE0040;Microcontroladores;60;39;18;3;0.65;0.3
+FCTE0040;Microcontroladores;75;57;17;1;0.76;0.2267
+FCTE0040;Microcontroladores;40;25;13;2;0.625;0.325
+FCTE0040;Microcontroladores;74;55;19;0;0.7432;0.2568
+FCTE0040;Microcontroladores;52;36;16;0;0.6923;0.3077
+FCTE0040;Microcontroladores;32;20;10;2;0.625;0.3125
+FCTE0040;Microcontroladores;30;23;7;0;0.7667;0.2333
+FCTE0040;Microcontroladores;77;42;34;1;0.5455;0.4416
+FCTE0040;Microcontroladores;72;46;25;1;0.6389;0.3472
+FCTE0040;Microcontroladores;37;30;6;1;0.8108;0.1622
+FCTE0040;Microcontroladores;40;27;8;5;0.675;0.2
+FCTE0040;Microcontroladores;38;20;17;1;0.5263;0.4474
+FCTE0040;Microcontroladores;79;54;24;1;0.6835;0.3038
+FCTE0040;Microcontroladores;74;59;15;0;0.7973;0.2027
+FCTE0040;Microcontroladores;55;35;19;1;0.6364;0.3455
+FCTE0040;Microcontroladores;52;40;11;1;0.7692;0.2115
+FCTE0040;Microcontroladores;23;12;10;1;0.5217;0.4348
+FCTE0040;Microcontroladores;45;37;8;0;0.8222;0.1778
+FCTE0040;Microcontroladores;30;24;6;0;0.8;0.2
+FCTE0040;Microcontroladores;65;39;25;1;0.6;0.3846
+FCTE0040;Microcontroladores;56;44;12;0;0.7857;0.2143
+FCTE0041;Sistemas Embarcados;29;15;12;2;0.5172;0.4138
+FCTE0041;Sistemas Embarcados;50;30;20;0;0.6;0.4
+FCTE0041;Sistemas Embarcados;65;48;14;3;0.7385;0.2154
+FCTE0041;Sistemas Embarcados;32;22;10;0;0.6875;0.3125
+FCTE0041;Sistemas Embarcados;42;26;16;0;0.619;0.381
+FCTE0041;Sistemas Embarcados;76;52;21;3;0.6842;0.2763
+FCTE0041;Sistemas Embarcados;31;26;4;1;0.8387;0.129
+FCTE0041;Sistemas Embarcados;26;13;13;0;0.5;0.5
+FCTE0041;Sistemas Embarcados;33;24;8;1;0.7273;0.2424
+FCTE0041;Sistemas Embarcados;56;41;15;0;0.7321;0.2679
+FCTE0041;Sistemas Embarcados;82;55;24;3;0.6707;0.2927
+FCTE0041;Sistemas Embarcados;73;53;18;2;0.726;0.2466
+FCTE0041;Sistemas Embarcados;41;28;10;3;0.6829;0.2439
+FCTE0041;Sistemas Embarcados;68;45;19;4;0.6618;0.2794
+FCTE0041;Sistemas Embarcados;36;23;10;3;0.6389;0.2778
+FCTE0041;Sistemas Embarcados;79;46;32;1;0.5823;0.4051
+FCTE0041;Sistemas Embarcados;69;36;31;2;0.5217;0.4493
+FCTE0041;Sistemas Embarcados;43;25;16;2;0.5814;0.3721
+FCTE0041;Sistemas Embarcados;78;47;28;3;0.6026;0.359
+FCTE0041;Sistemas Embarcados;77;57;19;1;0.7403;0.2468
+FCTE0041;Sistemas Embarcados;44;28;15;1;0.6364;0.3409
+FCTE0041;Sistemas Embarcados;53;33;18;2;0.6226;0.3396
+FCTE0041;Sistemas Embarcados;72;47;22;3;0.6528;0.3056
+FCTE0041;Sistemas Embarcados;65;41;23;1;0.6308;0.3538
+FCTE0042;Instrumentação Eletrônica;22;18;2;2;0.8182;0.0909
+FCTE0042;Instrumentação Eletrônica;55;50;3;2;0.9091;0.0545
+FCTE0042;Instrumentação Eletrônica;26;21;4;1;0.8077;0.1538
+FCTE0042;Instrumentação Eletrônica;60;56;3;1;0.9333;0.05
+FCTE0042;Instrumentação Eletrônica;26;20;3;3;0.7692;0.1154
+FCTE0042;Instrumentação Eletrônica;20;15;5;0;0.75;0.25
+FCTE0042;Instrumentação Eletrônica;64;59;3;2;0.9219;0.0469
+FCTE0042;Instrumentação Eletrônica;19;15;3;1;0.7895;0.1579
+FCTE0042;Instrumentação Eletrônica;23;19;1;3;0.8261;0.0435
+FCTE0042;Instrumentação Eletrônica;49;40;7;2;0.8163;0.1429
+FCTE0042;Instrumentação Eletrônica;73;65;6;2;0.8904;0.0822
+FCTE0042;Instrumentação Eletrônica;26;22;3;1;0.8462;0.1154
+FCTE0042;Instrumentação Eletrônica;42;39;2;1;0.9286;0.0476
+FCTE0042;Instrumentação Eletrônica;32;29;1;2;0.9062;0.0312
+FCTE0042;Instrumentação Eletrônica;68;51;12;5;0.75;0.1765
+FCTE0042;Instrumentação Eletrônica;80;72;6;2;0.9;0.075
+FCTE0042;Instrumentação Eletrônica;25;22;0;3;0.88;0.0
+FCTE0042;Instrumentação Eletrônica;58;49;7;2;0.8448;0.1207
+FCTE0042;Instrumentação Eletrônica;48;38;9;1;0.7917;0.1875
+FCTE0042;Instrumentação Eletrônica;30;29;1;0;0.9667;0.0333
+FCTE0042;Instrumentação Eletrônica;77;57;18;2;0.7403;0.2338
+FCTE0042;Instrumentação Eletrônica;43;34;4;5;0.7907;0.093
+FCTE0042;Instrumentação Eletrônica;55;46;8;1;0.8364;0.1455
+FCTE0042;Instrumentação Eletrônica;44;32;10;2;0.7273;0.2273
+FCTE0043;Processamento Digital de Sinais;39;35;1;3;0.8974;0.0256
+FCTE0043;Processamento Digital de Sinais;58;42;14;2;0.7241;0.2414
+FCTE0043;Processamento Digital de Sinais;41;34;1;6;0.8293;0.0244
+FCTE0043;Processamento Digital de Sinais;28;23;3;2;0.8214;0.1071
+FCTE0043;Processamento Digital de Sinais;57;44;9;4;0.7719;0.1579
+FCTE0043;Processamento Digital de Sinais;31;22;6;3;0.7097;0.1935
+FCTE0043;Processamento Digital de Sinais;47;34;10;3;0.7234;0.2128
+FCTE0043;Processamento Digital de Sinais;23;21;0;2;0.913;0.0
+FCTE0043;Processamento Digital de Sinais;55;43;8;4;0.7818;0.1455
+FCTE0043;Processamento Digital de Sinais;65;49;14;2;0.7538;0.2154
+FCTE0043;Processamento Digital de Sinais;78;65;10;3;0.8333;0.1282
+FCTE0043;Processamento Digital de Sinais;32;22;10;0;0.6875;0.3125
+FCTE0043;Processamento Digital de Sinais;32;27;3;2;0.8438;0.0938
+FCTE0043;Processamento Digital de Sinais;45;38;4;3;0.8444;0.0889
+FCTE0043;Processamento Digital de Sinais;45;32;12;1;0.7111;0.2667
+FCTE0043;Processamento Digital de Sinais;77;57;17;3;0.7403;0.2208
+FCTE0043;Processamento Digital de Sinais;31;27;2;2;0.871;0.0645
+FCTE0043;Processamento Digital de Sinais;48;40;8;0;0.8333;0.1667
+FCTE0043;Processamento Digital de Sinais;60;51;5;4;0.85;0.0833
+FCTE0043;Processamento Digital de Sinais;82;67;11;4;0.8171;0.1341
+FCTE0043;Processamento Digital de Sinais;51;41;6;4;0.8039;0.1176
+FCTE0043;Processamento Digital de Sinais;68;57;7;4;0.8382;0.1029
+FCTE0043;Processamento Digital de Sinais;32;24;5;3;0.75;0.1562
+FCTE0043;Processamento Digital de Sinais;33;25;8;0;0.7576;0.2424
+FCTE0044;Comunicações Analógicas;75;54;11;10;0.72;0.1467
+FCTE0044;Comunicações Analógicas;74;55;14;5;0.7432;0.1892
+FCTE0044;Comunicações Analógicas;57;40;10;7;0.7018;0.1754
+FCTE0044;Comunicações Analógicas;70;53;16;1;0.7571;0.2286
+FCTE0044;Comunicações Analógicas;61;39;13;9;0.6393;0.2131
+FCTE0044;Comunicações Analógicas;82;54;20;8;0.6585;0.2439
+FCTE0044;Comunicações Analógicas;78;63;10;5;0.8077;0.1282
+FCTE0044;Comunicações Analógicas;62;44;12;6;0.7097;0.1935
+FCTE0044;Comunicações Analógicas;41;36;3;2;0.878;0.0732
+FCTE0044;Comunicações Analógicas;72;45;23;4;0.625;0.3194
+FCTE0044;Comunicações Analógicas;62;40;17;5;0.6452;0.2742
+FCTE0044;Comunicações Analógicas;44;34;8;2;0.7727;0.1818
+FCTE0044;Comunicações Analógicas;66;52;12;2;0.7879;0.1818
+FCTE0044;Comunicações Analógicas;82;66;14;2;0.8049;0.1707
+FCTE0044;Comunicações Analógicas;71;60;9;2;0.8451;0.1268
+FCTE0044;Comunicações Analógicas;19;15;3;1;0.7895;0.1579
+FCTE0044;Comunicações Analógicas;73;51;18;4;0.6986;0.2466
+FCTE0044;Comunicações Analógicas;73;60;11;2;0.8219;0.1507
+FCTE0044;Comunicações Analógicas;68;47;15;6;0.6912;0.2206
+FCTE0044;Comunicações Analógicas;43;26;16;1;0.6047;0.3721
+FCTE0044;Comunicações Analógicas;60;52;5;3;0.8667;0.0833
+FCTE0044;Comunicações Analógicas;37;29;6;2;0.7838;0.1622
+FCTE0044;Comunicações Analógicas;71;48;21;2;0.6761;0.2958
+FCTE0044;Comunicações Analógicas;47;42;4;1;0.8936;0.0851
+FCTE0045;Comunicações Digitais;50;41;8;1;0.82;0.16
+FCTE0045;Comunicações Digitais;67;57;7;3;0.8507;0.1045
+FCTE0045;Comunicações Digitais;42;33;9;0;0.7857;0.2143
+FCTE0045;Comunicações Digitais;73;55;14;4;0.7534;0.1918
+FCTE0045;Comunicações Digitais;55;37;17;1;0.6727;0.3091
+FCTE0045;Comunicações Digitais;40;36;4;0;0.9;0.1
+FCTE0045;Comunicações Digitais;27;21;5;1;0.7778;0.1852
+FCTE0045;Comunicações Digitais;81;55;23;3;0.679;0.284
+FCTE0045;Comunicações Digitais;60;51;7;2;0.85;0.1167
+FCTE0045;Comunicações Digitais;57;42;14;1;0.7368;0.2456
+FCTE0045;Comunicações Digitais;59;39;18;2;0.661;0.3051
+FCTE0045;Comunicações Digitais;80;59;20;1;0.7375;0.25
+FCTE0045;Comunicações Digitais;35;24;11;0;0.6857;0.3143
+FCTE0045;Comunicações Digitais;56;47;9;0;0.8393;0.1607
+FCTE0045;Comunicações Digitais;41;32;9;0;0.7805;0.2195
+FCTE0045;Comunicações Digitais;79;63;16;0;0.7975;0.2025
+FCTE0045;Comunicações Digitais;22;19;3;0;0.8636;0.1364
+FCTE0045;Comunicações Digitais;65;55;8;2;0.8462;0.1231
+FCTE0045;Comunicações Digitais;35;26;8;1;0.7429;0.2286
+FCTE0045;Comunicações Digitais;42;34;5;3;0.8095;0.119
+FCTE0045;Comunicações Digitais;51;33;15;3;0.6471;0.2941
+FCTE0045;Comunicações Digitais;23;18;4;1;0.7826;0.1739
+FCTE0045;Comunicações Digitais;71;50;19;2;0.7042;0.2676
+FCTE0045;Comunicações Digitais;25;19;5;1;0.76;0.2
+FCTE0046;Antenas e Propagação;78;60;16;2;0.7692;0.2051
+FCTE0046;Antenas e Propagação;52;40;10;2;0.7692;0.1923
+FCTE0046;Antenas e Propagação;20;16;2;2;0.8;0.1
+FCTE0046;Antenas e Propagação;53;39;10;4;0.7358;0.1887
+FCTE0046;Antenas e Propagação;52;40;12;0;0.7692;0.2308
+FCTE0046;Antenas e Propagação;52;34;18;0;0.6538;0.3462
+FCTE0046;Antenas e Propagação;20;15;5;0;0.75;0.25
+FCTE0046;Antenas e Propagação;45;26;17;2;0.5778;0.3778
+FCTE0046;Antenas e Propagação;50;37;13;0;0.74;0.26
+FCTE0046;Antenas e Propagação;80;57;21;2;0.7125;0.2625
+FCTE0046;Antenas e Propagação;51;40;10;1;0.7843;0.1961
+FCTE0046;Antenas e Propagação;61;45;12;4;0.7377;0.1967
+FCTE0046;Antenas e Propagação;57;35;19;3;0.614;0.3333
+FCTE0046;Antenas e Propagação;71;51;17;3;0.7183;0.2394
+FCTE0046;Antenas e Propagação;18;13;4;1;0.7222;0.2222
+FCTE0046;Antenas e Propagação;65;48;14;3;0.7385;0.2154
+FCTE0046;Antenas e Propagação;49;35;13;1;0.7143;0.2653
+FCTE0046;Antenas e Propagação;56;38;17;1;0.6786;0.3036
+FCTE0046;Antenas e Propagação;23;15;6;2;0.6522;0.2609
+FCTE0046;Antenas e Propagação;61;43;17;1;0.7049;0.2787
+FCTE0046;Antenas e Propagação;56;44;8;4;0.7857;0.1429
+FCTE0046;Antenas e Propagação;22;18;4;0;0.8182;0.1818
+FCTE0046;Antenas e Propagação;79;46;30;3;0.5823;0.3797
+FCTE0046;Antenas e Propagação;40;32;4;4;0.8;0.1
+FCTE0047;Eletrônica de Potência;61;43;16;2;0.7049;0.2623
+FCTE0047;Eletrônica de Potência;36;23;12;1;0.6389;0.3333
+FCTE0047;Eletrônica de Potência;82;55;23;4;0.6707;0.2805
+FCTE0047;Eletrônica de Potência;57;43;12;2;0.7544;0.2105
+FCTE0047;Eletrônica de Potência;69;38;28;3;0.5507;0.4058
+FCTE0047;Eletrônica de Potência;24;15;8;1;0.625;0.3333
+FCTE0047;Eletrônica de Potência;69;48;16;5;0.6957;0.2319
+FCTE0047;Eletrônica de Potência;56;35;16;5;0.625;0.2857
+FCTE0047;Eletrônica de Potência;51;29;17;5;0.5686;0.3333
+FCTE0047;Eletrônica de Potência;35;25;8;2;0.7143;0.2286
+FCTE0047;Eletrônica de Potência;72;48;21;3;0.6667;0.2917
+FCTE0047;Eletrônica de Potência;77;60;13;4;0.7792;0.1688
+FCTE0047;Eletrônica de Potência;20;10;10;0;0.5;0.5
+FCTE0047;Eletrônica de Potência;68;44;23;1;0.6471;0.3382
+FCTE0047;Eletrônica de Potência;40;29;10;1;0.725;0.25
+FCTE0047;Eletrônica de Potência;47;28;16;3;0.5957;0.3404
+FCTE0047;Eletrônica de Potência;33;26;5;2;0.7879;0.1515
+FCTE0047;Eletrônica de Potência;41;28;11;2;0.6829;0.2683
+FCTE0047;Eletrônica de Potência;81;42;32;7;0.5185;0.3951
+FCTE0047;Eletrônica de Potência;59;40;18;1;0.678;0.3051
+FCTE0047;Eletrônica de Potência;34;27;7;0;0.7941;0.2059
+FCTE0047;Eletrônica de Potência;56;37;16;3;0.6607;0.2857
+FCTE0047;Eletrônica de Potência;69;44;22;3;0.6377;0.3188
+FCTE0047;Eletrônica de Potência;52;35;17;0;0.6731;0.3269
+FCTE0048;Controle de Sistemas Dinâmicos;57;31;20;6;0.5439;0.3509
+FCTE0048;Controle de Sistemas Dinâmicos;49;29;17;3;0.5918;0.3469
+FCTE0048;Controle de Sistemas Dinâmicos;68;45;21;2;0.6618;0.3088
+FCTE0048;Controle de Sistemas Dinâmicos;52;32;19;1;0.6154;0.3654
+FCTE0048;Controle de Sistemas Dinâmicos;65;32;23;10;0.4923;0.3538
+FCTE0048;Controle de Sistemas Dinâmicos;54;34;16;4;0.6296;0.2963
+FCTE0048;Controle de Sistemas Dinâmicos;81;42;31;8;0.5185;0.3827
+FCTE0048;Controle de Sistemas Dinâmicos;48;28;19;1;0.5833;0.3958
+FCTE0048;Controle de Sistemas Dinâmicos;55;28;21;6;0.5091;0.3818
+FCTE0048;Controle de Sistemas Dinâmicos;41;27;12;2;0.6585;0.2927
+FCTE0048;Controle de Sistemas Dinâmicos;60;41;15;4;0.6833;0.25
+FCTE0048;Controle de Sistemas Dinâmicos;30;27;3;0;0.9;0.1
+FCTE0048;Controle de Sistemas Dinâmicos;29;17;10;2;0.5862;0.3448
+FCTE0048;Controle de Sistemas Dinâmicos;54;31;20;3;0.5741;0.3704
+FCTE0048;Controle de Sistemas Dinâmicos;43;21;22;0;0.4884;0.5116
+FCTE0048;Controle de Sistemas Dinâmicos;64;46;16;2;0.7188;0.25
+FCTE0048;Controle de Sistemas Dinâmicos;62;38;20;4;0.6129;0.3226
+FCTE0048;Controle de Sistemas Dinâmicos;59;38;15;6;0.6441;0.2542
+FCTE0048;Controle de Sistemas Dinâmicos;18;12;5;1;0.6667;0.2778
+FCTE0048;Controle de Sistemas Dinâmicos;58;42;13;3;0.7241;0.2241
+FCTE0048;Controle de Sistemas Dinâmicos;66;39;24;3;0.5909;0.3636
+FCTE0048;Controle de Sistemas Dinâmicos;21;16;5;0;0.7619;0.2381
+FCTE0048;Controle de Sistemas Dinâmicos;33;16;14;3;0.4848;0.4242
+FCTE0048;Controle de Sistemas Dinâmicos;19;11;7;1;0.5789;0.3684
+FCTE0049;Arquitetura de Computadores;43;35;3;5;0.814;0.0698
+FCTE0049;Arquitetura de Computadores;44;33;6;5;0.75;0.1364
+FCTE0049;Arquitetura de Computadores;65;51;8;6;0.7846;0.1231
+FCTE0049;Arquitetura de Computadores;53;41;8;4;0.7736;0.1509
+FCTE0049;Arquitetura de Computadores;20;13;5;2;0.65;0.25
+FCTE0049;Arquitetura de Computadores;53;50;2;1;0.9434;0.0377
+FCTE0049;Arquitetura de Computadores;56;32;15;9;0.5714;0.2679
+FCTE0049;Arquitetura de Computadores;65;58;4;3;0.8923;0.0615
+FCTE0049;Arquitetura de Computadores;20;20;0;0;1.0;0.0
+FCTE0049;Arquitetura de Computadores;28;21;4;3;0.75;0.1429
+FCTE0049;Arquitetura de Computadores;20;15;5;0;0.75;0.25
+FCTE0049;Arquitetura de Computadores;48;40;5;3;0.8333;0.1042
+FCTE0049;Arquitetura de Computadores;69;56;6;7;0.8116;0.087
+FCTE0049;Arquitetura de Computadores;78;68;4;6;0.8718;0.0513
+FCTE0049;Arquitetura de Computadores;74;64;3;7;0.8649;0.0405
+FCTE0049;Arquitetura de Computadores;81;57;21;3;0.7037;0.2593
+FCTE0049;Arquitetura de Computadores;61;44;10;7;0.7213;0.1639
+FCTE0049;Arquitetura de Computadores;49;46;1;2;0.9388;0.0204
+FCTE0049;Arquitetura de Computadores;42;38;3;1;0.9048;0.0714
+FCTE0049;Arquitetura de Computadores;56;44;5;7;0.7857;0.0893
+FCTE0049;Arquitetura de Computadores;78;67;5;6;0.859;0.0641
+FCTE0049;Arquitetura de Computadores;63;51;4;8;0.8095;0.0635
+FCTE0049;Arquitetura de Computadores;36;30;1;5;0.8333;0.0278
+FCTE0049;Arquitetura de Computadores;69;53;12;4;0.7681;0.1739
+FCTE0050;Dispositivos Semicondutores;28;16;10;2;0.5714;0.3571
+FCTE0050;Dispositivos Semicondutores;60;52;3;5;0.8667;0.05
+FCTE0050;Dispositivos Semicondutores;46;44;1;1;0.9565;0.0217
+FCTE0050;Dispositivos Semicondutores;72;52;19;1;0.7222;0.2639
+FCTE0050;Dispositivos Semicondutores;58;50;6;2;0.8621;0.1034
+FCTE0050;Dispositivos Semicondutores;45;39;5;1;0.8667;0.1111
+FCTE0050;Dispositivos Semicondutores;52;39;11;2;0.75;0.2115
+FCTE0050;Dispositivos Semicondutores;81;67;9;5;0.8272;0.1111
+FCTE0050;Dispositivos Semicondutores;34;34;0;0;1.0;0.0
+FCTE0050;Dispositivos Semicondutores;52;44;6;2;0.8462;0.1154
+FCTE0050;Dispositivos Semicondutores;51;40;9;2;0.7843;0.1765
+FCTE0050;Dispositivos Semicondutores;55;46;8;1;0.8364;0.1455
+FCTE0050;Dispositivos Semicondutores;41;35;3;3;0.8537;0.0732
+FCTE0050;Dispositivos Semicondutores;75;55;15;5;0.7333;0.2
+FCTE0050;Dispositivos Semicondutores;28;22;5;1;0.7857;0.1786
+FCTE0050;Dispositivos Semicondutores;48;40;8;0;0.8333;0.1667
+FCTE0050;Dispositivos Semicondutores;36;30;6;0;0.8333;0.1667
+FCTE0050;Dispositivos Semicondutores;72;64;7;1;0.8889;0.0972
+FCTE0050;Dispositivos Semicondutores;26;23;2;1;0.8846;0.0769
+FCTE0050;Dispositivos Semicondutores;19;15;4;0;0.7895;0.2105
+FCTE0050;Dispositivos Semicondutores;38;31;5;2;0.8158;0.1316
+FCTE0050;Dispositivos Semicondutores;66;53;11;2;0.803;0.1667
+FCTE0050;Dispositivos Semicondutores;31;26;5;0;0.8387;0.1613
+FCTE0050;Dispositivos Semicondutores;39;32;7;0;0.8205;0.1795
+FCTE0051;Compatibilidade Eletromagnética;40;26;13;1;0.65;0.325
+FCTE0051;Compatibilidade Eletromagnética;49;31;15;3;0.6327;0.3061
+FCTE0051;Compatibilidade Eletromagnética;19;14;4;1;0.7368;0.2105
+FCTE0051;Compatibilidade Eletromagnética;25;20;4;1;0.8;0.16
+FCTE0051;Compatibilidade Eletromagnética;55;43;7;5;0.7818;0.1273
+FCTE0051;Compatibilidade Eletromagnética;78;63;13;2;0.8077;0.1667
+FCTE0051;Compatibilidade Eletromagnética;42;27;13;2;0.6429;0.3095
+FCTE0051;Compatibilidade Eletromagnética;40;34;5;1;0.85;0.125
+FCTE0051;Compatibilidade Eletromagnética;32;22;7;3;0.6875;0.2188
+FCTE0051;Compatibilidade Eletromagnética;74;58;15;1;0.7838;0.2027
+FCTE0051;Compatibilidade Eletromagnética;66;52;9;5;0.7879;0.1364
+FCTE0051;Compatibilidade Eletromagnética;66;52;10;4;0.7879;0.1515
+FCTE0051;Compatibilidade Eletromagnética;80;67;12;1;0.8375;0.15
+FCTE0051;Compatibilidade Eletromagnética;80;65;13;2;0.8125;0.1625
+FCTE0051;Compatibilidade Eletromagnética;59;38;18;3;0.6441;0.3051
+FCTE0051;Compatibilidade Eletromagnética;36;27;6;3;0.75;0.1667
+FCTE0051;Compatibilidade Eletromagnética;22;15;6;1;0.6818;0.2727
+FCTE0051;Compatibilidade Eletromagnética;37;27;6;4;0.7297;0.1622
+FCTE0051;Compatibilidade Eletromagnética;26;23;3;0;0.8846;0.1154
+FCTE0051;Compatibilidade Eletromagnética;65;44;17;4;0.6769;0.2615
+FCTE0051;Compatibilidade Eletromagnética;66;52;12;2;0.7879;0.1818
+FCTE0051;Compatibilidade Eletromagnética;30;22;8;0;0.7333;0.2667
+FCTE0051;Compatibilidade Eletromagnética;45;39;4;2;0.8667;0.0889
+FCTE0051;Compatibilidade Eletromagnética;29;24;4;1;0.8276;0.1379
+FCTE0052;Redes de Sensores;36;26;8;2;0.7222;0.2222
+FCTE0052;Redes de Sensores;45;33;10;2;0.7333;0.2222
+FCTE0052;Redes de Sensores;62;48;13;1;0.7742;0.2097
+FCTE0052;Redes de Sensores;29;20;8;1;0.6897;0.2759
+FCTE0052;Redes de Sensores;18;14;4;0;0.7778;0.2222
+FCTE0052;Redes de Sensores;76;58;16;2;0.7632;0.2105
+FCTE0052;Redes de Sensores;65;42;21;2;0.6462;0.3231
+FCTE0052;Redes de Sensores;54;43;10;1;0.7963;0.1852
+FCTE0052;Redes de Sensores;59;41;15;3;0.6949;0.2542
+FCTE0052;Redes de Sensores;51;42;6;3;0.8235;0.1176
+FCTE0052;Redes de Sensores;20;16;2;2;0.8;0.1
+FCTE0052;Redes de Sensores;65;48;13;4;0.7385;0.2
+FCTE0052;Redes de Sensores;20;15;5;0;0.75;0.25
+FCTE0052;Redes de Sensores;78;60;17;1;0.7692;0.2179
+FCTE0052;Redes de Sensores;21;18;3;0;0.8571;0.1429
+FCTE0052;Redes de Sensores;45;35;7;3;0.7778;0.1556
+FCTE0052;Redes de Sensores;50;32;14;4;0.64;0.28
+FCTE0052;Redes de Sensores;30;23;7;0;0.7667;0.2333
+FCTE0052;Redes de Sensores;34;18;16;0;0.5294;0.4706
+FCTE0052;Redes de Sensores;64;48;15;1;0.75;0.2344
+FCTE0052;Redes de Sensores;27;23;3;1;0.8519;0.1111
+FCTE0052;Redes de Sensores;65;44;16;5;0.6769;0.2462
+FCTE0052;Redes de Sensores;35;29;3;3;0.8286;0.0857
+FCTE0052;Redes de Sensores;42;31;10;1;0.7381;0.2381
+FCTE0053;Robótica Eletrônica;52;38;11;3;0.7308;0.2115
+FCTE0053;Robótica Eletrônica;41;29;12;0;0.7073;0.2927
+FCTE0053;Robótica Eletrônica;31;26;5;0;0.8387;0.1613
+FCTE0053;Robótica Eletrônica;19;16;2;1;0.8421;0.1053
+FCTE0053;Robótica Eletrônica;78;60;17;1;0.7692;0.2179
+FCTE0053;Robótica Eletrônica;72;51;16;5;0.7083;0.2222
+FCTE0053;Robótica Eletrônica;79;59;14;6;0.7468;0.1772
+FCTE0053;Robótica Eletrônica;55;30;22;3;0.5455;0.4
+FCTE0053;Robótica Eletrônica;57;36;17;4;0.6316;0.2982
+FCTE0053;Robótica Eletrônica;79;58;18;3;0.7342;0.2278
+FCTE0053;Robótica Eletrônica;70;56;8;6;0.8;0.1143
+FCTE0053;Robótica Eletrônica;60;37;15;8;0.6167;0.25
+FCTE0053;Robótica Eletrônica;27;19;6;2;0.7037;0.2222
+FCTE0053;Robótica Eletrônica;32;23;8;1;0.7188;0.25
+FCTE0053;Robótica Eletrônica;64;48;12;4;0.75;0.1875
+FCTE0053;Robótica Eletrônica;54;48;5;1;0.8889;0.0926
+FCTE0053;Robótica Eletrônica;36;21;12;3;0.5833;0.3333
+FCTE0053;Robótica Eletrônica;64;43;17;4;0.6719;0.2656
+FCTE0053;Robótica Eletrônica;73;44;24;5;0.6027;0.3288
+FCTE0053;Robótica Eletrônica;73;46;24;3;0.6301;0.3288
+FCTE0053;Robótica Eletrônica;67;43;20;4;0.6418;0.2985
+FCTE0053;Robótica Eletrônica;18;13;5;0;0.7222;0.2778
+FCTE0053;Robótica Eletrônica;65;52;8;5;0.8;0.1231
+FCTE0053;Robótica Eletrônica;39;33;6;0;0.8462;0.1538
+FCTE0054;Projeto de Circuitos Integrados;73;42;24;7;0.5753;0.3288
+FCTE0054;Projeto de Circuitos Integrados;47;27;17;3;0.5745;0.3617
+FCTE0054;Projeto de Circuitos Integrados;54;33;14;7;0.6111;0.2593
+FCTE0054;Projeto de Circuitos Integrados;37;29;4;4;0.7838;0.1081
+FCTE0054;Projeto de Circuitos Integrados;35;20;11;4;0.5714;0.3143
+FCTE0054;Projeto de Circuitos Integrados;81;49;23;9;0.6049;0.284
+FCTE0054;Projeto de Circuitos Integrados;20;11;8;1;0.55;0.4
+FCTE0054;Projeto de Circuitos Integrados;51;32;14;5;0.6275;0.2745
+FCTE0054;Projeto de Circuitos Integrados;32;19;11;2;0.5938;0.3438
+FCTE0054;Projeto de Circuitos Integrados;63;40;18;5;0.6349;0.2857
+FCTE0054;Projeto de Circuitos Integrados;59;34;25;0;0.5763;0.4237
+FCTE0054;Projeto de Circuitos Integrados;70;43;21;6;0.6143;0.3
+FCTE0054;Projeto de Circuitos Integrados;42;25;15;2;0.5952;0.3571
+FCTE0054;Projeto de Circuitos Integrados;30;25;3;2;0.8333;0.1
+FCTE0054;Projeto de Circuitos Integrados;36;27;7;2;0.75;0.1944
+FCTE0054;Projeto de Circuitos Integrados;56;31;21;4;0.5536;0.375
+FCTE0054;Projeto de Circuitos Integrados;80;45;26;9;0.5625;0.325
+FCTE0054;Projeto de Circuitos Integrados;34;26;7;1;0.7647;0.2059
+FCTE0054;Projeto de Circuitos Integrados;46;33;11;2;0.7174;0.2391
+FCTE0054;Projeto de Circuitos Integrados;46;36;9;1;0.7826;0.1957
+FCTE0054;Projeto de Circuitos Integrados;68;31;33;4;0.4559;0.4853
+FCTE0054;Projeto de Circuitos Integrados;21;10;8;3;0.4762;0.381
+FCTE0054;Projeto de Circuitos Integrados;74;44;26;4;0.5946;0.3514
+FCTE0054;Projeto de Circuitos Integrados;21;10;10;1;0.4762;0.4762
+FCTE0055;Sistemas de Radiofrequência;61;37;24;0;0.6066;0.3934
+FCTE0055;Sistemas de Radiofrequência;59;36;23;0;0.6102;0.3898
+FCTE0055;Sistemas de Radiofrequência;52;36;14;2;0.6923;0.2692
+FCTE0055;Sistemas de Radiofrequência;34;22;11;1;0.6471;0.3235
+FCTE0055;Sistemas de Radiofrequência;56;38;17;1;0.6786;0.3036
+FCTE0055;Sistemas de Radiofrequência;28;18;7;3;0.6429;0.25
+FCTE0055;Sistemas de Radiofrequência;60;46;12;2;0.7667;0.2
+FCTE0055;Sistemas de Radiofrequência;45;28;16;1;0.6222;0.3556
+FCTE0055;Sistemas de Radiofrequência;81;49;29;3;0.6049;0.358
+FCTE0055;Sistemas de Radiofrequência;47;32;15;0;0.6809;0.3191
+FCTE0055;Sistemas de Radiofrequência;22;18;4;0;0.8182;0.1818
+FCTE0055;Sistemas de Radiofrequência;41;25;14;2;0.6098;0.3415
+FCTE0055;Sistemas de Radiofrequência;74;46;25;3;0.6216;0.3378
+FCTE0055;Sistemas de Radiofrequência;66;38;27;1;0.5758;0.4091
+FCTE0055;Sistemas de Radiofrequência;31;19;12;0;0.6129;0.3871
+FCTE0055;Sistemas de Radiofrequência;24;16;7;1;0.6667;0.2917
+FCTE0055;Sistemas de Radiofrequência;66;41;21;4;0.6212;0.3182
+FCTE0055;Sistemas de Radiofrequência;54;34;18;2;0.6296;0.3333
+FCTE0055;Sistemas de Radiofrequência;37;21;14;2;0.5676;0.3784
+FCTE0055;Sistemas de Radiofrequência;62;42;17;3;0.6774;0.2742
+FCTE0055;Sistemas de Radiofrequência;41;26;15;0;0.6341;0.3659
+FCTE0055;Sistemas de Radiofrequência;59;36;23;0;0.6102;0.3898
+FCTE0055;Sistemas de Radiofrequência;63;47;15;1;0.746;0.2381
+FCTE0055;Sistemas de Radiofrequência;31;20;11;0;0.6452;0.3548
+FCTE0056;Algoritmos e Programação;48;40;8;0;0.8333;0.1667
+FCTE0056;Algoritmos e Programação;34;28;5;1;0.8235;0.1471
+FCTE0056;Algoritmos e Programação;51;44;5;2;0.8627;0.098
+FCTE0056;Algoritmos e Programação;78;62;13;3;0.7949;0.1667
+FCTE0056;Algoritmos e Programação;30;28;1;1;0.9333;0.0333
+FCTE0056;Algoritmos e Programação;75;57;14;4;0.76;0.1867
+FCTE0056;Algoritmos e Programação;53;40;12;1;0.7547;0.2264
+FCTE0056;Algoritmos e Programação;74;63;9;2;0.8514;0.1216
+FCTE0056;Algoritmos e Programação;79;62;17;0;0.7848;0.2152
+FCTE0056;Algoritmos e Programação;62;47;11;4;0.7581;0.1774
+FCTE0056;Algoritmos e Programação;65;53;10;2;0.8154;0.1538
+FCTE0056;Algoritmos e Programação;77;66;10;1;0.8571;0.1299
+FCTE0056;Algoritmos e Programação;63;46;13;4;0.7302;0.2063
+FCTE0056;Algoritmos e Programação;45;37;7;1;0.8222;0.1556
+FCTE0056;Algoritmos e Programação;57;47;9;1;0.8246;0.1579
+FCTE0056;Algoritmos e Programação;27;24;3;0;0.8889;0.1111
+FCTE0056;Algoritmos e Programação;24;23;0;1;0.9583;0.0
+FCTE0056;Algoritmos e Programação;42;40;2;0;0.9524;0.0476
+FCTE0056;Algoritmos e Programação;80;74;4;2;0.925;0.05
+FCTE0056;Algoritmos e Programação;72;65;3;4;0.9028;0.0417
+FCTE0056;Algoritmos e Programação;47;39;6;2;0.8298;0.1277
+FCTE0056;Algoritmos e Programação;40;32;6;2;0.8;0.15
+FCTE0056;Algoritmos e Programação;42;40;1;1;0.9524;0.0238
+FCTE0056;Algoritmos e Programação;62;52;3;7;0.8387;0.0484
+FCTE0057;Estruturas de Dados;78;69;7;2;0.8846;0.0897
+FCTE0057;Estruturas de Dados;37;29;4;4;0.7838;0.1081
+FCTE0057;Estruturas de Dados;75;59;12;4;0.7867;0.16
+FCTE0057;Estruturas de Dados;82;72;8;2;0.878;0.0976
+FCTE0057;Estruturas de Dados;73;54;17;2;0.7397;0.2329
+FCTE0057;Estruturas de Dados;21;14;6;1;0.6667;0.2857
+FCTE0057;Estruturas de Dados;40;36;3;1;0.9;0.075
+FCTE0057;Estruturas de Dados;48;40;4;4;0.8333;0.0833
+FCTE0057;Estruturas de Dados;29;19;10;0;0.6552;0.3448
+FCTE0057;Estruturas de Dados;23;18;4;1;0.7826;0.1739
+FCTE0057;Estruturas de Dados;53;42;7;4;0.7925;0.1321
+FCTE0057;Estruturas de Dados;45;42;2;1;0.9333;0.0444
+FCTE0057;Estruturas de Dados;65;51;13;1;0.7846;0.2
+FCTE0057;Estruturas de Dados;74;55;17;2;0.7432;0.2297
+FCTE0057;Estruturas de Dados;30;24;5;1;0.8;0.1667
+FCTE0057;Estruturas de Dados;67;53;11;3;0.791;0.1642
+FCTE0057;Estruturas de Dados;73;59;10;4;0.8082;0.137
+FCTE0057;Estruturas de Dados;82;73;3;6;0.8902;0.0366
+FCTE0057;Estruturas de Dados;79;57;16;6;0.7215;0.2025
+FCTE0057;Estruturas de Dados;67;57;7;3;0.8507;0.1045
+FCTE0057;Estruturas de Dados;37;28;3;6;0.7568;0.0811
+FCTE0057;Estruturas de Dados;62;46;13;3;0.7419;0.2097
+FCTE0057;Estruturas de Dados;66;57;8;1;0.8636;0.1212
+FCTE0057;Estruturas de Dados;49;38;6;5;0.7755;0.1224
+FCTE0058;Orientação a Objetos;42;33;7;2;0.7857;0.1667
+FCTE0058;Orientação a Objetos;32;28;3;1;0.875;0.0938
+FCTE0058;Orientação a Objetos;44;34;8;2;0.7727;0.1818
+FCTE0058;Orientação a Objetos;57;42;14;1;0.7368;0.2456
+FCTE0058;Orientação a Objetos;51;37;10;4;0.7255;0.1961
+FCTE0058;Orientação a Objetos;71;40;25;6;0.5634;0.3521
+FCTE0058;Orientação a Objetos;46;34;11;1;0.7391;0.2391
+FCTE0058;Orientação a Objetos;22;18;3;1;0.8182;0.1364
+FCTE0058;Orientação a Objetos;51;39;9;3;0.7647;0.1765
+FCTE0058;Orientação a Objetos;23;17;5;1;0.7391;0.2174
+FCTE0058;Orientação a Objetos;56;46;7;3;0.8214;0.125
+FCTE0058;Orientação a Objetos;49;28;13;8;0.5714;0.2653
+FCTE0058;Orientação a Objetos;27;24;3;0;0.8889;0.1111
+FCTE0058;Orientação a Objetos;20;17;3;0;0.85;0.15
+FCTE0058;Orientação a Objetos;71;59;6;6;0.831;0.0845
+FCTE0058;Orientação a Objetos;42;24;15;3;0.5714;0.3571
+FCTE0058;Orientação a Objetos;61;43;13;5;0.7049;0.2131
+FCTE0058;Orientação a Objetos;69;55;6;8;0.7971;0.087
+FCTE0058;Orientação a Objetos;63;45;17;1;0.7143;0.2698
+FCTE0058;Orientação a Objetos;55;42;10;3;0.7636;0.1818
+FCTE0058;Orientação a Objetos;51;41;7;3;0.8039;0.1373
+FCTE0058;Orientação a Objetos;31;19;9;3;0.6129;0.2903
+FCTE0058;Orientação a Objetos;67;59;6;2;0.8806;0.0896
+FCTE0058;Orientação a Objetos;28;19;7;2;0.6786;0.25
+FCTE0059;Bancos de Dados;49;37;9;3;0.7551;0.1837
+FCTE0059;Bancos de Dados;20;12;6;2;0.6;0.3
+FCTE0059;Bancos de Dados;31;26;5;0;0.8387;0.1613
+FCTE0059;Bancos de Dados;32;19;11;2;0.5938;0.3438
+FCTE0059;Bancos de Dados;69;52;11;6;0.7536;0.1594
+FCTE0059;Bancos de Dados;47;34;11;2;0.7234;0.234
+FCTE0059;Bancos de Dados;80;50;25;5;0.625;0.3125
+FCTE0059;Bancos de Dados;71;45;23;3;0.6338;0.3239
+FCTE0059;Bancos de Dados;60;46;10;4;0.7667;0.1667
+FCTE0059;Bancos de Dados;39;23;12;4;0.5897;0.3077
+FCTE0059;Bancos de Dados;31;25;4;2;0.8065;0.129
+FCTE0059;Bancos de Dados;46;37;5;4;0.8043;0.1087
+FCTE0059;Bancos de Dados;66;39;20;7;0.5909;0.303
+FCTE0059;Bancos de Dados;45;30;14;1;0.6667;0.3111
+FCTE0059;Bancos de Dados;44;27;12;5;0.6136;0.2727
+FCTE0059;Bancos de Dados;18;17;1;0;0.9444;0.0556
+FCTE0059;Bancos de Dados;78;63;11;4;0.8077;0.141
+FCTE0059;Bancos de Dados;35;24;9;2;0.6857;0.2571
+FCTE0059;Bancos de Dados;33;23;8;2;0.697;0.2424
+FCTE0059;Bancos de Dados;39;31;5;3;0.7949;0.1282
+FCTE0059;Bancos de Dados;29;23;2;4;0.7931;0.069
+FCTE0059;Bancos de Dados;75;49;20;6;0.6533;0.2667
+FCTE0059;Bancos de Dados;43;29;12;2;0.6744;0.2791
+FCTE0059;Bancos de Dados;43;32;8;3;0.7442;0.186
+FCTE0060;Arquitetura e Desenho de Software;54;43;9;2;0.7963;0.1667
+FCTE0060;Arquitetura e Desenho de Software;59;43;15;1;0.7288;0.2542
+FCTE0060;Arquitetura e Desenho de Software;69;42;27;0;0.6087;0.3913
+FCTE0060;Arquitetura e Desenho de Software;36;24;11;1;0.6667;0.3056
+FCTE0060;Arquitetura e Desenho de Software;43;28;14;1;0.6512;0.3256
+FCTE0060;Arquitetura e Desenho de Software;53;31;20;2;0.5849;0.3774
+FCTE0060;Arquitetura e Desenho de Software;34;26;6;2;0.7647;0.1765
+FCTE0060;Arquitetura e Desenho de Software;52;40;12;0;0.7692;0.2308
+FCTE0060;Arquitetura e Desenho de Software;82;60;19;3;0.7317;0.2317
+FCTE0060;Arquitetura e Desenho de Software;63;46;16;1;0.7302;0.254
+FCTE0060;Arquitetura e Desenho de Software;25;17;8;0;0.68;0.32
+FCTE0060;Arquitetura e Desenho de Software;19;16;3;0;0.8421;0.1579
+FCTE0060;Arquitetura e Desenho de Software;24;19;5;0;0.7917;0.2083
+FCTE0060;Arquitetura e Desenho de Software;57;43;13;1;0.7544;0.2281
+FCTE0060;Arquitetura e Desenho de Software;75;50;24;1;0.6667;0.32
+FCTE0060;Arquitetura e Desenho de Software;26;17;9;0;0.6538;0.3462
+FCTE0060;Arquitetura e Desenho de Software;46;29;17;0;0.6304;0.3696
+FCTE0060;Arquitetura e Desenho de Software;77;55;20;2;0.7143;0.2597
+FCTE0060;Arquitetura e Desenho de Software;34;27;6;1;0.7941;0.1765
+FCTE0060;Arquitetura e Desenho de Software;44;29;15;0;0.6591;0.3409
+FCTE0060;Arquitetura e Desenho de Software;79;61;15;3;0.7722;0.1899
+FCTE0060;Arquitetura e Desenho de Software;57;43;11;3;0.7544;0.193
+FCTE0060;Arquitetura e Desenho de Software;61;40;21;0;0.6557;0.3443
+FCTE0060;Arquitetura e Desenho de Software;21;16;4;1;0.7619;0.1905
+FCTE0061;Requisitos de Software;37;23;13;1;0.6216;0.3514
+FCTE0061;Requisitos de Software;54;39;14;1;0.7222;0.2593
+FCTE0061;Requisitos de Software;82;52;28;2;0.6341;0.3415
+FCTE0061;Requisitos de Software;65;42;20;3;0.6462;0.3077
+FCTE0061;Requisitos de Software;41;27;13;1;0.6585;0.3171
+FCTE0061;Requisitos de Software;37;21;14;2;0.5676;0.3784
+FCTE0061;Requisitos de Software;37;29;7;1;0.7838;0.1892
+FCTE0061;Requisitos de Software;32;20;11;1;0.625;0.3438
+FCTE0061;Requisitos de Software;73;55;18;0;0.7534;0.2466
+FCTE0061;Requisitos de Software;61;39;18;4;0.6393;0.2951
+FCTE0061;Requisitos de Software;45;35;9;1;0.7778;0.2
+FCTE0061;Requisitos de Software;60;43;16;1;0.7167;0.2667
+FCTE0061;Requisitos de Software;63;43;15;5;0.6825;0.2381
+FCTE0061;Requisitos de Software;36;23;12;1;0.6389;0.3333
+FCTE0061;Requisitos de Software;62;46;14;2;0.7419;0.2258
+FCTE0061;Requisitos de Software;77;46;28;3;0.5974;0.3636
+FCTE0061;Requisitos de Software;32;24;8;0;0.75;0.25
+FCTE0061;Requisitos de Software;66;37;23;6;0.5606;0.3485
+FCTE0061;Requisitos de Software;50;35;14;1;0.7;0.28
+FCTE0061;Requisitos de Software;42;23;15;4;0.5476;0.3571
+FCTE0061;Requisitos de Software;26;19;6;1;0.7308;0.2308
+FCTE0061;Requisitos de Software;41;32;8;1;0.7805;0.1951
+FCTE0061;Requisitos de Software;53;42;8;3;0.7925;0.1509
+FCTE0061;Requisitos de Software;53;38;14;1;0.717;0.2642
+FCTE0062;Testes de Software;38;26;10;2;0.6842;0.2632
+FCTE0062;Testes de Software;81;49;26;6;0.6049;0.321
+FCTE0062;Testes de Software;62;32;26;4;0.5161;0.4194
+FCTE0062;Testes de Software;59;33;25;1;0.5593;0.4237
+FCTE0062;Testes de Software;35;25;7;3;0.7143;0.2
+FCTE0062;Testes de Software;24;11;10;3;0.4583;0.4167
+FCTE0062;Testes de Software;56;35;17;4;0.625;0.3036
+FCTE0062;Testes de Software;39;25;12;2;0.641;0.3077
+FCTE0062;Testes de Software;52;27;21;4;0.5192;0.4038
+FCTE0062;Testes de Software;26;14;10;2;0.5385;0.3846
+FCTE0062;Testes de Software;33;18;15;0;0.5455;0.4545
+FCTE0062;Testes de Software;69;48;17;4;0.6957;0.2464
+FCTE0062;Testes de Software;30;17;13;0;0.5667;0.4333
+FCTE0062;Testes de Software;39;26;10;3;0.6667;0.2564
+FCTE0062;Testes de Software;60;41;18;1;0.6833;0.3
+FCTE0062;Testes de Software;18;8;8;2;0.4444;0.4444
+FCTE0062;Testes de Software;67;42;23;2;0.6269;0.3433
+FCTE0062;Testes de Software;54;35;15;4;0.6481;0.2778
+FCTE0062;Testes de Software;26;19;6;1;0.7308;0.2308
+FCTE0062;Testes de Software;59;41;16;2;0.6949;0.2712
+FCTE0062;Testes de Software;41;31;10;0;0.7561;0.2439
+FCTE0062;Testes de Software;75;39;32;4;0.52;0.4267
+FCTE0062;Testes de Software;31;20;10;1;0.6452;0.3226
+FCTE0062;Testes de Software;28;16;11;1;0.5714;0.3929
+FCTE0063;Qualidade de Software;65;61;1;3;0.9385;0.0154
+FCTE0063;Qualidade de Software;49;43;5;1;0.8776;0.102
+FCTE0063;Qualidade de Software;71;52;12;7;0.7324;0.169
+FCTE0063;Qualidade de Software;55;47;6;2;0.8545;0.1091
+FCTE0063;Qualidade de Software;81;68;7;6;0.8395;0.0864
+FCTE0063;Qualidade de Software;21;18;3;0;0.8571;0.1429
+FCTE0063;Qualidade de Software;74;60;9;5;0.8108;0.1216
+FCTE0063;Qualidade de Software;71;54;13;4;0.7606;0.1831
+FCTE0063;Qualidade de Software;25;20;3;2;0.8;0.12
+FCTE0063;Qualidade de Software;77;70;6;1;0.9091;0.0779
+FCTE0063;Qualidade de Software;32;28;2;2;0.875;0.0625
+FCTE0063;Qualidade de Software;68;57;10;1;0.8382;0.1471
+FCTE0063;Qualidade de Software;33;29;4;0;0.8788;0.1212
+FCTE0063;Qualidade de Software;32;29;2;1;0.9062;0.0625
+FCTE0063;Qualidade de Software;28;22;2;4;0.7857;0.0714
+FCTE0063;Qualidade de Software;67;55;5;7;0.8209;0.0746
+FCTE0063;Qualidade de Software;66;53;10;3;0.803;0.1515
+FCTE0063;Qualidade de Software;44;39;2;3;0.8864;0.0455
+FCTE0063;Qualidade de Software;27;24;3;0;0.8889;0.1111
+FCTE0063;Qualidade de Software;80;71;3;6;0.8875;0.0375
+FCTE0063;Qualidade de Software;64;54;4;6;0.8438;0.0625
+FCTE0063;Qualidade de Software;18;17;1;0;0.9444;0.0556
+FCTE0063;Qualidade de Software;61;56;2;3;0.918;0.0328
+FCTE0063;Qualidade de Software;38;28;5;5;0.7368;0.1316
+FCTE0064;Sistemas Operacionais;49;35;5;9;0.7143;0.102
+FCTE0064;Sistemas Operacionais;31;20;8;3;0.6452;0.2581
+FCTE0064;Sistemas Operacionais;54;37;6;11;0.6852;0.1111
+FCTE0064;Sistemas Operacionais;77;62;13;2;0.8052;0.1688
+FCTE0064;Sistemas Operacionais;22;17;4;1;0.7727;0.1818
+FCTE0064;Sistemas Operacionais;23;15;5;3;0.6522;0.2174
+FCTE0064;Sistemas Operacionais;80;64;11;5;0.8;0.1375
+FCTE0064;Sistemas Operacionais;63;52;10;1;0.8254;0.1587
+FCTE0064;Sistemas Operacionais;41;31;9;1;0.7561;0.2195
+FCTE0064;Sistemas Operacionais;38;29;5;4;0.7632;0.1316
+FCTE0064;Sistemas Operacionais;53;39;10;4;0.7358;0.1887
+FCTE0064;Sistemas Operacionais;71;45;23;3;0.6338;0.3239
+FCTE0064;Sistemas Operacionais;49;35;9;5;0.7143;0.1837
+FCTE0064;Sistemas Operacionais;56;45;8;3;0.8036;0.1429
+FCTE0064;Sistemas Operacionais;71;64;5;2;0.9014;0.0704
+FCTE0064;Sistemas Operacionais;30;20;5;5;0.6667;0.1667
+FCTE0064;Sistemas Operacionais;75;66;3;6;0.88;0.04
+FCTE0064;Sistemas Operacionais;19;15;2;2;0.7895;0.1053
+FCTE0064;Sistemas Operacionais;68;58;7;3;0.8529;0.1029
+FCTE0064;Sistemas Operacionais;48;32;12;4;0.6667;0.25
+FCTE0064;Sistemas Operacionais;23;21;2;0;0.913;0.087
+FCTE0064;Sistemas Operacionais;58;42;12;4;0.7241;0.2069
+FCTE0064;Sistemas Operacionais;74;56;14;4;0.7568;0.1892
+FCTE0064;Sistemas Operacionais;62;49;10;3;0.7903;0.1613
+FCTE0065;Redes de Computadores;31;15;15;1;0.4839;0.4839
+FCTE0065;Redes de Computadores;35;26;8;1;0.7429;0.2286
+FCTE0065;Redes de Computadores;51;42;5;4;0.8235;0.098
+FCTE0065;Redes de Computadores;68;55;12;1;0.8088;0.1765
+FCTE0065;Redes de Computadores;28;19;8;1;0.6786;0.2857
+FCTE0065;Redes de Computadores;56;47;8;1;0.8393;0.1429
+FCTE0065;Redes de Computadores;55;43;10;2;0.7818;0.1818
+FCTE0065;Redes de Computadores;44;41;3;0;0.9318;0.0682
+FCTE0065;Redes de Computadores;38;30;7;1;0.7895;0.1842
+FCTE0065;Redes de Computadores;31;22;6;3;0.7097;0.1935
+FCTE0065;Redes de Computadores;62;48;10;4;0.7742;0.1613
+FCTE0065;Redes de Computadores;71;53;12;6;0.7465;0.169
+FCTE0065;Redes de Computadores;49;40;9;0;0.8163;0.1837
+FCTE0065;Redes de Computadores;32;26;4;2;0.8125;0.125
+FCTE0065;Redes de Computadores;43;34;8;1;0.7907;0.186
+FCTE0065;Redes de Computadores;63;45;14;4;0.7143;0.2222
+FCTE0065;Redes de Computadores;77;56;19;2;0.7273;0.2468
+FCTE0065;Redes de Computadores;64;51;12;1;0.7969;0.1875
+FCTE0065;Redes de Computadores;31;25;5;1;0.8065;0.1613
+FCTE0065;Redes de Computadores;69;52;17;0;0.7536;0.2464
+FCTE0065;Redes de Computadores;62;46;16;0;0.7419;0.2581
+FCTE0065;Redes de Computadores;42;29;10;3;0.6905;0.2381
+FCTE0065;Redes de Computadores;49;44;5;0;0.898;0.102
+FCTE0065;Redes de Computadores;64;55;9;0;0.8594;0.1406
+FCTE0066;Compiladores;52;39;10;3;0.75;0.1923
+FCTE0066;Compiladores;54;47;7;0;0.8704;0.1296
+FCTE0066;Compiladores;65;47;15;3;0.7231;0.2308
+FCTE0066;Compiladores;48;34;6;8;0.7083;0.125
+FCTE0066;Compiladores;81;69;12;0;0.8519;0.1481
+FCTE0066;Compiladores;29;27;0;2;0.931;0.0
+FCTE0066;Compiladores;79;61;16;2;0.7722;0.2025
+FCTE0066;Compiladores;41;27;12;2;0.6585;0.2927
+FCTE0066;Compiladores;30;22;8;0;0.7333;0.2667
+FCTE0066;Compiladores;31;24;6;1;0.7742;0.1935
+FCTE0066;Compiladores;50;40;10;0;0.8;0.2
+FCTE0066;Compiladores;69;56;12;1;0.8116;0.1739
+FCTE0066;Compiladores;70;51;17;2;0.7286;0.2429
+FCTE0066;Compiladores;60;53;7;0;0.8833;0.1167
+FCTE0066;Compiladores;53;44;6;3;0.8302;0.1132
+FCTE0066;Compiladores;33;23;7;3;0.697;0.2121
+FCTE0066;Compiladores;81;57;18;6;0.7037;0.2222
+FCTE0066;Compiladores;81;56;20;5;0.6914;0.2469
+FCTE0066;Compiladores;29;20;9;0;0.6897;0.3103
+FCTE0066;Compiladores;52;36;15;1;0.6923;0.2885
+FCTE0066;Compiladores;33;22;7;4;0.6667;0.2121
+FCTE0066;Compiladores;58;47;10;1;0.8103;0.1724
+FCTE0066;Compiladores;50;34;13;3;0.68;0.26
+FCTE0066;Compiladores;34;23;11;0;0.6765;0.3235
+FCTE0067;Inteligência Artificial;29;18;9;2;0.6207;0.3103
+FCTE0067;Inteligência Artificial;60;38;21;1;0.6333;0.35
+FCTE0067;Inteligência Artificial;40;33;7;0;0.825;0.175
+FCTE0067;Inteligência Artificial;73;47;17;9;0.6438;0.2329
+FCTE0067;Inteligência Artificial;43;27;14;2;0.6279;0.3256
+FCTE0067;Inteligência Artificial;37;28;8;1;0.7568;0.2162
+FCTE0067;Inteligência Artificial;39;31;8;0;0.7949;0.2051
+FCTE0067;Inteligência Artificial;51;35;10;6;0.6863;0.1961
+FCTE0067;Inteligência Artificial;49;25;17;7;0.5102;0.3469
+FCTE0067;Inteligência Artificial;65;43;21;1;0.6615;0.3231
+FCTE0067;Inteligência Artificial;75;50;22;3;0.6667;0.2933
+FCTE0067;Inteligência Artificial;45;26;16;3;0.5778;0.3556
+FCTE0067;Inteligência Artificial;55;38;16;1;0.6909;0.2909
+FCTE0067;Inteligência Artificial;38;31;5;2;0.8158;0.1316
+FCTE0067;Inteligência Artificial;69;50;17;2;0.7246;0.2464
+FCTE0067;Inteligência Artificial;45;34;9;2;0.7556;0.2
+FCTE0067;Inteligência Artificial;55;40;11;4;0.7273;0.2
+FCTE0067;Inteligência Artificial;82;63;18;1;0.7683;0.2195
+FCTE0067;Inteligência Artificial;20;13;4;3;0.65;0.2
+FCTE0067;Inteligência Artificial;48;29;18;1;0.6042;0.375
+FCTE0067;Inteligência Artificial;79;56;16;7;0.7089;0.2025
+FCTE0067;Inteligência Artificial;28;22;4;2;0.7857;0.1429
+FCTE0067;Inteligência Artificial;44;35;8;1;0.7955;0.1818
+FCTE0067;Inteligência Artificial;68;56;11;1;0.8235;0.1618
+FCTE0068;Aprendizado de Máquina;21;15;4;2;0.7143;0.1905
+FCTE0068;Aprendizado de Máquina;59;37;20;2;0.6271;0.339
+FCTE0068;Aprendizado de Máquina;36;20;16;0;0.5556;0.4444
+FCTE0068;Aprendizado de Máquina;82;58;20;4;0.7073;0.2439
+FCTE0068;Aprendizado de Máquina;35;26;9;0;0.7429;0.2571
+FCTE0068;Aprendizado de Máquina;36;26;8;2;0.7222;0.2222
+FCTE0068;Aprendizado de Máquina;48;32;15;1;0.6667;0.3125
+FCTE0068;Aprendizado de Máquina;68;48;15;5;0.7059;0.2206
+FCTE0068;Aprendizado de Máquina;65;28;32;5;0.4308;0.4923
+FCTE0068;Aprendizado de Máquina;70;46;22;2;0.6571;0.3143
+FCTE0068;Aprendizado de Máquina;50;36;11;3;0.72;0.22
+FCTE0068;Aprendizado de Máquina;42;31;10;1;0.7381;0.2381
+FCTE0068;Aprendizado de Máquina;21;11;7;3;0.5238;0.3333
+FCTE0068;Aprendizado de Máquina;20;13;7;0;0.65;0.35
+FCTE0068;Aprendizado de Máquina;55;41;12;2;0.7455;0.2182
+FCTE0068;Aprendizado de Máquina;41;25;14;2;0.6098;0.3415
+FCTE0068;Aprendizado de Máquina;47;35;11;1;0.7447;0.234
+FCTE0068;Aprendizado de Máquina;73;49;17;7;0.6712;0.2329
+FCTE0068;Aprendizado de Máquina;46;21;24;1;0.4565;0.5217
+FCTE0068;Aprendizado de Máquina;71;46;21;4;0.6479;0.2958
+FCTE0068;Aprendizado de Máquina;82;55;19;8;0.6707;0.2317
+FCTE0068;Aprendizado de Máquina;70;47;16;7;0.6714;0.2286
+FCTE0068;Aprendizado de Máquina;66;42;22;2;0.6364;0.3333
+FCTE0068;Aprendizado de Máquina;44;33;8;3;0.75;0.1818
+FCTE0069;Interação Humano-Computador;31;23;6;2;0.7419;0.1935
+FCTE0069;Interação Humano-Computador;56;33;19;4;0.5893;0.3393
+FCTE0069;Interação Humano-Computador;26;18;6;2;0.6923;0.2308
+FCTE0069;Interação Humano-Computador;65;42;19;4;0.6462;0.2923
+FCTE0069;Interação Humano-Computador;78;45;30;3;0.5769;0.3846
+FCTE0069;Interação Humano-Computador;31;19;10;2;0.6129;0.3226
+FCTE0069;Interação Humano-Computador;68;37;24;7;0.5441;0.3529
+FCTE0069;Interação Humano-Computador;21;10;11;0;0.4762;0.5238
+FCTE0069;Interação Humano-Computador;46;27;18;1;0.587;0.3913
+FCTE0069;Interação Humano-Computador;41;24;12;5;0.5854;0.2927
+FCTE0069;Interação Humano-Computador;37;28;7;2;0.7568;0.1892
+FCTE0069;Interação Humano-Computador;37;29;5;3;0.7838;0.1351
+FCTE0069;Interação Humano-Computador;81;59;18;4;0.7284;0.2222
+FCTE0069;Interação Humano-Computador;73;38;26;9;0.5205;0.3562
+FCTE0069;Interação Humano-Computador;30;17;11;2;0.5667;0.3667
+FCTE0069;Interação Humano-Computador;49;35;11;3;0.7143;0.2245
+FCTE0069;Interação Humano-Computador;81;51;17;13;0.6296;0.2099
+FCTE0069;Interação Humano-Computador;50;31;17;2;0.62;0.34
+FCTE0069;Interação Humano-Computador;39;27;11;1;0.6923;0.2821
+FCTE0069;Interação Humano-Computador;57;33;21;3;0.5789;0.3684
+FCTE0069;Interação Humano-Computador;34;24;8;2;0.7059;0.2353
+FCTE0069;Interação Humano-Computador;45;26;17;2;0.5778;0.3778
+FCTE0069;Interação Humano-Computador;46;25;17;4;0.5435;0.3696
+FCTE0069;Interação Humano-Computador;19;11;6;2;0.5789;0.3158
+FCTE0070;Programação para Sistemas Embarcados;79;61;18;0;0.7722;0.2278
+FCTE0070;Programação para Sistemas Embarcados;25;21;4;0;0.84;0.16
+FCTE0070;Programação para Sistemas Embarcados;33;28;5;0;0.8485;0.1515
+FCTE0070;Programação para Sistemas Embarcados;41;36;4;1;0.878;0.0976
+FCTE0070;Programação para Sistemas Embarcados;24;20;3;1;0.8333;0.125
+FCTE0070;Programação para Sistemas Embarcados;60;55;5;0;0.9167;0.0833
+FCTE0070;Programação para Sistemas Embarcados;39;36;3;0;0.9231;0.0769
+FCTE0070;Programação para Sistemas Embarcados;32;27;5;0;0.8438;0.1562
+FCTE0070;Programação para Sistemas Embarcados;19;13;4;2;0.6842;0.2105
+FCTE0070;Programação para Sistemas Embarcados;62;52;8;2;0.8387;0.129
+FCTE0070;Programação para Sistemas Embarcados;78;63;12;3;0.8077;0.1538
+FCTE0070;Programação para Sistemas Embarcados;22;17;5;0;0.7727;0.2273
+FCTE0070;Programação para Sistemas Embarcados;68;62;5;1;0.9118;0.0735
+FCTE0070;Programação para Sistemas Embarcados;60;52;4;4;0.8667;0.0667
+FCTE0070;Programação para Sistemas Embarcados;63;51;12;0;0.8095;0.1905
+FCTE0070;Programação para Sistemas Embarcados;59;51;5;3;0.8644;0.0847
+FCTE0070;Programação para Sistemas Embarcados;50;43;2;5;0.86;0.04
+FCTE0070;Programação para Sistemas Embarcados;74;56;9;9;0.7568;0.1216
+FCTE0070;Programação para Sistemas Embarcados;40;35;5;0;0.875;0.125
+FCTE0070;Programação para Sistemas Embarcados;46;36;8;2;0.7826;0.1739
+FCTE0070;Programação para Sistemas Embarcados;39;34;5;0;0.8718;0.1282
+FCTE0070;Programação para Sistemas Embarcados;74;55;14;5;0.7432;0.1892
+FCTE0070;Programação para Sistemas Embarcados;76;59;14;3;0.7763;0.1842
+FCTE0070;Programação para Sistemas Embarcados;61;51;8;2;0.8361;0.1311
+FCTE0071;Engenharia de Produto de Software;72;62;9;1;0.8611;0.125
+FCTE0071;Engenharia de Produto de Software;37;27;9;1;0.7297;0.2432
+FCTE0071;Engenharia de Produto de Software;23;20;2;1;0.8696;0.087
+FCTE0071;Engenharia de Produto de Software;43;39;2;2;0.907;0.0465
+FCTE0071;Engenharia de Produto de Software;36;28;7;1;0.7778;0.1944
+FCTE0071;Engenharia de Produto de Software;45;38;5;2;0.8444;0.1111
+FCTE0071;Engenharia de Produto de Software;80;67;10;3;0.8375;0.125
+FCTE0071;Engenharia de Produto de Software;42;30;10;2;0.7143;0.2381
+FCTE0071;Engenharia de Produto de Software;74;62;10;2;0.8378;0.1351
+FCTE0071;Engenharia de Produto de Software;75;51;21;3;0.68;0.28
+FCTE0071;Engenharia de Produto de Software;20;17;2;1;0.85;0.1
+FCTE0071;Engenharia de Produto de Software;58;44;11;3;0.7586;0.1897
+FCTE0071;Engenharia de Produto de Software;39;35;1;3;0.8974;0.0256
+FCTE0071;Engenharia de Produto de Software;60;55;4;1;0.9167;0.0667
+FCTE0071;Engenharia de Produto de Software;71;55;12;4;0.7746;0.169
+FCTE0071;Engenharia de Produto de Software;43;38;5;0;0.8837;0.1163
+FCTE0071;Engenharia de Produto de Software;50;41;8;1;0.82;0.16
+FCTE0071;Engenharia de Produto de Software;79;59;16;4;0.7468;0.2025
+FCTE0071;Engenharia de Produto de Software;18;13;5;0;0.7222;0.2778
+FCTE0071;Engenharia de Produto de Software;36;32;4;0;0.8889;0.1111
+FCTE0071;Engenharia de Produto de Software;34;27;7;0;0.7941;0.2059
+FCTE0071;Engenharia de Produto de Software;34;27;3;4;0.7941;0.0882
+FCTE0071;Engenharia de Produto de Software;80;58;16;6;0.725;0.2
+FCTE0071;Engenharia de Produto de Software;53;46;7;0;0.8679;0.1321
+FCTE0072;DevOps e Integração Contínua;48;38;4;6;0.7917;0.0833
+FCTE0072;DevOps e Integração Contínua;27;21;2;4;0.7778;0.0741
+FCTE0072;DevOps e Integração Contínua;60;42;14;4;0.7;0.2333
+FCTE0072;DevOps e Integração Contínua;38;34;2;2;0.8947;0.0526
+FCTE0072;DevOps e Integração Contínua;48;32;13;3;0.6667;0.2708
+FCTE0072;DevOps e Integração Contínua;34;25;8;1;0.7353;0.2353
+FCTE0072;DevOps e Integração Contínua;19;15;2;2;0.7895;0.1053
+FCTE0072;DevOps e Integração Contínua;72;56;15;1;0.7778;0.2083
+FCTE0072;DevOps e Integração Contínua;42;36;3;3;0.8571;0.0714
+FCTE0072;DevOps e Integração Contínua;73;56;12;5;0.7671;0.1644
+FCTE0072;DevOps e Integração Contínua;40;32;7;1;0.8;0.175
+FCTE0072;DevOps e Integração Contínua;66;52;7;7;0.7879;0.1061
+FCTE0072;DevOps e Integração Contínua;46;31;13;2;0.6739;0.2826
+FCTE0072;DevOps e Integração Contínua;82;59;23;0;0.7195;0.2805
+FCTE0072;DevOps e Integração Contínua;51;34;13;4;0.6667;0.2549
+FCTE0072;DevOps e Integração Contínua;33;23;6;4;0.697;0.1818
+FCTE0072;DevOps e Integração Contínua;78;55;20;3;0.7051;0.2564
+FCTE0072;DevOps e Integração Contínua;54;44;8;2;0.8148;0.1481
+FCTE0072;DevOps e Integração Contínua;81;61;11;9;0.7531;0.1358
+FCTE0072;DevOps e Integração Contínua;33;24;8;1;0.7273;0.2424
+FCTE0072;DevOps e Integração Contínua;53;46;5;2;0.8679;0.0943
+FCTE0072;DevOps e Integração Contínua;73;60;9;4;0.8219;0.1233
+FCTE0072;DevOps e Integração Contínua;43;36;6;1;0.8372;0.1395
+FCTE0072;DevOps e Integração Contínua;60;46;14;0;0.7667;0.2333
+FCTE0073;Segurança de Software;46;32;13;1;0.6957;0.2826
+FCTE0073;Segurança de Software;46;30;11;5;0.6522;0.2391
+FCTE0073;Segurança de Software;30;26;2;2;0.8667;0.0667
+FCTE0073;Segurança de Software;74;55;17;2;0.7432;0.2297
+FCTE0073;Segurança de Software;75;52;20;3;0.6933;0.2667
+FCTE0073;Segurança de Software;21;12;8;1;0.5714;0.381
+FCTE0073;Segurança de Software;65;46;14;5;0.7077;0.2154
+FCTE0073;Segurança de Software;62;46;11;5;0.7419;0.1774
+FCTE0073;Segurança de Software;30;22;6;2;0.7333;0.2
+FCTE0073;Segurança de Software;25;17;7;1;0.68;0.28
+FCTE0073;Segurança de Software;72;61;10;1;0.8472;0.1389
+FCTE0073;Segurança de Software;27;8;13;6;0.2963;0.4815
+FCTE0073;Segurança de Software;54;32;16;6;0.5926;0.2963
+FCTE0073;Segurança de Software;62;47;13;2;0.7581;0.2097
+FCTE0073;Segurança de Software;34;21;9;4;0.6176;0.2647
+FCTE0073;Segurança de Software;47;33;9;5;0.7021;0.1915
+FCTE0073;Segurança de Software;64;43;15;6;0.6719;0.2344
+FCTE0073;Segurança de Software;28;20;4;4;0.7143;0.1429
+FCTE0073;Segurança de Software;25;17;8;0;0.68;0.32
+FCTE0073;Segurança de Software;30;25;3;2;0.8333;0.1
+FCTE0073;Segurança de Software;44;36;7;1;0.8182;0.1591
+FCTE0073;Segurança de Software;44;30;9;5;0.6818;0.2045
+FCTE0073;Segurança de Software;37;30;6;1;0.8108;0.1622
+FCTE0073;Segurança de Software;64;39;19;6;0.6094;0.2969
+FCTE0074;Sistemas Distribuídos;67;44;17;6;0.6567;0.2537
+FCTE0074;Sistemas Distribuídos;46;39;3;4;0.8478;0.0652
+FCTE0074;Sistemas Distribuídos;67;52;10;5;0.7761;0.1493
+FCTE0074;Sistemas Distribuídos;51;32;15;4;0.6275;0.2941
+FCTE0074;Sistemas Distribuídos;58;39;15;4;0.6724;0.2586
+FCTE0074;Sistemas Distribuídos;65;52;12;1;0.8;0.1846
+FCTE0074;Sistemas Distribuídos;56;38;12;6;0.6786;0.2143
+FCTE0074;Sistemas Distribuídos;64;41;20;3;0.6406;0.3125
+FCTE0074;Sistemas Distribuídos;78;57;16;5;0.7308;0.2051
+FCTE0074;Sistemas Distribuídos;64;41;20;3;0.6406;0.3125
+FCTE0074;Sistemas Distribuídos;58;42;11;5;0.7241;0.1897
+FCTE0074;Sistemas Distribuídos;73;47;19;7;0.6438;0.2603
+FCTE0074;Sistemas Distribuídos;62;49;9;4;0.7903;0.1452
+FCTE0074;Sistemas Distribuídos;50;31;12;7;0.62;0.24
+FCTE0074;Sistemas Distribuídos;36;27;7;2;0.75;0.1944
+FCTE0074;Sistemas Distribuídos;80;62;10;8;0.775;0.125
+FCTE0074;Sistemas Distribuídos;21;14;5;2;0.6667;0.2381
+FCTE0074;Sistemas Distribuídos;82;56;19;7;0.6829;0.2317
+FCTE0074;Sistemas Distribuídos;59;44;13;2;0.7458;0.2203
+FCTE0074;Sistemas Distribuídos;28;22;4;2;0.7857;0.1429
+FCTE0074;Sistemas Distribuídos;51;32;17;2;0.6275;0.3333
+FCTE0074;Sistemas Distribuídos;34;27;5;2;0.7941;0.1471
+FCTE0074;Sistemas Distribuídos;75;53;21;1;0.7067;0.28
+FCTE0074;Sistemas Distribuídos;75;48;24;3;0.64;0.32
+FCTE0075;Gerência de Configuração de Software;64;54;8;2;0.8438;0.125
+FCTE0075;Gerência de Configuração de Software;54;37;17;0;0.6852;0.3148
+FCTE0075;Gerência de Configuração de Software;58;32;21;5;0.5517;0.3621
+FCTE0075;Gerência de Configuração de Software;57;38;17;2;0.6667;0.2982
+FCTE0075;Gerência de Configuração de Software;78;52;23;3;0.6667;0.2949
+FCTE0075;Gerência de Configuração de Software;40;31;8;1;0.775;0.2
+FCTE0075;Gerência de Configuração de Software;41;28;12;1;0.6829;0.2927
+FCTE0075;Gerência de Configuração de Software;69;48;19;2;0.6957;0.2754
+FCTE0075;Gerência de Configuração de Software;56;32;20;4;0.5714;0.3571
+FCTE0075;Gerência de Configuração de Software;55;31;23;1;0.5636;0.4182
+FCTE0075;Gerência de Configuração de Software;42;32;10;0;0.7619;0.2381
+FCTE0075;Gerência de Configuração de Software;20;10;9;1;0.5;0.45
+FCTE0075;Gerência de Configuração de Software;32;23;9;0;0.7188;0.2812
+FCTE0075;Gerência de Configuração de Software;80;55;25;0;0.6875;0.3125
+FCTE0075;Gerência de Configuração de Software;25;18;7;0;0.72;0.28
+FCTE0075;Gerência de Configuração de Software;75;46;27;2;0.6133;0.36
+FCTE0075;Gerência de Configuração de Software;80;53;27;0;0.6625;0.3375
+FCTE0075;Gerência de Configuração de Software;26;17;9;0;0.6538;0.3462
+FCTE0075;Gerência de Configuração de Software;27;17;9;1;0.6296;0.3333
+FCTE0075;Gerência de Configuração de Software;31;25;5;1;0.8065;0.1613
+FCTE0075;Gerência de Configuração de Software;46;29;15;2;0.6304;0.3261
+FCTE0075;Gerência de Configuração de Software;31;23;6;2;0.7419;0.1935
+FCTE0075;Gerência de Configuração de Software;19;16;3;0;0.8421;0.1579
+FCTE0075;Gerência de Configuração de Software;23;16;5;2;0.6957;0.2174
+FCTE0076;Dinâmica de Veículos;74;44;24;6;0.5946;0.3243
+FCTE0076;Dinâmica de Veículos;57;38;16;3;0.6667;0.2807
+FCTE0076;Dinâmica de Veículos;22;16;6;0;0.7273;0.2727
+FCTE0076;Dinâmica de Veículos;42;33;9;0;0.7857;0.2143
+FCTE0076;Dinâmica de Veículos;61;48;12;1;0.7869;0.1967
+FCTE0076;Dinâmica de Veículos;20;13;7;0;0.65;0.35
+FCTE0076;Dinâmica de Veículos;63;49;13;1;0.7778;0.2063
+FCTE0076;Dinâmica de Veículos;54;33;20;1;0.6111;0.3704
+FCTE0076;Dinâmica de Veículos;29;21;8;0;0.7241;0.2759
+FCTE0076;Dinâmica de Veículos;31;20;8;3;0.6452;0.2581
+FCTE0076;Dinâmica de Veículos;77;49;26;2;0.6364;0.3377
+FCTE0076;Dinâmica de Veículos;36;21;14;1;0.5833;0.3889
+FCTE0076;Dinâmica de Veículos;46;28;18;0;0.6087;0.3913
+FCTE0076;Dinâmica de Veículos;73;49;20;4;0.6712;0.274
+FCTE0076;Dinâmica de Veículos;73;41;26;6;0.5616;0.3562
+FCTE0076;Dinâmica de Veículos;29;14;15;0;0.4828;0.5172
+FCTE0076;Dinâmica de Veículos;39;23;16;0;0.5897;0.4103
+FCTE0076;Dinâmica de Veículos;33;18;15;0;0.5455;0.4545
+FCTE0076;Dinâmica de Veículos;71;47;23;1;0.662;0.3239
+FCTE0076;Dinâmica de Veículos;57;42;13;2;0.7368;0.2281
+FCTE0076;Dinâmica de Veículos;26;18;8;0;0.6923;0.3077
+FCTE0076;Dinâmica de Veículos;26;14;10;2;0.5385;0.3846
+FCTE0076;Dinâmica de Veículos;37;23;13;1;0.6216;0.3514
+FCTE0076;Dinâmica de Veículos;35;24;11;0;0.6857;0.3143
+FCTE0077;Motores de Combustão Interna;54;44;7;3;0.8148;0.1296
+FCTE0077;Motores de Combustão Interna;46;39;6;1;0.8478;0.1304
+FCTE0077;Motores de Combustão Interna;60;50;7;3;0.8333;0.1167
+FCTE0077;Motores de Combustão Interna;77;75;1;1;0.974;0.013
+FCTE0077;Motores de Combustão Interna;67;55;9;3;0.8209;0.1343
+FCTE0077;Motores de Combustão Interna;19;16;2;1;0.8421;0.1053
+FCTE0077;Motores de Combustão Interna;70;57;7;6;0.8143;0.1
+FCTE0077;Motores de Combustão Interna;77;64;10;3;0.8312;0.1299
+FCTE0077;Motores de Combustão Interna;56;53;1;2;0.9464;0.0179
+FCTE0077;Motores de Combustão Interna;74;58;11;5;0.7838;0.1486
+FCTE0077;Motores de Combustão Interna;49;45;1;3;0.9184;0.0204
+FCTE0077;Motores de Combustão Interna;55;54;1;0;0.9818;0.0182
+FCTE0077;Motores de Combustão Interna;44;40;4;0;0.9091;0.0909
+FCTE0077;Motores de Combustão Interna;26;22;3;1;0.8462;0.1154
+FCTE0077;Motores de Combustão Interna;35;28;3;4;0.8;0.0857
+FCTE0077;Motores de Combustão Interna;79;52;22;5;0.6582;0.2785
+FCTE0077;Motores de Combustão Interna;24;18;4;2;0.75;0.1667
+FCTE0077;Motores de Combustão Interna;73;67;5;1;0.9178;0.0685
+FCTE0077;Motores de Combustão Interna;37;32;4;1;0.8649;0.1081
+FCTE0077;Motores de Combustão Interna;43;33;7;3;0.7674;0.1628
+FCTE0077;Motores de Combustão Interna;73;69;2;2;0.9452;0.0274
+FCTE0077;Motores de Combustão Interna;46;36;7;3;0.7826;0.1522
+FCTE0077;Motores de Combustão Interna;53;45;7;1;0.8491;0.1321
+FCTE0077;Motores de Combustão Interna;57;50;4;3;0.8772;0.0702
+FCTE0078;Sistemas de Transmissão;80;58;17;5;0.725;0.2125
+FCTE0078;Sistemas de Transmissão;77;52;19;6;0.6753;0.2468
+FCTE0078;Sistemas de Transmissão;81;66;12;3;0.8148;0.1481
+FCTE0078;Sistemas de Transmissão;57;41;10;6;0.7193;0.1754
+FCTE0078;Sistemas de Transmissão;47;40;3;4;0.8511;0.0638
+FCTE0078;Sistemas de Transmissão;37;32;5;0;0.8649;0.1351
+FCTE0078;Sistemas de Transmissão;28;26;1;1;0.9286;0.0357
+FCTE0078;Sistemas de Transmissão;40;33;4;3;0.825;0.1
+FCTE0078;Sistemas de Transmissão;27;21;4;2;0.7778;0.1481
+FCTE0078;Sistemas de Transmissão;52;43;6;3;0.8269;0.1154
+FCTE0078;Sistemas de Transmissão;27;20;6;1;0.7407;0.2222
+FCTE0078;Sistemas de Transmissão;26;21;3;2;0.8077;0.1154
+FCTE0078;Sistemas de Transmissão;33;28;4;1;0.8485;0.1212
+FCTE0078;Sistemas de Transmissão;36;30;3;3;0.8333;0.0833
+FCTE0078;Sistemas de Transmissão;55;37;12;6;0.6727;0.2182
+FCTE0078;Sistemas de Transmissão;61;52;8;1;0.8525;0.1311
+FCTE0078;Sistemas de Transmissão;31;24;4;3;0.7742;0.129
+FCTE0078;Sistemas de Transmissão;32;27;2;3;0.8438;0.0625
+FCTE0078;Sistemas de Transmissão;71;57;11;3;0.8028;0.1549
+FCTE0078;Sistemas de Transmissão;67;52;11;4;0.7761;0.1642
+FCTE0078;Sistemas de Transmissão;69;57;10;2;0.8261;0.1449
+FCTE0078;Sistemas de Transmissão;48;38;9;1;0.7917;0.1875
+FCTE0078;Sistemas de Transmissão;80;72;6;2;0.9;0.075
+FCTE0078;Sistemas de Transmissão;51;42;4;5;0.8235;0.0784
+FCTE0079;Eletrônica Veicular;60;48;8;4;0.8;0.1333
+FCTE0079;Eletrônica Veicular;56;40;7;9;0.7143;0.125
+FCTE0079;Eletrônica Veicular;49;38;7;4;0.7755;0.1429
+FCTE0079;Eletrônica Veicular;29;23;5;1;0.7931;0.1724
+FCTE0079;Eletrônica Veicular;81;55;20;6;0.679;0.2469
+FCTE0079;Eletrônica Veicular;68;55;11;2;0.8088;0.1618
+FCTE0079;Eletrônica Veicular;65;56;7;2;0.8615;0.1077
+FCTE0079;Eletrônica Veicular;26;19;4;3;0.7308;0.1538
+FCTE0079;Eletrônica Veicular;20;17;2;1;0.85;0.1
+FCTE0079;Eletrônica Veicular;34;26;1;7;0.7647;0.0294
+FCTE0079;Eletrônica Veicular;62;46;11;5;0.7419;0.1774
+FCTE0079;Eletrônica Veicular;60;43;13;4;0.7167;0.2167
+FCTE0079;Eletrônica Veicular;31;18;12;1;0.5806;0.3871
+FCTE0079;Eletrônica Veicular;58;53;4;1;0.9138;0.069
+FCTE0079;Eletrônica Veicular;49;28;16;5;0.5714;0.3265
+FCTE0079;Eletrônica Veicular;70;55;8;7;0.7857;0.1143
+FCTE0079;Eletrônica Veicular;61;43;11;7;0.7049;0.1803
+FCTE0079;Eletrônica Veicular;20;15;5;0;0.75;0.25
+FCTE0079;Eletrônica Veicular;74;57;15;2;0.7703;0.2027
+FCTE0079;Eletrônica Veicular;23;15;7;1;0.6522;0.3043
+FCTE0079;Eletrônica Veicular;20;15;5;0;0.75;0.25
+FCTE0079;Eletrônica Veicular;19;14;5;0;0.7368;0.2632
+FCTE0079;Eletrônica Veicular;26;17;6;3;0.6538;0.2308
+FCTE0079;Eletrônica Veicular;54;37;12;5;0.6852;0.2222
+FCTE0080;Sistemas de Suspensão;35;32;3;0;0.9143;0.0857
+FCTE0080;Sistemas de Suspensão;54;39;10;5;0.7222;0.1852
+FCTE0080;Sistemas de Suspensão;67;48;17;2;0.7164;0.2537
+FCTE0080;Sistemas de Suspensão;57;45;11;1;0.7895;0.193
+FCTE0080;Sistemas de Suspensão;30;26;4;0;0.8667;0.1333
+FCTE0080;Sistemas de Suspensão;56;42;9;5;0.75;0.1607
+FCTE0080;Sistemas de Suspensão;36;28;8;0;0.7778;0.2222
+FCTE0080;Sistemas de Suspensão;34;24;8;2;0.7059;0.2353
+FCTE0080;Sistemas de Suspensão;42;30;10;2;0.7143;0.2381
+FCTE0080;Sistemas de Suspensão;26;19;7;0;0.7308;0.2692
+FCTE0080;Sistemas de Suspensão;53;39;14;0;0.7358;0.2642
+FCTE0080;Sistemas de Suspensão;18;12;6;0;0.6667;0.3333
+FCTE0080;Sistemas de Suspensão;21;15;4;2;0.7143;0.1905
+FCTE0080;Sistemas de Suspensão;82;58;23;1;0.7073;0.2805
+FCTE0080;Sistemas de Suspensão;48;36;11;1;0.75;0.2292
+FCTE0080;Sistemas de Suspensão;76;60;13;3;0.7895;0.1711
+FCTE0080;Sistemas de Suspensão;49;43;6;0;0.8776;0.1224
+FCTE0080;Sistemas de Suspensão;64;49;14;1;0.7656;0.2188
+FCTE0080;Sistemas de Suspensão;61;51;9;1;0.8361;0.1475
+FCTE0080;Sistemas de Suspensão;24;16;8;0;0.6667;0.3333
+FCTE0080;Sistemas de Suspensão;70;46;18;6;0.6571;0.2571
+FCTE0080;Sistemas de Suspensão;19;12;6;1;0.6316;0.3158
+FCTE0080;Sistemas de Suspensão;61;48;13;0;0.7869;0.2131
+FCTE0080;Sistemas de Suspensão;77;55;19;3;0.7143;0.2468
+FCTE0081;Sistemas de Freios;29;17;9;3;0.5862;0.3103
+FCTE0081;Sistemas de Freios;62;42;16;4;0.6774;0.2581
+FCTE0081;Sistemas de Freios;40;26;11;3;0.65;0.275
+FCTE0081;Sistemas de Freios;43;30;11;2;0.6977;0.2558
+FCTE0081;Sistemas de Freios;36;28;4;4;0.7778;0.1111
+FCTE0081;Sistemas de Freios;29;23;6;0;0.7931;0.2069
+FCTE0081;Sistemas de Freios;47;36;11;0;0.766;0.234
+FCTE0081;Sistemas de Freios;30;18;9;3;0.6;0.3
+FCTE0081;Sistemas de Freios;39;31;8;0;0.7949;0.2051
+FCTE0081;Sistemas de Freios;43;36;6;1;0.8372;0.1395
+FCTE0081;Sistemas de Freios;78;51;22;5;0.6538;0.2821
+FCTE0081;Sistemas de Freios;18;14;4;0;0.7778;0.2222
+FCTE0081;Sistemas de Freios;27;16;11;0;0.5926;0.4074
+FCTE0081;Sistemas de Freios;76;55;19;2;0.7237;0.25
+FCTE0081;Sistemas de Freios;78;51;23;4;0.6538;0.2949
+FCTE0081;Sistemas de Freios;77;51;22;4;0.6623;0.2857
+FCTE0081;Sistemas de Freios;70;52;16;2;0.7429;0.2286
+FCTE0081;Sistemas de Freios;72;57;13;2;0.7917;0.1806
+FCTE0081;Sistemas de Freios;20;16;4;0;0.8;0.2
+FCTE0081;Sistemas de Freios;48;36;8;4;0.75;0.1667
+FCTE0081;Sistemas de Freios;36;23;13;0;0.6389;0.3611
+FCTE0081;Sistemas de Freios;74;56;18;0;0.7568;0.2432
+FCTE0081;Sistemas de Freios;22;17;4;1;0.7727;0.1818
+FCTE0081;Sistemas de Freios;42;29;10;3;0.6905;0.2381
+FCTE0082;Aerodinâmica Veicular;64;45;18;1;0.7031;0.2812
+FCTE0082;Aerodinâmica Veicular;30;23;6;1;0.7667;0.2
+FCTE0082;Aerodinâmica Veicular;46;30;12;4;0.6522;0.2609
+FCTE0082;Aerodinâmica Veicular;31;17;12;2;0.5484;0.3871
+FCTE0082;Aerodinâmica Veicular;22;19;3;0;0.8636;0.1364
+FCTE0082;Aerodinâmica Veicular;43;33;9;1;0.7674;0.2093
+FCTE0082;Aerodinâmica Veicular;58;34;16;8;0.5862;0.2759
+FCTE0082;Aerodinâmica Veicular;50;30;19;1;0.6;0.38
+FCTE0082;Aerodinâmica Veicular;78;52;23;3;0.6667;0.2949
+FCTE0082;Aerodinâmica Veicular;30;16;13;1;0.5333;0.4333
+FCTE0082;Aerodinâmica Veicular;41;26;14;1;0.6341;0.3415
+FCTE0082;Aerodinâmica Veicular;33;18;13;2;0.5455;0.3939
+FCTE0082;Aerodinâmica Veicular;33;22;11;0;0.6667;0.3333
+FCTE0082;Aerodinâmica Veicular;81;61;16;4;0.7531;0.1975
+FCTE0082;Aerodinâmica Veicular;27;16;10;1;0.5926;0.3704
+FCTE0082;Aerodinâmica Veicular;48;27;19;2;0.5625;0.3958
+FCTE0082;Aerodinâmica Veicular;65;44;15;6;0.6769;0.2308
+FCTE0082;Aerodinâmica Veicular;28;19;8;1;0.6786;0.2857
+FCTE0082;Aerodinâmica Veicular;35;25;9;1;0.7143;0.2571
+FCTE0082;Aerodinâmica Veicular;48;29;15;4;0.6042;0.3125
+FCTE0082;Aerodinâmica Veicular;60;52;8;0;0.8667;0.1333
+FCTE0082;Aerodinâmica Veicular;79;50;22;7;0.6329;0.2785
+FCTE0082;Aerodinâmica Veicular;31;21;8;2;0.6774;0.2581
+FCTE0082;Aerodinâmica Veicular;63;43;19;1;0.6825;0.3016
+FCTE0083;Materiais Automotivos;59;38;18;3;0.6441;0.3051
+FCTE0083;Materiais Automotivos;45;26;18;1;0.5778;0.4
+FCTE0083;Materiais Automotivos;19;9;10;0;0.4737;0.5263
+FCTE0083;Materiais Automotivos;77;52;22;3;0.6753;0.2857
+FCTE0083;Materiais Automotivos;29;17;11;1;0.5862;0.3793
+FCTE0083;Materiais Automotivos;28;12;13;3;0.4286;0.4643
+FCTE0083;Materiais Automotivos;55;29;22;4;0.5273;0.4
+FCTE0083;Materiais Automotivos;41;28;13;0;0.6829;0.3171
+FCTE0083;Materiais Automotivos;44;29;10;5;0.6591;0.2273
+FCTE0083;Materiais Automotivos;63;42;18;3;0.6667;0.2857
+FCTE0083;Materiais Automotivos;47;26;17;4;0.5532;0.3617
+FCTE0083;Materiais Automotivos;19;13;4;2;0.6842;0.2105
+FCTE0083;Materiais Automotivos;43;29;13;1;0.6744;0.3023
+FCTE0083;Materiais Automotivos;57;41;12;4;0.7193;0.2105
+FCTE0083;Materiais Automotivos;32;22;9;1;0.6875;0.2812
+FCTE0083;Materiais Automotivos;72;38;29;5;0.5278;0.4028
+FCTE0083;Materiais Automotivos;35;22;10;3;0.6286;0.2857
+FCTE0083;Materiais Automotivos;67;48;17;2;0.7164;0.2537
+FCTE0083;Materiais Automotivos;37;26;9;2;0.7027;0.2432
+FCTE0083;Materiais Automotivos;29;13;14;2;0.4483;0.4828
+FCTE0083;Materiais Automotivos;77;49;24;4;0.6364;0.3117
+FCTE0083;Materiais Automotivos;47;21;23;3;0.4468;0.4894
+FCTE0083;Materiais Automotivos;69;49;16;4;0.7101;0.2319
+FCTE0083;Materiais Automotivos;24;10;12;2;0.4167;0.5
+FCTE0084;Projeto de Chassis;75;70;4;1;0.9333;0.0533
+FCTE0084;Projeto de Chassis;71;58;10;3;0.8169;0.1408
+FCTE0084;Projeto de Chassis;72;60;10;2;0.8333;0.1389
+FCTE0084;Projeto de Chassis;73;59;8;6;0.8082;0.1096
+FCTE0084;Projeto de Chassis;77;59;12;6;0.7662;0.1558
+FCTE0084;Projeto de Chassis;25;20;2;3;0.8;0.08
+FCTE0084;Projeto de Chassis;61;54;2;5;0.8852;0.0328
+FCTE0084;Projeto de Chassis;30;27;1;2;0.9;0.0333
+FCTE0084;Projeto de Chassis;33;29;1;3;0.8788;0.0303
+FCTE0084;Projeto de Chassis;71;57;10;4;0.8028;0.1408
+FCTE0084;Projeto de Chassis;74;69;2;3;0.9324;0.027
+FCTE0084;Projeto de Chassis;32;25;6;1;0.7812;0.1875
+FCTE0084;Projeto de Chassis;27;17;8;2;0.6296;0.2963
+FCTE0084;Projeto de Chassis;25;22;0;3;0.88;0.0
+FCTE0084;Projeto de Chassis;63;54;6;3;0.8571;0.0952
+FCTE0084;Projeto de Chassis;43;36;4;3;0.8372;0.093
+FCTE0084;Projeto de Chassis;47;41;2;4;0.8723;0.0426
+FCTE0084;Projeto de Chassis;35;28;3;4;0.8;0.0857
+FCTE0084;Projeto de Chassis;52;47;3;2;0.9038;0.0577
+FCTE0084;Projeto de Chassis;78;70;6;2;0.8974;0.0769
+FCTE0084;Projeto de Chassis;49;40;4;5;0.8163;0.0816
+FCTE0084;Projeto de Chassis;75;62;11;2;0.8267;0.1467
+FCTE0084;Projeto de Chassis;48;37;9;2;0.7708;0.1875
+FCTE0084;Projeto de Chassis;47;40;4;3;0.8511;0.0851
+FCTE0085;Vibrações Veiculares;26;23;2;1;0.8846;0.0769
+FCTE0085;Vibrações Veiculares;38;33;4;1;0.8684;0.1053
+FCTE0085;Vibrações Veiculares;78;66;12;0;0.8462;0.1538
+FCTE0085;Vibrações Veiculares;44;30;12;2;0.6818;0.2727
+FCTE0085;Vibrações Veiculares;42;34;7;1;0.8095;0.1667
+FCTE0085;Vibrações Veiculares;38;31;7;0;0.8158;0.1842
+FCTE0085;Vibrações Veiculares;22;18;4;0;0.8182;0.1818
+FCTE0085;Vibrações Veiculares;80;60;19;1;0.75;0.2375
+FCTE0085;Vibrações Veiculares;57;45;9;3;0.7895;0.1579
+FCTE0085;Vibrações Veiculares;56;36;19;1;0.6429;0.3393
+FCTE0085;Vibrações Veiculares;40;34;5;1;0.85;0.125
+FCTE0085;Vibrações Veiculares;25;23;2;0;0.92;0.08
+FCTE0085;Vibrações Veiculares;77;70;4;3;0.9091;0.0519
+FCTE0085;Vibrações Veiculares;67;57;10;0;0.8507;0.1493
+FCTE0085;Vibrações Veiculares;44;36;5;3;0.8182;0.1136
+FCTE0085;Vibrações Veiculares;66;54;8;4;0.8182;0.1212
+FCTE0085;Vibrações Veiculares;43;38;4;1;0.8837;0.093
+FCTE0085;Vibrações Veiculares;29;26;3;0;0.8966;0.1034
+FCTE0085;Vibrações Veiculares;67;53;10;4;0.791;0.1493
+FCTE0085;Vibrações Veiculares;65;58;5;2;0.8923;0.0769
+FCTE0085;Vibrações Veiculares;44;40;4;0;0.9091;0.0909
+FCTE0085;Vibrações Veiculares;61;54;6;1;0.8852;0.0984
+FCTE0085;Vibrações Veiculares;29;25;3;1;0.8621;0.1034
+FCTE0085;Vibrações Veiculares;54;43;10;1;0.7963;0.1852
+FCTE0086;Veículos Elétricos;58;47;9;2;0.8103;0.1552
+FCTE0086;Veículos Elétricos;60;44;13;3;0.7333;0.2167
+FCTE0086;Veículos Elétricos;59;39;17;3;0.661;0.2881
+FCTE0086;Veículos Elétricos;18;14;4;0;0.7778;0.2222
+FCTE0086;Veículos Elétricos;32;25;4;3;0.7812;0.125
+FCTE0086;Veículos Elétricos;74;57;16;1;0.7703;0.2162
+FCTE0086;Veículos Elétricos;57;52;5;0;0.9123;0.0877
+FCTE0086;Veículos Elétricos;39;30;8;1;0.7692;0.2051
+FCTE0086;Veículos Elétricos;35;26;9;0;0.7429;0.2571
+FCTE0086;Veículos Elétricos;73;66;6;1;0.9041;0.0822
+FCTE0086;Veículos Elétricos;82;68;13;1;0.8293;0.1585
+FCTE0086;Veículos Elétricos;22;19;3;0;0.8636;0.1364
+FCTE0086;Veículos Elétricos;37;30;5;2;0.8108;0.1351
+FCTE0086;Veículos Elétricos;72;57;14;1;0.7917;0.1944
+FCTE0086;Veículos Elétricos;71;53;17;1;0.7465;0.2394
+FCTE0086;Veículos Elétricos;31;25;5;1;0.8065;0.1613
+FCTE0086;Veículos Elétricos;42;30;10;2;0.7143;0.2381
+FCTE0086;Veículos Elétricos;66;58;4;4;0.8788;0.0606
+FCTE0086;Veículos Elétricos;70;50;17;3;0.7143;0.2429
+FCTE0086;Veículos Elétricos;74;58;11;5;0.7838;0.1486
+FCTE0086;Veículos Elétricos;81;68;11;2;0.8395;0.1358
+FCTE0086;Veículos Elétricos;51;36;11;4;0.7059;0.2157
+FCTE0086;Veículos Elétricos;39;30;8;1;0.7692;0.2051
+FCTE0086;Veículos Elétricos;67;52;10;5;0.7761;0.1493
+FCTE0087;Controle de Sistemas Automotivos;79;49;24;6;0.6203;0.3038
+FCTE0087;Controle de Sistemas Automotivos;62;46;11;5;0.7419;0.1774
+FCTE0087;Controle de Sistemas Automotivos;22;16;6;0;0.7273;0.2727
+FCTE0087;Controle de Sistemas Automotivos;58;45;12;1;0.7759;0.2069
+FCTE0087;Controle de Sistemas Automotivos;54;44;9;1;0.8148;0.1667
+FCTE0087;Controle de Sistemas Automotivos;80;58;15;7;0.725;0.1875
+FCTE0087;Controle de Sistemas Automotivos;64;49;12;3;0.7656;0.1875
+FCTE0087;Controle de Sistemas Automotivos;46;38;7;1;0.8261;0.1522
+FCTE0087;Controle de Sistemas Automotivos;81;67;12;2;0.8272;0.1481
+FCTE0087;Controle de Sistemas Automotivos;34;26;6;2;0.7647;0.1765
+FCTE0087;Controle de Sistemas Automotivos;53;41;10;2;0.7736;0.1887
+FCTE0087;Controle de Sistemas Automotivos;42;29;12;1;0.6905;0.2857
+FCTE0087;Controle de Sistemas Automotivos;20;14;5;1;0.7;0.25
+FCTE0087;Controle de Sistemas Automotivos;39;25;13;1;0.641;0.3333
+FCTE0087;Controle de Sistemas Automotivos;26;21;4;1;0.8077;0.1538
+FCTE0087;Controle de Sistemas Automotivos;69;50;16;3;0.7246;0.2319
+FCTE0087;Controle de Sistemas Automotivos;20;18;1;1;0.9;0.05
+FCTE0087;Controle de Sistemas Automotivos;76;54;19;3;0.7105;0.25
+FCTE0087;Controle de Sistemas Automotivos;73;53;16;4;0.726;0.2192
+FCTE0087;Controle de Sistemas Automotivos;43;33;7;3;0.7674;0.1628
+FCTE0087;Controle de Sistemas Automotivos;78;55;22;1;0.7051;0.2821
+FCTE0087;Controle de Sistemas Automotivos;42;30;6;6;0.7143;0.1429
+FCTE0087;Controle de Sistemas Automotivos;65;55;9;1;0.8462;0.1385
+FCTE0087;Controle de Sistemas Automotivos;49;35;10;4;0.7143;0.2041
+FCTE0088;Manufatura Automotiva;76;56;16;4;0.7368;0.2105
+FCTE0088;Manufatura Automotiva;40;26;14;0;0.65;0.35
+FCTE0088;Manufatura Automotiva;49;36;12;1;0.7347;0.2449
+FCTE0088;Manufatura Automotiva;61;41;16;4;0.6721;0.2623
+FCTE0088;Manufatura Automotiva;73;50;17;6;0.6849;0.2329
+FCTE0088;Manufatura Automotiva;75;43;24;8;0.5733;0.32
+FCTE0088;Manufatura Automotiva;64;41;20;3;0.6406;0.3125
+FCTE0088;Manufatura Automotiva;45;33;11;1;0.7333;0.2444
+FCTE0088;Manufatura Automotiva;64;51;12;1;0.7969;0.1875
+FCTE0088;Manufatura Automotiva;54;35;13;6;0.6481;0.2407
+FCTE0088;Manufatura Automotiva;67;56;9;2;0.8358;0.1343
+FCTE0088;Manufatura Automotiva;80;67;11;2;0.8375;0.1375
+FCTE0088;Manufatura Automotiva;45;33;12;0;0.7333;0.2667
+FCTE0088;Manufatura Automotiva;59;44;9;6;0.7458;0.1525
+FCTE0088;Manufatura Automotiva;52;36;13;3;0.6923;0.25
+FCTE0088;Manufatura Automotiva;34;24;7;3;0.7059;0.2059
+FCTE0088;Manufatura Automotiva;50;32;14;4;0.64;0.28
+FCTE0088;Manufatura Automotiva;18;10;5;3;0.5556;0.2778
+FCTE0088;Manufatura Automotiva;53;39;13;1;0.7358;0.2453
+FCTE0088;Manufatura Automotiva;74;57;12;5;0.7703;0.1622
+FCTE0088;Manufatura Automotiva;23;13;9;1;0.5652;0.3913
+FCTE0088;Manufatura Automotiva;54;45;5;4;0.8333;0.0926
+FCTE0088;Manufatura Automotiva;66;45;16;5;0.6818;0.2424
+FCTE0088;Manufatura Automotiva;73;47;19;7;0.6438;0.2603
+FCTE0089;Termodinâmica Automotiva;76;51;21;4;0.6711;0.2763
+FCTE0089;Termodinâmica Automotiva;70;52;14;4;0.7429;0.2
+FCTE0089;Termodinâmica Automotiva;81;50;21;10;0.6173;0.2593
+FCTE0089;Termodinâmica Automotiva;45;32;11;2;0.7111;0.2444
+FCTE0089;Termodinâmica Automotiva;47;29;12;6;0.617;0.2553
+FCTE0089;Termodinâmica Automotiva;63;39;18;6;0.619;0.2857
+FCTE0089;Termodinâmica Automotiva;46;33;11;2;0.7174;0.2391
+FCTE0089;Termodinâmica Automotiva;68;43;20;5;0.6324;0.2941
+FCTE0089;Termodinâmica Automotiva;78;54;16;8;0.6923;0.2051
+FCTE0089;Termodinâmica Automotiva;58;36;16;6;0.6207;0.2759
+FCTE0089;Termodinâmica Automotiva;18;15;1;2;0.8333;0.0556
+FCTE0089;Termodinâmica Automotiva;52;33;15;4;0.6346;0.2885
+FCTE0089;Termodinâmica Automotiva;56;28;23;5;0.5;0.4107
+FCTE0089;Termodinâmica Automotiva;36;19;15;2;0.5278;0.4167
+FCTE0089;Termodinâmica Automotiva;19;13;6;0;0.6842;0.3158
+FCTE0089;Termodinâmica Automotiva;59;41;13;5;0.6949;0.2203
+FCTE0089;Termodinâmica Automotiva;76;51;20;5;0.6711;0.2632
+FCTE0089;Termodinâmica Automotiva;28;21;6;1;0.75;0.2143
+FCTE0089;Termodinâmica Automotiva;69;48;16;5;0.6957;0.2319
+FCTE0089;Termodinâmica Automotiva;41;27;10;4;0.6585;0.2439
+FCTE0089;Termodinâmica Automotiva;46;27;14;5;0.587;0.3043
+FCTE0089;Termodinâmica Automotiva;25;17;6;2;0.68;0.24
+FCTE0089;Termodinâmica Automotiva;53;34;12;7;0.6415;0.2264
+FCTE0089;Termodinâmica Automotiva;62;38;20;4;0.6129;0.3226
+FCTE0090;Tribologia e Lubrificação;19;9;9;1;0.4737;0.4737
+FCTE0090;Tribologia e Lubrificação;26;17;8;1;0.6538;0.3077
+FCTE0090;Tribologia e Lubrificação;62;37;23;2;0.5968;0.371
+FCTE0090;Tribologia e Lubrificação;28;18;7;3;0.6429;0.25
+FCTE0090;Tribologia e Lubrificação;18;9;9;0;0.5;0.5
+FCTE0090;Tribologia e Lubrificação;42;27;14;1;0.6429;0.3333
+FCTE0090;Tribologia e Lubrificação;59;34;24;1;0.5763;0.4068
+FCTE0090;Tribologia e Lubrificação;28;16;10;2;0.5714;0.3571
+FCTE0090;Tribologia e Lubrificação;52;41;11;0;0.7885;0.2115
+FCTE0090;Tribologia e Lubrificação;72;54;15;3;0.75;0.2083
+FCTE0090;Tribologia e Lubrificação;40;22;18;0;0.55;0.45
+FCTE0090;Tribologia e Lubrificação;82;57;24;1;0.6951;0.2927
+FCTE0090;Tribologia e Lubrificação;57;40;15;2;0.7018;0.2632
+FCTE0090;Tribologia e Lubrificação;62;44;16;2;0.7097;0.2581
+FCTE0090;Tribologia e Lubrificação;67;37;28;2;0.5522;0.4179
+FCTE0090;Tribologia e Lubrificação;53;38;13;2;0.717;0.2453
+FCTE0090;Tribologia e Lubrificação;29;16;10;3;0.5517;0.3448
+FCTE0090;Tribologia e Lubrificação;72;56;14;2;0.7778;0.1944
+FCTE0090;Tribologia e Lubrificação;47;32;14;1;0.6809;0.2979
+FCTE0090;Tribologia e Lubrificação;18;11;7;0;0.6111;0.3889
+FCTE0090;Tribologia e Lubrificação;31;17;13;1;0.5484;0.4194
+FCTE0090;Tribologia e Lubrificação;69;32;36;1;0.4638;0.5217
+FCTE0090;Tribologia e Lubrificação;65;40;25;0;0.6154;0.3846
+FCTE0090;Tribologia e Lubrificação;45;37;8;0;0.8222;0.1778
+FCTE0091;Segurança Veicular;19;16;3;0;0.8421;0.1579
+FCTE0091;Segurança Veicular;32;28;3;1;0.875;0.0938
+FCTE0091;Segurança Veicular;53;43;8;2;0.8113;0.1509
+FCTE0091;Segurança Veicular;37;27;7;3;0.7297;0.1892
+FCTE0091;Segurança Veicular;69;61;7;1;0.8841;0.1014
+FCTE0091;Segurança Veicular;26;22;4;0;0.8462;0.1538
+FCTE0091;Segurança Veicular;46;38;8;0;0.8261;0.1739
+FCTE0091;Segurança Veicular;61;50;10;1;0.8197;0.1639
+FCTE0091;Segurança Veicular;40;34;6;0;0.85;0.15
+FCTE0091;Segurança Veicular;56;42;10;4;0.75;0.1786
+FCTE0091;Segurança Veicular;33;27;3;3;0.8182;0.0909
+FCTE0091;Segurança Veicular;56;44;10;2;0.7857;0.1786
+FCTE0091;Segurança Veicular;77;67;9;1;0.8701;0.1169
+FCTE0091;Segurança Veicular;46;40;4;2;0.8696;0.087
+FCTE0091;Segurança Veicular;77;69;7;1;0.8961;0.0909
+FCTE0091;Segurança Veicular;73;62;11;0;0.8493;0.1507
+FCTE0091;Segurança Veicular;46;42;1;3;0.913;0.0217
+FCTE0091;Segurança Veicular;27;19;8;0;0.7037;0.2963
+FCTE0091;Segurança Veicular;76;58;18;0;0.7632;0.2368
+FCTE0091;Segurança Veicular;30;26;3;1;0.8667;0.1
+FCTE0091;Segurança Veicular;79;74;4;1;0.9367;0.0506
+FCTE0091;Segurança Veicular;51;48;2;1;0.9412;0.0392
+FCTE0091;Segurança Veicular;73;65;7;1;0.8904;0.0959
+FCTE0091;Segurança Veicular;48;38;9;1;0.7917;0.1875
+FCTE0092;Diagnóstico Automotivo;23;18;3;2;0.7826;0.1304
+FCTE0092;Diagnóstico Automotivo;48;43;3;2;0.8958;0.0625
+FCTE0092;Diagnóstico Automotivo;32;24;7;1;0.75;0.2188
+FCTE0092;Diagnóstico Automotivo;74;58;14;2;0.7838;0.1892
+FCTE0092;Diagnóstico Automotivo;51;40;10;1;0.7843;0.1961
+FCTE0092;Diagnóstico Automotivo;63;55;5;3;0.873;0.0794
+FCTE0092;Diagnóstico Automotivo;72;59;9;4;0.8194;0.125
+FCTE0092;Diagnóstico Automotivo;33;26;5;2;0.7879;0.1515
+FCTE0092;Diagnóstico Automotivo;46;39;5;2;0.8478;0.1087
+FCTE0092;Diagnóstico Automotivo;51;41;5;5;0.8039;0.098
+FCTE0092;Diagnóstico Automotivo;56;45;8;3;0.8036;0.1429
+FCTE0092;Diagnóstico Automotivo;58;48;6;4;0.8276;0.1034
+FCTE0092;Diagnóstico Automotivo;48;43;3;2;0.8958;0.0625
+FCTE0092;Diagnóstico Automotivo;78;63;10;5;0.8077;0.1282
+FCTE0092;Diagnóstico Automotivo;58;50;6;2;0.8621;0.1034
+FCTE0092;Diagnóstico Automotivo;62;51;9;2;0.8226;0.1452
+FCTE0092;Diagnóstico Automotivo;58;48;7;3;0.8276;0.1207
+FCTE0092;Diagnóstico Automotivo;68;50;11;7;0.7353;0.1618
+FCTE0092;Diagnóstico Automotivo;51;42;9;0;0.8235;0.1765
+FCTE0092;Diagnóstico Automotivo;44;39;3;2;0.8864;0.0682
+FCTE0092;Diagnóstico Automotivo;56;43;8;5;0.7679;0.1429
+FCTE0092;Diagnóstico Automotivo;51;48;2;1;0.9412;0.0392
+FCTE0092;Diagnóstico Automotivo;32;26;5;1;0.8125;0.1562
+FCTE0092;Diagnóstico Automotivo;55;43;12;0;0.7818;0.2182
+FCTE0093;Sistemas Autônomos Veiculares;67;52;13;2;0.7761;0.194
+FCTE0093;Sistemas Autônomos Veiculares;38;29;4;5;0.7632;0.1053
+FCTE0093;Sistemas Autônomos Veiculares;45;36;6;3;0.8;0.1333
+FCTE0093;Sistemas Autônomos Veiculares;63;39;20;4;0.619;0.3175
+FCTE0093;Sistemas Autônomos Veiculares;66;44;16;6;0.6667;0.2424
+FCTE0093;Sistemas Autônomos Veiculares;63;44;15;4;0.6984;0.2381
+FCTE0093;Sistemas Autônomos Veiculares;30;20;10;0;0.6667;0.3333
+FCTE0093;Sistemas Autônomos Veiculares;36;30;3;3;0.8333;0.0833
+FCTE0093;Sistemas Autônomos Veiculares;37;24;11;2;0.6486;0.2973
+FCTE0093;Sistemas Autônomos Veiculares;71;59;10;2;0.831;0.1408
+FCTE0093;Sistemas Autônomos Veiculares;24;18;4;2;0.75;0.1667
+FCTE0093;Sistemas Autônomos Veiculares;39;33;4;2;0.8462;0.1026
+FCTE0093;Sistemas Autônomos Veiculares;81;64;14;3;0.7901;0.1728
+FCTE0093;Sistemas Autônomos Veiculares;52;40;7;5;0.7692;0.1346
+FCTE0093;Sistemas Autônomos Veiculares;63;53;7;3;0.8413;0.1111
+FCTE0093;Sistemas Autônomos Veiculares;35;29;3;3;0.8286;0.0857
+FCTE0093;Sistemas Autônomos Veiculares;42;33;7;2;0.7857;0.1667
+FCTE0093;Sistemas Autônomos Veiculares;44;26;11;7;0.5909;0.25
+FCTE0093;Sistemas Autônomos Veiculares;34;30;3;1;0.8824;0.0882
+FCTE0093;Sistemas Autônomos Veiculares;53;42;7;4;0.7925;0.1321
+FCTE0093;Sistemas Autônomos Veiculares;32;27;4;1;0.8438;0.125
+FCTE0093;Sistemas Autônomos Veiculares;60;56;1;3;0.9333;0.0167
+FCTE0093;Sistemas Autônomos Veiculares;56;45;10;1;0.8036;0.1786
+FCTE0093;Sistemas Autônomos Veiculares;18;13;5;0;0.7222;0.2778
+FCTE0094;Emissões Veiculares;25;18;4;3;0.72;0.16
+FCTE0094;Emissões Veiculares;63;48;8;7;0.7619;0.127
+FCTE0094;Emissões Veiculares;69;42;23;4;0.6087;0.3333
+FCTE0094;Emissões Veiculares;60;36;15;9;0.6;0.25
+FCTE0094;Emissões Veiculares;65;50;12;3;0.7692;0.1846
+FCTE0094;Emissões Veiculares;49;34;12;3;0.6939;0.2449
+FCTE0094;Emissões Veiculares;55;39;13;3;0.7091;0.2364
+FCTE0094;Emissões Veiculares;64;46;13;5;0.7188;0.2031
+FCTE0094;Emissões Veiculares;21;16;3;2;0.7619;0.1429
+FCTE0094;Emissões Veiculares;46;39;3;4;0.8478;0.0652
+FCTE0094;Emissões Veiculares;44;33;7;4;0.75;0.1591
+FCTE0094;Emissões Veiculares;31;24;3;4;0.7742;0.0968
+FCTE0094;Emissões Veiculares;77;58;17;2;0.7532;0.2208
+FCTE0094;Emissões Veiculares;61;47;9;5;0.7705;0.1475
+FCTE0094;Emissões Veiculares;34;22;8;4;0.6471;0.2353
+FCTE0094;Emissões Veiculares;77;52;16;9;0.6753;0.2078
+FCTE0094;Emissões Veiculares;57;37;17;3;0.6491;0.2982
+FCTE0094;Emissões Veiculares;21;16;5;0;0.7619;0.2381
+FCTE0094;Emissões Veiculares;46;28;18;0;0.6087;0.3913
+FCTE0094;Emissões Veiculares;41;26;12;3;0.6341;0.2927
+FCTE0094;Emissões Veiculares;51;40;4;7;0.7843;0.0784
+FCTE0094;Emissões Veiculares;44;28;11;5;0.6364;0.25
+FCTE0094;Emissões Veiculares;79;54;19;6;0.6835;0.2405
+FCTE0094;Emissões Veiculares;59;45;12;2;0.7627;0.2034
+FCTE0095;Projeto Integrado de Veículos;62;44;15;3;0.7097;0.2419
+FCTE0095;Projeto Integrado de Veículos;36;34;2;0;0.9444;0.0556
+FCTE0095;Projeto Integrado de Veículos;70;51;17;2;0.7286;0.2429
+FCTE0095;Projeto Integrado de Veículos;48;32;15;1;0.6667;0.3125
+FCTE0095;Projeto Integrado de Veículos;39;27;10;2;0.6923;0.2564
+FCTE0095;Projeto Integrado de Veículos;72;47;23;2;0.6528;0.3194
+FCTE0095;Projeto Integrado de Veículos;60;42;15;3;0.7;0.25
+FCTE0095;Projeto Integrado de Veículos;76;53;21;2;0.6974;0.2763
+FCTE0095;Projeto Integrado de Veículos;48;33;15;0;0.6875;0.3125
+FCTE0095;Projeto Integrado de Veículos;59;46;10;3;0.7797;0.1695
+FCTE0095;Projeto Integrado de Veículos;59;45;14;0;0.7627;0.2373
+FCTE0095;Projeto Integrado de Veículos;30;26;4;0;0.8667;0.1333
+FCTE0095;Projeto Integrado de Veículos;73;60;13;0;0.8219;0.1781
+FCTE0095;Projeto Integrado de Veículos;48;40;6;2;0.8333;0.125
+FCTE0095;Projeto Integrado de Veículos;24;17;7;0;0.7083;0.2917
+FCTE0095;Projeto Integrado de Veículos;78;55;19;4;0.7051;0.2436
+FCTE0095;Projeto Integrado de Veículos;81;72;9;0;0.8889;0.1111
+FCTE0095;Projeto Integrado de Veículos;68;49;19;0;0.7206;0.2794
+FCTE0095;Projeto Integrado de Veículos;32;18;12;2;0.5625;0.375
+FCTE0095;Projeto Integrado de Veículos;25;19;6;0;0.76;0.24
+FCTE0095;Projeto Integrado de Veículos;71;61;10;0;0.8592;0.1408
+FCTE0095;Projeto Integrado de Veículos;60;44;14;2;0.7333;0.2333
+FCTE0095;Projeto Integrado de Veículos;55;43;10;2;0.7818;0.1818
+FCTE0095;Projeto Integrado de Veículos;23;17;6;0;0.7391;0.2609
+FCTE0096;Termodinâmica Aplicada;56;38;18;0;0.6786;0.3214
+FCTE0096;Termodinâmica Aplicada;56;38;18;0;0.6786;0.3214
+FCTE0096;Termodinâmica Aplicada;79;58;20;1;0.7342;0.2532
+FCTE0096;Termodinâmica Aplicada;33;18;15;0;0.5455;0.4545
+FCTE0096;Termodinâmica Aplicada;28;18;9;1;0.6429;0.3214
+FCTE0096;Termodinâmica Aplicada;66;50;15;1;0.7576;0.2273
+FCTE0096;Termodinâmica Aplicada;50;34;14;2;0.68;0.28
+FCTE0096;Termodinâmica Aplicada;70;45;23;2;0.6429;0.3286
+FCTE0096;Termodinâmica Aplicada;63;41;17;5;0.6508;0.2698
+FCTE0096;Termodinâmica Aplicada;41;28;10;3;0.6829;0.2439
+FCTE0096;Termodinâmica Aplicada;18;13;4;1;0.7222;0.2222
+FCTE0096;Termodinâmica Aplicada;24;16;7;1;0.6667;0.2917
+FCTE0096;Termodinâmica Aplicada;25;19;6;0;0.76;0.24
+FCTE0096;Termodinâmica Aplicada;24;13;9;2;0.5417;0.375
+FCTE0096;Termodinâmica Aplicada;18;11;7;0;0.6111;0.3889
+FCTE0096;Termodinâmica Aplicada;28;17;10;1;0.6071;0.3571
+FCTE0096;Termodinâmica Aplicada;23;14;9;0;0.6087;0.3913
+FCTE0096;Termodinâmica Aplicada;36;16;17;3;0.4444;0.4722
+FCTE0096;Termodinâmica Aplicada;44;25;16;3;0.5682;0.3636
+FCTE0096;Termodinâmica Aplicada;25;18;6;1;0.72;0.24
+FCTE0096;Termodinâmica Aplicada;26;22;4;0;0.8462;0.1538
+FCTE0096;Termodinâmica Aplicada;38;28;9;1;0.7368;0.2368
+FCTE0096;Termodinâmica Aplicada;39;28;10;1;0.7179;0.2564
+FCTE0096;Termodinâmica Aplicada;37;25;11;1;0.6757;0.2973
+FCTE0097;Transferência de Calor;40;26;12;2;0.65;0.3
+FCTE0097;Transferência de Calor;27;18;6;3;0.6667;0.2222
+FCTE0097;Transferência de Calor;36;29;5;2;0.8056;0.1389
+FCTE0097;Transferência de Calor;37;21;10;6;0.5676;0.2703
+FCTE0097;Transferência de Calor;37;23;14;0;0.6216;0.3784
+FCTE0097;Transferência de Calor;64;37;26;1;0.5781;0.4062
+FCTE0097;Transferência de Calor;32;17;14;1;0.5312;0.4375
+FCTE0097;Transferência de Calor;18;13;5;0;0.7222;0.2778
+FCTE0097;Transferência de Calor;54;34;17;3;0.6296;0.3148
+FCTE0097;Transferência de Calor;78;56;19;3;0.7179;0.2436
+FCTE0097;Transferência de Calor;82;58;19;5;0.7073;0.2317
+FCTE0097;Transferência de Calor;58;40;13;5;0.6897;0.2241
+FCTE0097;Transferência de Calor;25;18;7;0;0.72;0.28
+FCTE0097;Transferência de Calor;32;24;6;2;0.75;0.1875
+FCTE0097;Transferência de Calor;59;32;27;0;0.5424;0.4576
+FCTE0097;Transferência de Calor;44;24;17;3;0.5455;0.3864
+FCTE0097;Transferência de Calor;58;32;23;3;0.5517;0.3966
+FCTE0097;Transferência de Calor;56;33;19;4;0.5893;0.3393
+FCTE0097;Transferência de Calor;68;44;21;3;0.6471;0.3088
+FCTE0097;Transferência de Calor;45;28;15;2;0.6222;0.3333
+FCTE0097;Transferência de Calor;46;28;16;2;0.6087;0.3478
+FCTE0097;Transferência de Calor;79;38;38;3;0.481;0.481
+FCTE0097;Transferência de Calor;76;47;23;6;0.6184;0.3026
+FCTE0097;Transferência de Calor;50;29;19;2;0.58;0.38
+FCTE0098;Mecânica dos Fluidos;62;55;3;4;0.8871;0.0484
+FCTE0098;Mecânica dos Fluidos;51;44;2;5;0.8627;0.0392
+FCTE0098;Mecânica dos Fluidos;33;25;6;2;0.7576;0.1818
+FCTE0098;Mecânica dos Fluidos;59;53;4;2;0.8983;0.0678
+FCTE0098;Mecânica dos Fluidos;39;34;3;2;0.8718;0.0769
+FCTE0098;Mecânica dos Fluidos;26;24;1;1;0.9231;0.0385
+FCTE0098;Mecânica dos Fluidos;57;50;2;5;0.8772;0.0351
+FCTE0098;Mecânica dos Fluidos;58;46;7;5;0.7931;0.1207
+FCTE0098;Mecânica dos Fluidos;24;20;4;0;0.8333;0.1667
+FCTE0098;Mecânica dos Fluidos;37;32;1;4;0.8649;0.027
+FCTE0098;Mecânica dos Fluidos;47;39;4;4;0.8298;0.0851
+FCTE0098;Mecânica dos Fluidos;21;16;3;2;0.7619;0.1429
+FCTE0098;Mecânica dos Fluidos;76;70;3;3;0.9211;0.0395
+FCTE0098;Mecânica dos Fluidos;30;24;6;0;0.8;0.2
+FCTE0098;Mecânica dos Fluidos;24;17;7;0;0.7083;0.2917
+FCTE0098;Mecânica dos Fluidos;61;53;7;1;0.8689;0.1148
+FCTE0098;Mecânica dos Fluidos;38;33;4;1;0.8684;0.1053
+FCTE0098;Mecânica dos Fluidos;65;53;5;7;0.8154;0.0769
+FCTE0098;Mecânica dos Fluidos;34;32;0;2;0.9412;0.0
+FCTE0098;Mecânica dos Fluidos;18;16;1;1;0.8889;0.0556
+FCTE0098;Mecânica dos Fluidos;50;42;5;3;0.84;0.1
+FCTE0098;Mecânica dos Fluidos;52;43;5;4;0.8269;0.0962
+FCTE0098;Mecânica dos Fluidos;33;29;3;1;0.8788;0.0909
+FCTE0098;Mecânica dos Fluidos;22;19;2;1;0.8636;0.0909
+FCTE0099;Máquinas Térmicas;43;35;5;3;0.814;0.1163
+FCTE0099;Máquinas Térmicas;63;52;6;5;0.8254;0.0952
+FCTE0099;Máquinas Térmicas;29;26;2;1;0.8966;0.069
+FCTE0099;Máquinas Térmicas;66;54;5;7;0.8182;0.0758
+FCTE0099;Máquinas Térmicas;73;62;10;1;0.8493;0.137
+FCTE0099;Máquinas Térmicas;47;36;6;5;0.766;0.1277
+FCTE0099;Máquinas Térmicas;80;61;11;8;0.7625;0.1375
+FCTE0099;Máquinas Térmicas;20;16;3;1;0.8;0.15
+FCTE0099;Máquinas Térmicas;76;53;16;7;0.6974;0.2105
+FCTE0099;Máquinas Térmicas;48;36;8;4;0.75;0.1667
+FCTE0099;Máquinas Térmicas;73;50;18;5;0.6849;0.2466
+FCTE0099;Máquinas Térmicas;43;32;11;0;0.7442;0.2558
+FCTE0099;Máquinas Térmicas;55;43;7;5;0.7818;0.1273
+FCTE0099;Máquinas Térmicas;48;39;4;5;0.8125;0.0833
+FCTE0099;Máquinas Térmicas;19;15;3;1;0.7895;0.1579
+FCTE0099;Máquinas Térmicas;19;8;9;2;0.4211;0.4737
+FCTE0099;Máquinas Térmicas;34;24;8;2;0.7059;0.2353
+FCTE0099;Máquinas Térmicas;27;22;4;1;0.8148;0.1481
+FCTE0099;Máquinas Térmicas;66;61;2;3;0.9242;0.0303
+FCTE0099;Máquinas Térmicas;37;31;3;3;0.8378;0.0811
+FCTE0099;Máquinas Térmicas;64;50;9;5;0.7812;0.1406
+FCTE0099;Máquinas Térmicas;59;36;14;9;0.6102;0.2373
+FCTE0099;Máquinas Térmicas;21;15;4;2;0.7143;0.1905
+FCTE0099;Máquinas Térmicas;49;37;8;4;0.7551;0.1633
+FCTE0100;Energia Solar;30;25;5;0;0.8333;0.1667
+FCTE0100;Energia Solar;47;34;11;2;0.7234;0.234
+FCTE0100;Energia Solar;32;26;6;0;0.8125;0.1875
+FCTE0100;Energia Solar;32;27;5;0;0.8438;0.1562
+FCTE0100;Energia Solar;62;47;12;3;0.7581;0.1935
+FCTE0100;Energia Solar;45;31;14;0;0.6889;0.3111
+FCTE0100;Energia Solar;25;20;2;3;0.8;0.08
+FCTE0100;Energia Solar;73;62;8;3;0.8493;0.1096
+FCTE0100;Energia Solar;43;26;15;2;0.6047;0.3488
+FCTE0100;Energia Solar;50;41;8;1;0.82;0.16
+FCTE0100;Energia Solar;56;45;6;5;0.8036;0.1071
+FCTE0100;Energia Solar;81;62;17;2;0.7654;0.2099
+FCTE0100;Energia Solar;62;48;13;1;0.7742;0.2097
+FCTE0100;Energia Solar;18;14;4;0;0.7778;0.2222
+FCTE0100;Energia Solar;46;36;9;1;0.7826;0.1957
+FCTE0100;Energia Solar;34;28;5;1;0.8235;0.1471
+FCTE0100;Energia Solar;52;44;5;3;0.8462;0.0962
+FCTE0100;Energia Solar;25;20;5;0;0.8;0.2
+FCTE0100;Energia Solar;18;16;1;1;0.8889;0.0556
+FCTE0100;Energia Solar;35;28;6;1;0.8;0.1714
+FCTE0100;Energia Solar;54;49;2;3;0.9074;0.037
+FCTE0100;Energia Solar;31;21;8;2;0.6774;0.2581
+FCTE0100;Energia Solar;66;58;6;2;0.8788;0.0909
+FCTE0100;Energia Solar;29;24;3;2;0.8276;0.1034
+FCTE0101;Energia Eólica;77;56;19;2;0.7273;0.2468
+FCTE0101;Energia Eólica;78;60;14;4;0.7692;0.1795
+FCTE0101;Energia Eólica;73;52;14;7;0.7123;0.1918
+FCTE0101;Energia Eólica;24;15;8;1;0.625;0.3333
+FCTE0101;Energia Eólica;78;51;24;3;0.6538;0.3077
+FCTE0101;Energia Eólica;80;67;9;4;0.8375;0.1125
+FCTE0101;Energia Eólica;34;23;11;0;0.6765;0.3235
+FCTE0101;Energia Eólica;42;34;4;4;0.8095;0.0952
+FCTE0101;Energia Eólica;26;17;5;4;0.6538;0.1923
+FCTE0101;Energia Eólica;33;18;15;0;0.5455;0.4545
+FCTE0101;Energia Eólica;71;54;11;6;0.7606;0.1549
+FCTE0101;Energia Eólica;44;31;13;0;0.7045;0.2955
+FCTE0101;Energia Eólica;52;41;9;2;0.7885;0.1731
+FCTE0101;Energia Eólica;20;14;4;2;0.7;0.2
+FCTE0101;Energia Eólica;78;62;11;5;0.7949;0.141
+FCTE0101;Energia Eólica;48;36;10;2;0.75;0.2083
+FCTE0101;Energia Eólica;42;33;8;1;0.7857;0.1905
+FCTE0101;Energia Eólica;73;66;6;1;0.9041;0.0822
+FCTE0101;Energia Eólica;81;62;17;2;0.7654;0.2099
+FCTE0101;Energia Eólica;40;33;5;2;0.825;0.125
+FCTE0101;Energia Eólica;57;41;13;3;0.7193;0.2281
+FCTE0101;Energia Eólica;57;43;13;1;0.7544;0.2281
+FCTE0101;Energia Eólica;54;39;7;8;0.7222;0.1296
+FCTE0101;Energia Eólica;33;17;16;0;0.5152;0.4848
+FCTE0102;Biocombustíveis;71;51;17;3;0.7183;0.2394
+FCTE0102;Biocombustíveis;79;58;19;2;0.7342;0.2405
+FCTE0102;Biocombustíveis;23;14;8;1;0.6087;0.3478
+FCTE0102;Biocombustíveis;63;42;20;1;0.6667;0.3175
+FCTE0102;Biocombustíveis;76;55;19;2;0.7237;0.25
+FCTE0102;Biocombustíveis;81;56;20;5;0.6914;0.2469
+FCTE0102;Biocombustíveis;50;37;10;3;0.74;0.2
+FCTE0102;Biocombustíveis;21;8;11;2;0.381;0.5238
+FCTE0102;Biocombustíveis;43;27;15;1;0.6279;0.3488
+FCTE0102;Biocombustíveis;67;48;17;2;0.7164;0.2537
+FCTE0102;Biocombustíveis;36;21;14;1;0.5833;0.3889
+FCTE0102;Biocombustíveis;31;24;5;2;0.7742;0.1613
+FCTE0102;Biocombustíveis;71;48;19;4;0.6761;0.2676
+FCTE0102;Biocombustíveis;36;26;7;3;0.7222;0.1944
+FCTE0102;Biocombustíveis;36;33;3;0;0.9167;0.0833
+FCTE0102;Biocombustíveis;54;39;14;1;0.7222;0.2593
+FCTE0102;Biocombustíveis;61;39;18;4;0.6393;0.2951
+FCTE0102;Biocombustíveis;38;24;13;1;0.6316;0.3421
+FCTE0102;Biocombustíveis;40;30;9;1;0.75;0.225
+FCTE0102;Biocombustíveis;60;42;15;3;0.7;0.25
+FCTE0102;Biocombustíveis;35;26;8;1;0.7429;0.2286
+FCTE0102;Biocombustíveis;80;60;19;1;0.75;0.2375
+FCTE0102;Biocombustíveis;62;49;12;1;0.7903;0.1935
+FCTE0102;Biocombustíveis;69;52;17;0;0.7536;0.2464
+FCTE0103;Sistemas Elétricos de Potência;23;18;3;2;0.7826;0.1304
+FCTE0103;Sistemas Elétricos de Potência;52;27;21;4;0.5192;0.4038
+FCTE0103;Sistemas Elétricos de Potência;74;46;23;5;0.6216;0.3108
+FCTE0103;Sistemas Elétricos de Potência;28;23;5;0;0.8214;0.1786
+FCTE0103;Sistemas Elétricos de Potência;22;10;10;2;0.4545;0.4545
+FCTE0103;Sistemas Elétricos de Potência;18;10;7;1;0.5556;0.3889
+FCTE0103;Sistemas Elétricos de Potência;33;23;8;2;0.697;0.2424
+FCTE0103;Sistemas Elétricos de Potência;70;43;20;7;0.6143;0.2857
+FCTE0103;Sistemas Elétricos de Potência;27;13;14;0;0.4815;0.5185
+FCTE0103;Sistemas Elétricos de Potência;82;47;31;4;0.5732;0.378
+FCTE0103;Sistemas Elétricos de Potência;72;50;18;4;0.6944;0.25
+FCTE0103;Sistemas Elétricos de Potência;29;22;6;1;0.7586;0.2069
+FCTE0103;Sistemas Elétricos de Potência;55;33;20;2;0.6;0.3636
+FCTE0103;Sistemas Elétricos de Potência;80;43;33;4;0.5375;0.4125
+FCTE0103;Sistemas Elétricos de Potência;81;61;18;2;0.7531;0.2222
+FCTE0103;Sistemas Elétricos de Potência;45;30;12;3;0.6667;0.2667
+FCTE0103;Sistemas Elétricos de Potência;69;42;23;4;0.6087;0.3333
+FCTE0103;Sistemas Elétricos de Potência;26;15;10;1;0.5769;0.3846
+FCTE0103;Sistemas Elétricos de Potência;53;33;18;2;0.6226;0.3396
+FCTE0103;Sistemas Elétricos de Potência;21;14;7;0;0.6667;0.3333
+FCTE0103;Sistemas Elétricos de Potência;81;58;21;2;0.716;0.2593
+FCTE0103;Sistemas Elétricos de Potência;26;19;6;1;0.7308;0.2308
+FCTE0103;Sistemas Elétricos de Potência;76;49;24;3;0.6447;0.3158
+FCTE0103;Sistemas Elétricos de Potência;23;17;4;2;0.7391;0.1739
+FCTE0104;Conversão de Energia;55;34;16;5;0.6182;0.2909
+FCTE0104;Conversão de Energia;41;23;17;1;0.561;0.4146
+FCTE0104;Conversão de Energia;23;14;6;3;0.6087;0.2609
+FCTE0104;Conversão de Energia;67;46;14;7;0.6866;0.209
+FCTE0104;Conversão de Energia;56;41;15;0;0.7321;0.2679
+FCTE0104;Conversão de Energia;39;27;12;0;0.6923;0.3077
+FCTE0104;Conversão de Energia;65;28;33;4;0.4308;0.5077
+FCTE0104;Conversão de Energia;70;49;17;4;0.7;0.2429
+FCTE0104;Conversão de Energia;69;43;23;3;0.6232;0.3333
+FCTE0104;Conversão de Energia;28;16;10;2;0.5714;0.3571
+FCTE0104;Conversão de Energia;79;43;30;6;0.5443;0.3797
+FCTE0104;Conversão de Energia;46;24;19;3;0.5217;0.413
+FCTE0104;Conversão de Energia;43;24;18;1;0.5581;0.4186
+FCTE0104;Conversão de Energia;57;39;17;1;0.6842;0.2982
+FCTE0104;Conversão de Energia;41;27;14;0;0.6585;0.3415
+FCTE0104;Conversão de Energia;41;24;15;2;0.5854;0.3659
+FCTE0104;Conversão de Energia;19;15;4;0;0.7895;0.2105
+FCTE0104;Conversão de Energia;39;17;17;5;0.4359;0.4359
+FCTE0104;Conversão de Energia;61;34;20;7;0.5574;0.3279
+FCTE0104;Conversão de Energia;68;42;21;5;0.6176;0.3088
+FCTE0104;Conversão de Energia;23;15;8;0;0.6522;0.3478
+FCTE0104;Conversão de Energia;42;27;12;3;0.6429;0.2857
+FCTE0104;Conversão de Energia;24;20;2;2;0.8333;0.0833
+FCTE0104;Conversão de Energia;26;20;5;1;0.7692;0.1923
+FCTE0105;Eficiência Energética;70;64;1;5;0.9143;0.0143
+FCTE0105;Eficiência Energética;70;62;7;1;0.8857;0.1
+FCTE0105;Eficiência Energética;58;47;6;5;0.8103;0.1034
+FCTE0105;Eficiência Energética;25;24;1;0;0.96;0.04
+FCTE0105;Eficiência Energética;36;28;6;2;0.7778;0.1667
+FCTE0105;Eficiência Energética;72;60;11;1;0.8333;0.1528
+FCTE0105;Eficiência Energética;64;59;4;1;0.9219;0.0625
+FCTE0105;Eficiência Energética;68;56;5;7;0.8235;0.0735
+FCTE0105;Eficiência Energética;82;66;8;8;0.8049;0.0976
+FCTE0105;Eficiência Energética;71;69;1;1;0.9718;0.0141
+FCTE0105;Eficiência Energética;43;39;4;0;0.907;0.093
+FCTE0105;Eficiência Energética;62;52;6;4;0.8387;0.0968
+FCTE0105;Eficiência Energética;57;52;2;3;0.9123;0.0351
+FCTE0105;Eficiência Energética;81;64;17;0;0.7901;0.2099
+FCTE0105;Eficiência Energética;71;57;12;2;0.8028;0.169
+FCTE0105;Eficiência Energética;68;53;13;2;0.7794;0.1912
+FCTE0105;Eficiência Energética;67;58;9;0;0.8657;0.1343
+FCTE0105;Eficiência Energética;67;62;3;2;0.9254;0.0448
+FCTE0105;Eficiência Energética;56;41;9;6;0.7321;0.1607
+FCTE0105;Eficiência Energética;38;37;0;1;0.9737;0.0
+FCTE0105;Eficiência Energética;20;15;4;1;0.75;0.2
+FCTE0105;Eficiência Energética;79;58;18;3;0.7342;0.2278
+FCTE0105;Eficiência Energética;22;20;2;0;0.9091;0.0909
+FCTE0105;Eficiência Energética;24;20;4;0;0.8333;0.1667
+FCTE0106;Planejamento Energético;63;49;12;2;0.7778;0.1905
+FCTE0106;Planejamento Energético;31;28;3;0;0.9032;0.0968
+FCTE0106;Planejamento Energético;58;46;12;0;0.7931;0.2069
+FCTE0106;Planejamento Energético;31;24;6;1;0.7742;0.1935
+FCTE0106;Planejamento Energético;51;43;4;4;0.8431;0.0784
+FCTE0106;Planejamento Energético;51;41;8;2;0.8039;0.1569
+FCTE0106;Planejamento Energético;28;24;3;1;0.8571;0.1071
+FCTE0106;Planejamento Energético;71;65;5;1;0.9155;0.0704
+FCTE0106;Planejamento Energético;22;16;5;1;0.7273;0.2273
+FCTE0106;Planejamento Energético;26;19;6;1;0.7308;0.2308
+FCTE0106;Planejamento Energético;25;23;0;2;0.92;0.0
+FCTE0106;Planejamento Energético;21;19;1;1;0.9048;0.0476
+FCTE0106;Planejamento Energético;20;17;1;2;0.85;0.05
+FCTE0106;Planejamento Energético;57;46;11;0;0.807;0.193
+FCTE0106;Planejamento Energético;33;31;2;0;0.9394;0.0606
+FCTE0106;Planejamento Energético;35;31;3;1;0.8857;0.0857
+FCTE0106;Planejamento Energético;81;68;10;3;0.8395;0.1235
+FCTE0106;Planejamento Energético;71;57;13;1;0.8028;0.1831
+FCTE0106;Planejamento Energético;77;63;11;3;0.8182;0.1429
+FCTE0106;Planejamento Energético;37;28;7;2;0.7568;0.1892
+FCTE0106;Planejamento Energético;39;31;7;1;0.7949;0.1795
+FCTE0106;Planejamento Energético;63;52;7;4;0.8254;0.1111
+FCTE0106;Planejamento Energético;60;45;14;1;0.75;0.2333
+FCTE0106;Planejamento Energético;67;57;8;2;0.8507;0.1194
+FCTE0107;Economia da Energia;36;32;4;0;0.8889;0.1111
+FCTE0107;Economia da Energia;56;40;11;5;0.7143;0.1964
+FCTE0107;Economia da Energia;38;31;6;1;0.8158;0.1579
+FCTE0107;Economia da Energia;24;19;3;2;0.7917;0.125
+FCTE0107;Economia da Energia;47;40;5;2;0.8511;0.1064
+FCTE0107;Economia da Energia;26;19;5;2;0.7308;0.1923
+FCTE0107;Economia da Energia;48;36;9;3;0.75;0.1875
+FCTE0107;Economia da Energia;30;18;11;1;0.6;0.3667
+FCTE0107;Economia da Energia;67;51;15;1;0.7612;0.2239
+FCTE0107;Economia da Energia;53;39;10;4;0.7358;0.1887
+FCTE0107;Economia da Energia;64;49;13;2;0.7656;0.2031
+FCTE0107;Economia da Energia;47;36;7;4;0.766;0.1489
+FCTE0107;Economia da Energia;60;45;12;3;0.75;0.2
+FCTE0107;Economia da Energia;70;47;17;6;0.6714;0.2429
+FCTE0107;Economia da Energia;37;31;4;2;0.8378;0.1081
+FCTE0107;Economia da Energia;18;15;2;1;0.8333;0.1111
+FCTE0107;Economia da Energia;32;20;10;2;0.625;0.3125
+FCTE0107;Economia da Energia;37;26;11;0;0.7027;0.2973
+FCTE0107;Economia da Energia;68;48;18;2;0.7059;0.2647
+FCTE0107;Economia da Energia;35;25;9;1;0.7143;0.2571
+FCTE0107;Economia da Energia;19;14;3;2;0.7368;0.1579
+FCTE0107;Economia da Energia;24;19;4;1;0.7917;0.1667
+FCTE0107;Economia da Energia;49;40;8;1;0.8163;0.1633
+FCTE0107;Economia da Energia;42;35;6;1;0.8333;0.1429
+FCTE0108;Redes Elétricas Inteligentes;59;49;7;3;0.8305;0.1186
+FCTE0108;Redes Elétricas Inteligentes;56;42;10;4;0.75;0.1786
+FCTE0108;Redes Elétricas Inteligentes;43;27;10;6;0.6279;0.2326
+FCTE0108;Redes Elétricas Inteligentes;45;32;10;3;0.7111;0.2222
+FCTE0108;Redes Elétricas Inteligentes;38;22;13;3;0.5789;0.3421
+FCTE0108;Redes Elétricas Inteligentes;41;29;10;2;0.7073;0.2439
+FCTE0108;Redes Elétricas Inteligentes;52;39;7;6;0.75;0.1346
+FCTE0108;Redes Elétricas Inteligentes;78;53;23;2;0.6795;0.2949
+FCTE0108;Redes Elétricas Inteligentes;45;38;4;3;0.8444;0.0889
+FCTE0108;Redes Elétricas Inteligentes;75;47;26;2;0.6267;0.3467
+FCTE0108;Redes Elétricas Inteligentes;51;40;6;5;0.7843;0.1176
+FCTE0108;Redes Elétricas Inteligentes;67;50;12;5;0.7463;0.1791
+FCTE0108;Redes Elétricas Inteligentes;66;43;20;3;0.6515;0.303
+FCTE0108;Redes Elétricas Inteligentes;45;35;8;2;0.7778;0.1778
+FCTE0108;Redes Elétricas Inteligentes;41;31;6;4;0.7561;0.1463
+FCTE0108;Redes Elétricas Inteligentes;34;25;6;3;0.7353;0.1765
+FCTE0108;Redes Elétricas Inteligentes;23;19;4;0;0.8261;0.1739
+FCTE0108;Redes Elétricas Inteligentes;57;44;10;3;0.7719;0.1754
+FCTE0108;Redes Elétricas Inteligentes;44;32;10;2;0.7273;0.2273
+FCTE0108;Redes Elétricas Inteligentes;75;60;14;1;0.8;0.1867
+FCTE0108;Redes Elétricas Inteligentes;32;17;12;3;0.5312;0.375
+FCTE0108;Redes Elétricas Inteligentes;27;19;5;3;0.7037;0.1852
+FCTE0108;Redes Elétricas Inteligentes;54;42;9;3;0.7778;0.1667
+FCTE0108;Redes Elétricas Inteligentes;53;38;13;2;0.717;0.2453
+FCTE0109;Geração Distribuída;62;39;19;4;0.629;0.3065
+FCTE0109;Geração Distribuída;25;17;8;0;0.68;0.32
+FCTE0109;Geração Distribuída;23;15;4;4;0.6522;0.1739
+FCTE0109;Geração Distribuída;30;24;5;1;0.8;0.1667
+FCTE0109;Geração Distribuída;48;32;10;6;0.6667;0.2083
+FCTE0109;Geração Distribuída;61;38;17;6;0.623;0.2787
+FCTE0109;Geração Distribuída;20;14;5;1;0.7;0.25
+FCTE0109;Geração Distribuída;57;39;10;8;0.6842;0.1754
+FCTE0109;Geração Distribuída;74;55;9;10;0.7432;0.1216
+FCTE0109;Geração Distribuída;78;54;16;8;0.6923;0.2051
+FCTE0109;Geração Distribuída;74;56;8;10;0.7568;0.1081
+FCTE0109;Geração Distribuída;39;30;7;2;0.7692;0.1795
+FCTE0109;Geração Distribuída;26;19;3;4;0.7308;0.1154
+FCTE0109;Geração Distribuída;18;9;8;1;0.5;0.4444
+FCTE0109;Geração Distribuída;47;34;10;3;0.7234;0.2128
+FCTE0109;Geração Distribuída;69;55;7;7;0.7971;0.1014
+FCTE0109;Geração Distribuída;71;46;18;7;0.6479;0.2535
+FCTE0109;Geração Distribuída;26;16;9;1;0.6154;0.3462
+FCTE0109;Geração Distribuída;51;37;10;4;0.7255;0.1961
+FCTE0109;Geração Distribuída;65;42;18;5;0.6462;0.2769
+FCTE0109;Geração Distribuída;59;40;16;3;0.678;0.2712
+FCTE0109;Geração Distribuída;48;30;13;5;0.625;0.2708
+FCTE0109;Geração Distribuída;45;28;13;4;0.6222;0.2889
+FCTE0109;Geração Distribuída;72;53;18;1;0.7361;0.25
+FCTE0110;Armazenamento de Energia;18;12;6;0;0.6667;0.3333
+FCTE0110;Armazenamento de Energia;28;19;7;2;0.6786;0.25
+FCTE0110;Armazenamento de Energia;78;56;22;0;0.7179;0.2821
+FCTE0110;Armazenamento de Energia;33;21;12;0;0.6364;0.3636
+FCTE0110;Armazenamento de Energia;18;14;4;0;0.7778;0.2222
+FCTE0110;Armazenamento de Energia;46;33;12;1;0.7174;0.2609
+FCTE0110;Armazenamento de Energia;24;21;3;0;0.875;0.125
+FCTE0110;Armazenamento de Energia;62;45;16;1;0.7258;0.2581
+FCTE0110;Armazenamento de Energia;25;21;3;1;0.84;0.12
+FCTE0110;Armazenamento de Energia;71;46;23;2;0.6479;0.3239
+FCTE0110;Armazenamento de Energia;19;11;6;2;0.5789;0.3158
+FCTE0110;Armazenamento de Energia;74;60;10;4;0.8108;0.1351
+FCTE0110;Armazenamento de Energia;39;24;14;1;0.6154;0.359
+FCTE0110;Armazenamento de Energia;39;27;12;0;0.6923;0.3077
+FCTE0110;Armazenamento de Energia;48;36;12;0;0.75;0.25
+FCTE0110;Armazenamento de Energia;55;31;23;1;0.5636;0.4182
+FCTE0110;Armazenamento de Energia;82;56;26;0;0.6829;0.3171
+FCTE0110;Armazenamento de Energia;53;32;20;1;0.6038;0.3774
+FCTE0110;Armazenamento de Energia;74;55;16;3;0.7432;0.2162
+FCTE0110;Armazenamento de Energia;75;49;23;3;0.6533;0.3067
+FCTE0110;Armazenamento de Energia;48;33;14;1;0.6875;0.2917
+FCTE0110;Armazenamento de Energia;20;13;7;0;0.65;0.35
+FCTE0110;Armazenamento de Energia;63;47;15;1;0.746;0.2381
+FCTE0110;Armazenamento de Energia;26;19;7;0;0.7308;0.2692
+FCTE0111;Energia Hidráulica;37;29;6;2;0.7838;0.1622
+FCTE0111;Energia Hidráulica;65;46;19;0;0.7077;0.2923
+FCTE0111;Energia Hidráulica;37;14;20;3;0.3784;0.5405
+FCTE0111;Energia Hidráulica;66;48;17;1;0.7273;0.2576
+FCTE0111;Energia Hidráulica;51;35;16;0;0.6863;0.3137
+FCTE0111;Energia Hidráulica;25;13;10;2;0.52;0.4
+FCTE0111;Energia Hidráulica;32;17;15;0;0.5312;0.4688
+FCTE0111;Energia Hidráulica;72;47;21;4;0.6528;0.2917
+FCTE0111;Energia Hidráulica;31;24;7;0;0.7742;0.2258
+FCTE0111;Energia Hidráulica;25;14;7;4;0.56;0.28
+FCTE0111;Energia Hidráulica;40;28;11;1;0.7;0.275
+FCTE0111;Energia Hidráulica;52;34;18;0;0.6538;0.3462
+FCTE0111;Energia Hidráulica;74;37;34;3;0.5;0.4595
+FCTE0111;Energia Hidráulica;76;39;36;1;0.5132;0.4737
+FCTE0111;Energia Hidráulica;44;33;10;1;0.75;0.2273
+FCTE0111;Energia Hidráulica;73;50;16;7;0.6849;0.2192
+FCTE0111;Energia Hidráulica;28;18;10;0;0.6429;0.3571
+FCTE0111;Energia Hidráulica;66;39;26;1;0.5909;0.3939
+FCTE0111;Energia Hidráulica;37;22;14;1;0.5946;0.3784
+FCTE0111;Energia Hidráulica;18;14;4;0;0.7778;0.2222
+FCTE0111;Energia Hidráulica;42;33;8;1;0.7857;0.1905
+FCTE0111;Energia Hidráulica;60;40;19;1;0.6667;0.3167
+FCTE0111;Energia Hidráulica;22;18;4;0;0.8182;0.1818
+FCTE0111;Energia Hidráulica;61;39;22;0;0.6393;0.3607
+FCTE0112;Hidrogênio e Células a Combustível;29;25;2;2;0.8621;0.069
+FCTE0112;Hidrogênio e Células a Combustível;51;42;8;1;0.8235;0.1569
+FCTE0112;Hidrogênio e Células a Combustível;61;44;9;8;0.7213;0.1475
+FCTE0112;Hidrogênio e Células a Combustível;29;25;3;1;0.8621;0.1034
+FCTE0112;Hidrogênio e Células a Combustível;72;63;8;1;0.875;0.1111
+FCTE0112;Hidrogênio e Células a Combustível;80;66;10;4;0.825;0.125
+FCTE0112;Hidrogênio e Células a Combustível;66;55;7;4;0.8333;0.1061
+FCTE0112;Hidrogênio e Células a Combustível;29;18;10;1;0.6207;0.3448
+FCTE0112;Hidrogênio e Células a Combustível;58;55;1;2;0.9483;0.0172
+FCTE0112;Hidrogênio e Células a Combustível;56;51;4;1;0.9107;0.0714
+FCTE0112;Hidrogênio e Células a Combustível;39;34;0;5;0.8718;0.0
+FCTE0112;Hidrogênio e Células a Combustível;24;22;2;0;0.9167;0.0833
+FCTE0112;Hidrogênio e Células a Combustível;64;47;14;3;0.7344;0.2188
+FCTE0112;Hidrogênio e Células a Combustível;71;62;5;4;0.8732;0.0704
+FCTE0112;Hidrogênio e Células a Combustível;68;54;9;5;0.7941;0.1324
+FCTE0112;Hidrogênio e Células a Combustível;47;44;1;2;0.9362;0.0213
+FCTE0112;Hidrogênio e Células a Combustível;71;49;17;5;0.6901;0.2394
+FCTE0112;Hidrogênio e Células a Combustível;71;49;20;2;0.6901;0.2817
+FCTE0112;Hidrogênio e Células a Combustível;20;17;2;1;0.85;0.1
+FCTE0112;Hidrogênio e Células a Combustível;68;52;13;3;0.7647;0.1912
+FCTE0112;Hidrogênio e Células a Combustível;47;38;6;3;0.8085;0.1277
+FCTE0112;Hidrogênio e Células a Combustível;18;17;0;1;0.9444;0.0
+FCTE0112;Hidrogênio e Células a Combustível;66;53;12;1;0.803;0.1818
+FCTE0112;Hidrogênio e Células a Combustível;35;25;7;3;0.7143;0.2
+FCTE0113;Gestão Ambiental no Setor Energético;20;15;2;3;0.75;0.1
+FCTE0113;Gestão Ambiental no Setor Energético;52;40;4;8;0.7692;0.0769
+FCTE0113;Gestão Ambiental no Setor Energético;45;33;12;0;0.7333;0.2667
+FCTE0113;Gestão Ambiental no Setor Energético;19;14;5;0;0.7368;0.2632
+FCTE0113;Gestão Ambiental no Setor Energético;56;48;8;0;0.8571;0.1429
+FCTE0113;Gestão Ambiental no Setor Energético;47;32;14;1;0.6809;0.2979
+FCTE0113;Gestão Ambiental no Setor Energético;36;26;8;2;0.7222;0.2222
+FCTE0113;Gestão Ambiental no Setor Energético;79;67;7;5;0.8481;0.0886
+FCTE0113;Gestão Ambiental no Setor Energético;67;54;9;4;0.806;0.1343
+FCTE0113;Gestão Ambiental no Setor Energético;43;38;3;2;0.8837;0.0698
+FCTE0113;Gestão Ambiental no Setor Energético;55;45;5;5;0.8182;0.0909
+FCTE0113;Gestão Ambiental no Setor Energético;62;48;4;10;0.7742;0.0645
+FCTE0113;Gestão Ambiental no Setor Energético;23;19;2;2;0.8261;0.087
+FCTE0113;Gestão Ambiental no Setor Energético;65;51;9;5;0.7846;0.1385
+FCTE0113;Gestão Ambiental no Setor Energético;49;46;1;2;0.9388;0.0204
+FCTE0113;Gestão Ambiental no Setor Energético;26;20;3;3;0.7692;0.1154
+FCTE0113;Gestão Ambiental no Setor Energético;40;31;4;5;0.775;0.1
+FCTE0113;Gestão Ambiental no Setor Energético;26;18;6;2;0.6923;0.2308
+FCTE0113;Gestão Ambiental no Setor Energético;24;22;0;2;0.9167;0.0
+FCTE0113;Gestão Ambiental no Setor Energético;78;55;17;6;0.7051;0.2179
+FCTE0113;Gestão Ambiental no Setor Energético;60;49;8;3;0.8167;0.1333
+FCTE0113;Gestão Ambiental no Setor Energético;39;25;6;8;0.641;0.1538
+FCTE0113;Gestão Ambiental no Setor Energético;40;29;11;0;0.725;0.275
+FCTE0113;Gestão Ambiental no Setor Energético;60;41;16;3;0.6833;0.2667
+FCTE0114;Instalações Elétricas Industriais;74;58;15;1;0.7838;0.2027
+FCTE0114;Instalações Elétricas Industriais;61;47;9;5;0.7705;0.1475
+FCTE0114;Instalações Elétricas Industriais;32;23;6;3;0.7188;0.1875
+FCTE0114;Instalações Elétricas Industriais;21;16;5;0;0.7619;0.2381
+FCTE0114;Instalações Elétricas Industriais;20;17;1;2;0.85;0.05
+FCTE0114;Instalações Elétricas Industriais;34;26;4;4;0.7647;0.1176
+FCTE0114;Instalações Elétricas Industriais;18;11;5;2;0.6111;0.2778
+FCTE0114;Instalações Elétricas Industriais;26;20;3;3;0.7692;0.1154
+FCTE0114;Instalações Elétricas Industriais;29;25;2;2;0.8621;0.069
+FCTE0114;Instalações Elétricas Industriais;20;16;1;3;0.8;0.05
+FCTE0114;Instalações Elétricas Industriais;61;35;21;5;0.5738;0.3443
+FCTE0114;Instalações Elétricas Industriais;24;18;3;3;0.75;0.125
+FCTE0114;Instalações Elétricas Industriais;76;57;15;4;0.75;0.1974
+FCTE0114;Instalações Elétricas Industriais;51;34;12;5;0.6667;0.2353
+FCTE0114;Instalações Elétricas Industriais;21;16;4;1;0.7619;0.1905
+FCTE0114;Instalações Elétricas Industriais;48;44;3;1;0.9167;0.0625
+FCTE0114;Instalações Elétricas Industriais;44;31;7;6;0.7045;0.1591
+FCTE0114;Instalações Elétricas Industriais;69;59;9;1;0.8551;0.1304
+FCTE0114;Instalações Elétricas Industriais;63;45;13;5;0.7143;0.2063
+FCTE0114;Instalações Elétricas Industriais;71;53;14;4;0.7465;0.1972
+FCTE0114;Instalações Elétricas Industriais;80;60;14;6;0.75;0.175
+FCTE0114;Instalações Elétricas Industriais;35;25;4;6;0.7143;0.1143
+FCTE0114;Instalações Elétricas Industriais;31;23;4;4;0.7419;0.129
+FCTE0114;Instalações Elétricas Industriais;38;28;7;3;0.7368;0.1842
+FCTE0115;Política e Regulação de Energia;27;19;6;2;0.7037;0.2222
+FCTE0115;Política e Regulação de Energia;75;64;9;2;0.8533;0.12
+FCTE0115;Política e Regulação de Energia;21;17;2;2;0.8095;0.0952
+FCTE0115;Política e Regulação de Energia;53;41;10;2;0.7736;0.1887
+FCTE0115;Política e Regulação de Energia;72;51;17;4;0.7083;0.2361
+FCTE0115;Política e Regulação de Energia;30;25;4;1;0.8333;0.1333
+FCTE0115;Política e Regulação de Energia;78;60;14;4;0.7692;0.1795
+FCTE0115;Política e Regulação de Energia;35;23;11;1;0.6571;0.3143
+FCTE0115;Política e Regulação de Energia;41;35;6;0;0.8537;0.1463
+FCTE0115;Política e Regulação de Energia;58;47;11;0;0.8103;0.1897
+FCTE0115;Política e Regulação de Energia;67;53;11;3;0.791;0.1642
+FCTE0115;Política e Regulação de Energia;67;50;17;0;0.7463;0.2537
+FCTE0115;Política e Regulação de Energia;24;18;6;0;0.75;0.25
+FCTE0115;Política e Regulação de Energia;53;44;9;0;0.8302;0.1698
+FCTE0115;Política e Regulação de Energia;79;68;9;2;0.8608;0.1139
+FCTE0115;Política e Regulação de Energia;39;27;10;2;0.6923;0.2564
+FCTE0115;Política e Regulação de Energia;62;47;14;1;0.7581;0.2258
+FCTE0115;Política e Regulação de Energia;43;41;1;1;0.9535;0.0233
+FCTE0115;Política e Regulação de Energia;82;67;14;1;0.8171;0.1707
+FCTE0115;Política e Regulação de Energia;61;49;10;2;0.8033;0.1639
+FCTE0115;Política e Regulação de Energia;41;32;9;0;0.7805;0.2195
+FCTE0115;Política e Regulação de Energia;42;30;9;3;0.7143;0.2143
+FCTE0115;Política e Regulação de Energia;52;35;14;3;0.6731;0.2692
+FCTE0115;Política e Regulação de Energia;45;35;10;0;0.7778;0.2222
