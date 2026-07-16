@@ -1,0 +1,55 @@
+name: Lint Codebase
+
+on:
+  push:
+    branches:
+      - main
+      - deploy
+  pull_request:
+    branches:
+      - main
+      - deploy
+
+jobs:
+  lint-backend:
+    name: Lint .NET Backend
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup .NET 10.x
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Run dotnet linter
+        run: |
+          dotnet restore Backend/api.csproj
+          dotnet format Backend/api.csproj --verify-no-changes --verbosity d --no-restore
+
+  lint-frontend:
+    name: Lint React Frontend
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install frontend dependencies
+        working-directory: Frontend
+        run: npm ci
+
+      - name: Run eslint
+        working-directory: Frontend
+        run: npm run lint

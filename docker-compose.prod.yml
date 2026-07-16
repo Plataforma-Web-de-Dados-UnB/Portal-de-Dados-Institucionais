@@ -38,9 +38,7 @@ services:
   unb-portal-backend:
     container_name: unb_portal_backend
     restart: always
-    build:
-      context: .
-      dockerfile: Backend/Dockerfile.prod
+    image: ghcr.io/plataforma-web-de-dados-unb/unb-portal-backend:latest
     depends_on:
       unb-portal-postgres:
         condition: service_healthy
@@ -69,9 +67,7 @@ services:
   unb-portal-pipeline-worker:
     container_name: unb_portal_pipeline_worker
     restart: always
-    build:
-      context: ./Data-Processor-Worker
-      dockerfile: Dockerfile
+    image: ghcr.io/plataforma-web-de-dados-unb/unb-portal-worker:latest
     depends_on:
       unb-portal-redis:
         condition: service_healthy
@@ -84,9 +80,7 @@ services:
   unb-portal-superset:
     container_name: unb_portal_superset
     restart: always
-    build:
-      context: ./Superset
-      dockerfile: Dockerfile
+    image: ghcr.io/plataforma-web-de-dados-unb/unb-portal-superset:latest
     depends_on:
       unb-portal-postgres:
         condition: service_healthy
