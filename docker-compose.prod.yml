@@ -61,6 +61,7 @@ services:
       - Jwt__Issuer=${JWT_ISSUER}
       - Jwt__Audience=${JWT_AUDIENCE}
       - Superset__GuestTokenJwtSecret=${SUPERSET_GUEST_TOKEN_JWT_SECRET}
+      - Superset__BaseUrl=https://tccsuperset.fabriciomqueiroz.com.br
       - Cors__AllowedOrigins=${FRONTEND_ALLOWED_ORIGINS}
       - Mascaramento__HmacKey=${MASCARAMENTO_HMAC_KEY}
       - Email__Username=${GMAIL_USERNAME}
