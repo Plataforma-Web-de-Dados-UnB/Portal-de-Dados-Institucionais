@@ -47,6 +47,9 @@ services:
         condition: service_healthy
     ports:
       - "5042:5042"
+    networks:
+      - default
+      - easypanel
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
       - ASPNETCORE_URLS=http://0.0.0.0:5042
@@ -89,6 +92,9 @@ services:
         condition: service_healthy
     ports:
       - "8088:8088"
+    networks:
+      - default
+      - easypanel
     environment:
       - SUPERSET_SECRET_KEY=${SUPERSET_SECRET_KEY}
       - SUPERSET_ADMIN_PASSWORD=${SUPERSET_ADMIN_PASSWORD}
@@ -119,3 +125,9 @@ volumes:
   postgres_data:
   redis_data:
   superset_home:
+
+networks:
+  default:
+  easypanel:
+    name: easypanel
+    external: true
