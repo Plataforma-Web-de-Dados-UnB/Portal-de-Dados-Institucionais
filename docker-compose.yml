@@ -11,8 +11,8 @@ services:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
-      - ./Superset/init-superset-db.sql:/docker-entrypoint-initdb.d/01-init-superset-db.sql:ro
-      - ./Superset/init-superset-user.sql:/docker-entrypoint-initdb.d/02-init-superset-user.sql:ro
+      - ./docs/db-init/init-superset-db.sql:/docker-entrypoint-initdb.d/01-init-superset-db.sql:ro
+      - ./docs/db-init/init-superset-user.sql:/docker-entrypoint-initdb.d/02-init-superset-user.sql:ro
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
       interval: 5s
