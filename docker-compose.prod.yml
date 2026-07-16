@@ -1,0 +1,124 @@
+services:
+  unb-portal-postgres:
+    image: postgres:17
+    container_name: unb_portal_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    # Em produção, o banco de dados não precisa expor a porta 5432 para a internet.
+    # Descomente as linhas abaixo se precisar de acesso direto ao banco por ferramentas externas.
+    # ports:
+    #   - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./Superset/init-superset-db.sql:/docker-entrypoint-initdb.d/01-init-superset-db.sql:ro
+      - ./Superset/init-superset-user.sql:/docker-entrypoint-initdb.d/02-init-superset-user.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 10s
+      retries: 10
+
+  unb-portal-redis:
+    image: redis:7-alpine
+    container_name: unb_portal_redis
+    restart: always
+    command: redis-server --requirepass ${REDIS_PASSWORD} --appendonly yes
+    # Não expomos a porta do Redis para o ambiente externo por motivos de segurança.
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "-a", "${REDIS_PASSWORD}", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  unb-portal-backend:
+    container_name: unb_portal_backend
+    restart: always
+    build:
+      context: .
+      dockerfile: Backend/Dockerfile.prod
+    depends_on:
+      unb-portal-postgres:
+        condition: service_healthy
+      unb-portal-redis:
+        condition: service_healthy
+    ports:
+      - "5042:5042"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://0.0.0.0:5042
+      - ConnectionStrings__DefaultConnection=Host=unb-portal-postgres;Port=5432;Database=${POSTGRES_DB};Username=${POSTGRES_USER};Password=${POSTGRES_PASSWORD}
+      - ConnectionStrings__RedisConnection=unb-portal-redis:6379,password=${REDIS_PASSWORD}
+      - Jwt__Key=${JWT_KEY}
+      - Jwt__Issuer=${JWT_ISSUER}
+      - Jwt__Audience=${JWT_AUDIENCE}
+      - Superset__GuestTokenJwtSecret=${SUPERSET_GUEST_TOKEN_JWT_SECRET}
+      - Cors__AllowedOrigins=${FRONTEND_ALLOWED_ORIGINS}
+      - Mascaramento__HmacKey=${MASCARAMENTO_HMAC_KEY}
+      - Email__Username=${GMAIL_USERNAME}
+      - Email__Password=${GMAIL_APP_PASSWORD}
+      - Email__FromAddress=${GMAIL_USERNAME}
+      - Email__FrontendBaseUrl=${FRONTEND_BASE_URL}
+      - SuperAdmin__Email=${SUPERADMIN_EMAIL}
+      - SuperAdmin__Password=${SUPERADMIN_PASSWORD}
+
+  unb-portal-pipeline-worker:
+    container_name: unb_portal_pipeline_worker
+    restart: always
+    build:
+      context: ./Data-Processor-Worker
+      dockerfile: Dockerfile
+    depends_on:
+      unb-portal-redis:
+        condition: service_healthy
+      unb-portal-postgres:
+        condition: service_healthy
+    environment:
+      - REDIS_URL=redis://:${REDIS_PASSWORD}@unb-portal-redis:6379/0
+      - DATABASE_URL=postgresql://${POSTGRES_USER}:${POSTGRES_PASSWORD}@unb-portal-postgres:5432/${POSTGRES_DB}
+
+  unb-portal-superset:
+    container_name: unb_portal_superset
+    restart: always
+    build:
+      context: ./Superset
+      dockerfile: Dockerfile
+    depends_on:
+      unb-portal-postgres:
+        condition: service_healthy
+    ports:
+      - "8088:8088"
+    environment:
+      - SUPERSET_SECRET_KEY=${SUPERSET_SECRET_KEY}
+      - SUPERSET_ADMIN_PASSWORD=${SUPERSET_ADMIN_PASSWORD}
+      - SUPERSET_GUEST_TOKEN_JWT_SECRET=${SUPERSET_GUEST_TOKEN_JWT_SECRET}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - SUPERSET_DB=superset_meta
+      - JWT_KEY=${JWT_KEY}
+      - JWT_ISSUER=${JWT_ISSUER}
+      - JWT_AUDIENCE=${JWT_AUDIENCE}
+      - PYTHONPATH=/app/pythonpath
+      - SUPERSET_CONFIG_PATH=/app/pythonpath/superset_config.py
+      - POSTGRES_DB=${POSTGRES_DB}
+      - SUPERSET_DB_USER=${SUPERSET_DB_USER}
+      - SUPERSET_DB_PASSWORD=${SUPERSET_DB_PASSWORD}
+      - SESSION_COOKIE_SAMESITE=None
+      - SESSION_COOKIE_SECURE=True
+    volumes:
+      - superset_home:/app/superset_home
+    command: >
+      bash -c "superset db upgrade &&
+      superset fab create-admin --username admin --firstname Admin --lastname UnB --email admin@unb.br --password $$SUPERSET_ADMIN_PASSWORD || true &&
+      superset init &&
+      python /app/pythonpath/init_database.py &&
+      gunicorn --bind 0.0.0.0:8088 --workers 2 --timeout 120 'superset.app:create_app()'"
+
+volumes:
+  postgres_data:
+  redis_data:
+  superset_home:
