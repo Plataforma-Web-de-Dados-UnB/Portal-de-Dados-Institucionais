@@ -47,7 +47,7 @@ CATEGORIAS = [
             "Dados sobre cursos de graduação, matrículas, turmas e "
             "desempenho acadêmico dos discentes da UnB."
         ),
-        "icone": "graduation.svg",
+        "icone": "graduated.svg",
         "sort_ordem": 1,
     },
     {
@@ -56,8 +56,8 @@ CATEGORIAS = [
             "Informações sobre programas de pós-graduação, egressos, "
             "dissertações e teses da universidade."
         ),
-        "icone": "graduated.svg",
-        "sort_ordem": 2,
+        "icone": "graduated-2.svg",
+        "sort_ordem": 9,
     },
     {
         "nome": "Restaurante Universitário",
@@ -120,7 +120,7 @@ CATEGORIAS = [
             "transferências para ingresso na UnB."
         ),
         "icone": "searching.svg",
-        "sort_ordem": 9,
+        "sort_ordem": 2,
     },
     {
         "nome": "Institucional",
