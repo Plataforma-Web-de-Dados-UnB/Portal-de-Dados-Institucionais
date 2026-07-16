@@ -1,0 +1,51 @@
+name: Build and Deploy to Production
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push Backend
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Backend/Dockerfile.prod
+          push: true
+          tags: ghcr.io/plataforma-web-de-dados-unb/unb-portal-backend:latest
+
+      - name: Build and push Worker
+        uses: docker/build-push-action@v5
+        with:
+          context: ./Data-Processor-Worker
+          file: ./Data-Processor-Worker/Dockerfile
+          push: true
+          tags: ghcr.io/plataforma-web-de-dados-unb/unb-portal-worker:latest
+
+      - name: Build and push Superset
+        uses: docker/build-push-action@v5
+        with:
+          context: ./Superset
+          file: ./Superset/Dockerfile
+          push: true
+          tags: ghcr.io/plataforma-web-de-dados-unb/unb-portal-superset:latest
+
+      - name: Trigger EasyPanel Webhook
+        run: |
+          curl -X POST "${{ secrets.EASYPANEL_WEBHOOK_URL }}"
